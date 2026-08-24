@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  id-token: write
 
 jobs:
   brief:
@@ -20,6 +19,12 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # このワークフローではClaudeはファイルを生成するだけで、コミット・pushは
+          # 後続ステップがgithub.tokenで行う。トークンを明示的に渡すことで、
+          # Claude GitHub App経由のトークン交換（OIDC）をスキップさせている。
+          # 渡さないとAppのインストール状態に依存し、アカウント名変更などで
+          # "User does not have write access on this repository" で失敗する。
+          github_token: ${{ github.token }}
           prompt: |
             あなたはaraiさん専属のニュースアナリストです。araiさんはAI業界への転職・キャリアアップを目指しており、毎朝AI業界・日本経済・日本政治の動向を手軽にキャッチアップしたいと考えています。以下を実行してください。
 
