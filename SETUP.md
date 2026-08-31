@@ -36,4 +36,10 @@ npx wrangler deploy
 
 1. **`worker/wrangler.toml` の `GITHUB_REPO` と `ALLOWED_ORIGIN`** を新しいアカウント名に更新して `npx wrangler deploy`。ここが古いままだと、CORSでブロックされてお気に入りの保存が失敗する。
 2. **スマホ側のURL** — ホーム画面のアイコンを削除して新URLから追加し直す。iOSショートカットのオートメーションのURLも書き換える。
-3. **Claude GitHub Appの再認可** — アカウント名変更後、毎朝のワークフローが `App token exchange failed: 401 Unauthorized - User does not have write access on this repository` で失敗する。https://github.com/settings/installations からClaudeのアプリを開き、このリポジトリへのアクセスを再設定する。
+3. **ワークフローの認証** — アカウント名変更で、毎朝の生成が2種類の理由で失敗した。どちらも `daily-brief.yml` 側で解消済み。
+   - `App token exchange failed: 401 Unauthorized - User does not have write access on this repository`
+     → Claude GitHub Appのインストール状態に依存していたのが原因。`github_token: ${{ github.token }}` を明示的に渡してApp経由のトークン交換をスキップさせた。このワークフローではClaudeはファイルを生成するだけで、コミット・pushは後続ステップが行うため、App権限は不要。
+   - `Workflow initiated by non-human actor: 512431041014arai-hue (actor not found on GitHub)`
+     → 定時実行(schedule)の実行者が旧アカウント名のまま記録されており、そのアカウントが存在しないため人間の操作と判定されず弾かれていた（手動実行だけ成功していた原因）。`allowed_bots` に旧アカウント名を指定して回避した。
+
+**教訓**: アカウント名を変えると、リポジトリURLが自動追従するぶん問題に気づきにくい。Pagesの公開URL、Worker側の設定、ワークフローの実行者名という「アカウント名を文字列として持っている箇所」が個別に壊れるため、変更後は定時実行が成功しているかを必ず確認する。
