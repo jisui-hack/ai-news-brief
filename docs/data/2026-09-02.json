@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-02",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-02-ai-1",
+          "star": true,
+          "headline": "Anthropic、新モデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表",
+          "summary": "コーディング・科学研究能力を大幅強化。Mythosはセキュリティ審査済み組織向けの限定提供版。",
+          "detail": "両モデルは同一構造でセーフガードの適用水準のみが異なり、Fable 5.1は一般提供、Mythos 5.1はサイバーセキュリティ・ライフサイエンス分野の審査を通過した組織向け限定提供。科学研究ベンチマークで52.6%を達成し前世代を大きく上回った一方、System Cardでは透かし検知回避など監視上の課題も開示された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/"
+        },
+        {
+          "id": "2026-09-02-ai-2",
+          "star": true,
+          "headline": "Anthropic、企業向け新機能「Enterprise Frontier Safeguards」を発表",
+          "summary": "ゼロデータ保持と同等のプライバシーを保ちながら不正利用検知を継続できる新機能。",
+          "detail": "従来の30日間データ保持ポリシーに対し規制業種企業から利用しづらいとの声があり、監視データを顧客クラウド(AWS S3等)に保存しAnthropic従業員のレビューを不要にすることで折衷案とした。オプトイン方式で必要な機能のみ有効化でき、秋から段階提供開始。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/"
+        },
+        {
+          "id": "2026-09-02-ai-3",
+          "star": false,
+          "headline": "Anthropic、AIの安全性研究をAI自身に任せる実験・アライメント強化策を公表",
+          "summary": "モデルの整合性向上に向けた取り組みの一環として、AIによる安全性研究支援の実験結果を発表。",
+          "detail": "アライメントおよびセキュリティ体制の改善に向けた継続的な取り組みの一つとして公表された。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+        },
+        {
+          "id": "2026-09-02-ai-4",
+          "star": true,
+          "headline": "OpenAI、ChatGPTに広告表示機能「ChatGPT Ads」を導入",
+          "summary": "米国など先行5カ国で企業広告の配信を開始。年換算売上高は約10億ドル規模に。",
+          "detail": "「Ads Manager」を通じ広告主が出稿できる仕組みを構築し、インド・UAE・豪州・カナダ・仏で先行展開。米国では6カ月で年換算売上高が約10億ドルに達したが、2026年の広告収益目標25億ドルには届いていない。2026年末までのIPO検討も背景にあるとみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html"
+        },
+        {
+          "id": "2026-09-02-ai-5",
+          "star": false,
+          "headline": "米国防総省、\"軍事向けChatGPT\"「ChatGPT Mil」を導入",
+          "summary": "非機密文書業務を支援する専用版で、軍関係者を含め300万人が利用可能に。",
+          "detail": "既存のGoogle「Gemini」、SpaceX「Grok」に続き3社目のAIモデル採用となる。プラットフォーム「GenAI.mil」上で段階的に機能を拡充している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/"
+        },
+        {
+          "id": "2026-09-02-ai-6",
+          "star": true,
+          "headline": "NVIDIA、台湾MediaTekの転換社債に35億ドル(約5600億円)を投資",
+          "summary": "既存のカスタムシリコン協業を資本面にも拡張し、AI半導体分野での連携を深化。",
+          "detail": "既存の「GB10 Grace Blackwell Superchip」協業を土台に、NVLinkエコシステムへの取り込みでカスタムチップ志向の大口顧客を囲い込む狙い。AIインフラ・ローカルAI・車載の3分野で複数世代にわたり連携する。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/"
+        },
+        {
+          "id": "2026-09-02-ai-7",
+          "star": true,
+          "headline": "ソフトバンクG傘下SBエナジー、米国上場を申請 AI収入ゼロでも評価額8兆円規模",
+          "summary": "データセンター事業の収益はまだ無いが、出資するNVIDIAの信用力が市場評価を支える構図。",
+          "detail": "NVIDIAは同社に30億ドル(約4800億円)を出資、オハイオ州の大規模データセンターにはOpenAIが顧客として入る計画。AIデータセンター投資ブームを象徴する事例として注目されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC018SK0R00C26A9000000/"
+        },
+        {
+          "id": "2026-09-02-ai-8",
+          "star": false,
+          "headline": "Instagram、「AIクリエイター」ラベルを「AI生成プロフィール」に改称",
+          "summary": "AI生成コンテンツの表示ルールを見直し、利用者への透明性向上を図る。",
+          "detail": "ラベル名称の変更により、AIが生成したプロフィールであることをより明確に示す狙い。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/01/2000001010/"
+        },
+        {
+          "id": "2026-09-02-ai-9",
+          "star": false,
+          "headline": "三菱UFJFG、「AIネイティブ」な企業への変革方針を表明",
+          "summary": "亀澤会長がAIを協働する労働力と位置付け、推進部署を300人体制に拡大する方針を示した。",
+          "detail": "AIを「代理人」ではなく人と共生・協働する存在と捉え、AI推進のCoE(センターオブエクセレンス)をテック企業などからの採用で拡充する計画。",
+          "sourceLabel": "財界オンライン",
+          "sourceUrl": "https://www.zaikai.jp/articles/detail/5520"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-02-econ-1",
+          "star": true,
+          "headline": "東京株、一時1500円超安 「魔の9月」入りで警戒広がる",
+          "summary": "米長期金利の上昇や原油高を背景にリスク回避の売りが優勢に。",
+          "detail": "前日の米国株でも金利上昇・地政学リスクへの警戒が強まっており、その流れが東京市場にも波及した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200317&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-2",
+          "star": true,
+          "headline": "円相場、160円台前半に下落 政府が円安是正へ「断固たる措置」を表明",
+          "summary": "対ドルで前日比22銭の円安となる160円20〜20銭、対ユーロでも下落。",
+          "detail": "日米金利差や日銀の利上げ観測を背景に円安が進行。政府・日銀は秩序ある水準維持へ改めて姿勢を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200308&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-3",
+          "star": true,
+          "headline": "米長期金利、1年8カ月ぶり4.8%に上昇 高止まり続く",
+          "summary": "政策の不確実性と国債供給圧力が背景。投資家は「選別的」な投資姿勢を強めている。",
+          "detail": "日銀が四半期ごとに利上げを加速し、2027年7月までに政策金利2%に達するとの見方も市場では意識されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090100893&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-4",
+          "star": false,
+          "headline": "G20財務相会議、中国念頭に「非市場的政策排除」で合意 共同声明の採択は見送り",
+          "summary": "過剰な対外黒字国に国内消費喚起を求める議長声明を採択。",
+          "detail": "中国の反対で全会一致の共同声明は見送られた(米ノースカロライナ州、9月1日閉幕)。補助金による過剰生産で輸出攻勢をかける中国を強く牽制する内容。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200163&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-5",
+          "star": false,
+          "headline": "政府、コメの需給安定化へ備蓄米買い戻しを決定",
+          "summary": "民間在庫の積み上がりで米価が下落基調のため、価格下支えへ農水省が買い戻しを決めた。",
+          "detail": "「令和の米騒動」対応で放出した備蓄米により価格は3000円台まで下がり2000円台も視野に。生産者からコスト割れ懸念が強まっていた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101048&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-6",
+          "star": false,
+          "headline": "住宅ローン固定金利が上昇、「フラット35」9月適用金利は過去最高水準に",
+          "summary": "長期金利が約30年ぶりに3%到達したことを受け、フラット35は年3.4〜5.7%に。",
+          "detail": "中小企業の資金調達コストも上昇し、有利子負債比率の高い企業への影響が懸念される。一方で預金・国債金利上昇による利子収入増のプラス面もある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101007&g=eco"
+        },
+        {
+          "id": "2026-09-02-econ-7",
+          "star": false,
+          "headline": "不動産投資商品「みんなで大家さん」、運営会社の事業許可を大阪府・東京都が取り消し",
+          "summary": "運営会社は2026年3月期に2881億円の債務超過に陥り、出資金の返済が滞っていた。",
+          "detail": "出資者への虚偽説明や損害発生が指摘され、両都道府県とも5年間の許可再取得を禁止する処分とした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101143&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-02-pol-1",
+          "star": true,
+          "headline": "プーチン大統領、北方領土訪問めぐり「関係悪化は日本の責任」と主張",
+          "summary": "択捉島訪問への日本の抗議に「驚きはなかった」と反論し、日ロ関係は一段と悪化。",
+          "detail": "プーチン氏は8月13日に択捉島を初訪問しており、高市首相は「断じて許容できない」と強く抗議していた。ロシア側は北方四島を大戦の結果としてロシア領とする立場を崩しておらず、平和条約交渉の停滞が続く。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200212&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-2",
+          "star": true,
+          "headline": "野党・中道改革連合が分裂へ、「分割」方式が有力 自民は公明取り込みに期待",
+          "summary": "3党合流断念を受け、公明党復党を目指す約28人と去就不透明な立民系約21人に分かれる見通し。",
+          "detail": "分割方式なら両派とも政党交付金を受け取れる。参院で過半数に4議席足りない自民は公明との連携強化を模索しており、税調幹部は消費税減税での協調余地にも言及した。週内に方向性を固める方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101046&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-3",
+          "star": false,
+          "headline": "ロシア、日米豪共同訓練「オリエント・シールド26」を「容認できない」と警告",
+          "summary": "北海道での訓練や中距離ミサイル「タイフォン」の日本配備を安全保障上の脅威と非難。",
+          "detail": "ロシア外務省が対抗措置を取る可能性を示唆した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101057&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-4",
+          "star": false,
+          "headline": "総務省、AI推進のため「AX・新技術戦略室」を新設",
+          "summary": "政府の「第2期人工知能基本計画」を受け、AI施策の取りまとめと関係省庁連携を担う組織を設置。",
+          "detail": "林芳正総務大臣が9月1日の会見で発表した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/"
+        },
+        {
+          "id": "2026-09-02-pol-5",
+          "star": false,
+          "headline": "デジタル庁、行政サービスへの自律型AI活用を提言 発足5年で基盤整う",
+          "summary": "マイナンバーカード発行枚数は1億400万枚超に倍増。人手不足対応へAIエージェント導入を目指す。",
+          "detail": "三角育生デジタル監は「気付かない制度に気付き手続きまで進む世界」を目標に掲げる一方、ハルシネーション(誤情報生成)対策や法制度の見直しが課題とした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090100817&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-6",
+          "star": false,
+          "headline": "防衛省、2027年度予算概算要求で過去最大8兆8908億円 指揮統制へのAI導入・攻撃ドローン取得を加速",
+          "summary": "23〜27年度の防衛力強化計画の最終年度にあたる予算で、GDP比2%目標は24年度に前倒しで達成済み。",
+          "detail": "長期化する戦闘に備え、防衛装備品の製造工場を国有化した上で民間企業に管理を委託する新制度の創設も盛り込まれた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090100388&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-7",
+          "star": false,
+          "headline": "高市首相、長期金利上昇に「コメントしない」 経済財政運営は「適時適切に判断」",
+          "summary": "新発10年物国債利回りが3%台に上昇したことを受けた発言。",
+          "detail": "市場への影響を懸念し具体的な言及を避けつつ、金利動向を含め経済状況を評価・分析しながら判断していく姿勢を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090101050&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-8",
+          "star": false,
+          "headline": "外務省、「サイバー安全保障政策室」を新設",
+          "summary": "AI発展に伴うサイバー攻撃リスクの増加を受け、関係国協議や国際ルール形成を担う新組織を設置。",
+          "detail": "総合外交政策局内に設置され、デジタル時代における国家安全保障の強化を目指す。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090100687&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-9",
+          "star": false,
+          "headline": "茂木外相、中東欧4カ国(V4)外相と5年ぶり会談 AI分野の連携推進で一致",
+          "summary": "法の支配に基づく国際秩序強化への協力や、特定国依存を避けた供給網構築の重要性も共有。",
+          "detail": "日系企業900社以上がV4各国に進出している点を踏まえ、地域経済発展への継続的貢献も表明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090100661&g=pol"
+        },
+        {
+          "id": "2026-09-02-pol-10",
+          "star": false,
+          "headline": "衆院予算委、野党が中東情勢・物価高対策で集中審議を要求",
+          "summary": "熊本地震対応も含め、政府に追加審議の実施を求めた。",
+          "detail": "野党側は物価高への対応策や中東情勢を巡る政府方針の説明を求めている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260901de47602"
+        }
+      ]
+    }
+  ]
+}
