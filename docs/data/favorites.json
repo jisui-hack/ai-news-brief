@@ -1,6 +1,16 @@
 {
   "favorites": [
     {
+      "date": "2026-09-02",
+      "articleId": "2026-09-02-ai-2",
+      "headline": "Anthropic、企業向け新機能「Enterprise Frontier Safeguards」を発表",
+      "summary": "ゼロデータ保持と同等のプライバシーを保ちながら不正利用検知を継続できる新機能。",
+      "category": "AI業界・技術関連",
+      "sourceLabel": "ITmedia",
+      "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+      "favoritedAt": "2026-09-02T03:57:07.640Z"
+    },
+    {
       "date": "2026-08-16",
       "articleId": "2026-08-16-econ-2",
       "headline": "「債券自警団は目覚めるか」財政赤字とAI投資が米国債に重圧",
