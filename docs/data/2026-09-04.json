@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-04",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-04-ai-1",
+          "star": true,
+          "headline": "NVIDIA、Hugging Faceを約2兆円で買収合意",
+          "summary": "NVIDIAが129億3030万ドル（約2兆円）でHugging Faceを買収すると発表。",
+          "detail": "買収後もHugging Faceはオープンプラットフォームとしてオープンウェイトモデルのサポートを続けるとしている。フアンCEOはXで、オープンモデルが安全性・イノベーション・主権性を高めると強調した。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/"
+        },
+        {
+          "id": "2026-09-04-ai-2",
+          "star": true,
+          "headline": "OpenAI「GPT-6 Astra」公開、サイバー能力が初の最高評価「Critical」に",
+          "summary": "OpenAIの安全指針でサイバーセキュリティ能力が最高区分と認定された初のモデル。",
+          "detail": "9月3日（現地時間）発表、数日中にChatGPT各プランやAPI、AWSで順次提供予定。ExploitBenchで100％、評価過程で未知のゼロデイ脆弱性2件を発見・悪用する結果を示し、防御側支援プログラム「Daybreak」を通じた提供拡大も計画している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/"
+        },
+        {
+          "id": "2026-09-04-ai-3",
+          "star": false,
+          "headline": "Meta「Muse Spark 1.3」公開、コーディング・エージェント性能を強化",
+          "summary": "前モデル比でツール呼び出し・トークン消費を削減し性能を向上。",
+          "detail": "9月2日公開。DeepSWE v1.1ベンチマークで55.0から75.4に向上するなど性能改善。ザッカーバーグCEOは「コーディングとエージェント的作業でこれまでで最大の飛躍」とアピールした。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/"
+        },
+        {
+          "id": "2026-09-04-ai-4",
+          "star": false,
+          "headline": "Google「Gemini 3.8 Flash」公開、価格据え置きで防御特化版「Cyber」も",
+          "summary": "前モデルから3週間での新版投入、サイバー防御特化版も同時発表。",
+          "detail": "価格は3.7 Flashと同水準に据え置き、DeepSWE v1.1ベンチマークが65.3％から73.7％に向上。防御側に限定提供する「3.8 Flash Cyber」は新設の「Fairwind Program」を通じ、政府機関など650以上の組織に提供される。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/"
+        },
+        {
+          "id": "2026-09-04-ai-5",
+          "star": false,
+          "headline": "NEC、Anthropicと協業しサイバー防衛の新サービス提供開始",
+          "summary": "生成AIで顧客IT環境の脅威を特定・優先順位付けする新サービス。",
+          "detail": "9月2日提供開始の「BluStellar Intelligent Managed Service」は、IT・ネットワーク管理、脅威管理、脅威対応の3要素で構成。2027年度にはAI能力とIT対応レベルの統合を目指すとしている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2609/03/news052.html"
+        },
+        {
+          "id": "2026-09-04-ai-6",
+          "star": false,
+          "headline": "OpenAI、先端AIの安全対策を緩和 中国モデル台頭に危機感",
+          "summary": "中国発オープンモデルの急速な台頭を受けた方針転換と報じられた。",
+          "detail": "先端AIモデルの安全対策の一部を緩和する方針を示したと報じられている。中国の競合モデルの台頭への危機感が背景にあるとされる。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701491/"
+        },
+        {
+          "id": "2026-09-04-ai-7",
+          "star": false,
+          "headline": "ChatGPT・Claude・Grokで一時障害、後に復旧",
+          "summary": "9月4日未明に複数の主要AIサービスで同時障害が発生、既に復旧済み。",
+          "detail": "ChatGPT、Claude、Grokといった主要サービスで一時的な障害が確認された。障害は既に復旧している。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/"
+        },
+        {
+          "id": "2026-09-04-ai-8",
+          "star": false,
+          "headline": "KDDI傘下ELYZA、「AIで業務アプリ作成」特許取得 SNSで一部批判も",
+          "summary": "業務アプリを自動生成する仕組みの特許取得を巡りX上で議論に。",
+          "detail": "ELYZAがAIを使って業務アプリを自動生成する仕組みに関する特許を取得したと発表した。特許の範囲の妥当性を巡り、X上で一部批判の声が上がっている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/"
+        },
+        {
+          "id": "2026-09-04-ai-9",
+          "star": false,
+          "headline": "Adobe、Slackから「Photoshop」等を利用できる「Adobe for Slack」提供開始",
+          "summary": "Slack上の会話からAdobe製品を呼び出し画像・動画等を生成。",
+          "detail": "Slack上の会話からPhotoshopなどAdobe製品のツールを呼び出し、PDFや動画などを生成できる新機能の提供が始まった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/03/2000001114/"
+        },
+        {
+          "id": "2026-09-04-ai-10",
+          "star": false,
+          "headline": "「社長の声」悪用のAI詐欺で被害45億円、元警視庁幹部が手口解説",
+          "summary": "音声生成AIで経営者の声を偽装する詐欺の被害額が45億円に。",
+          "detail": "音声生成AIで経営者の声を偽装する「AI詐欺」による被害額が45億円に上ると、元警視庁関係者が具体的な手口とともに解説した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news041.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-04-econ-1",
+          "star": true,
+          "headline": "米財務長官、日銀総裁に利上げ催促 円安是正で異例の直接的表現",
+          "summary": "ベセント米財務長官が植田日銀総裁に断固たる措置を強く求めたことが判明。",
+          "detail": "8月30日のG20会議の際、ベセント長官が植田総裁に「円の大幅な過小評価に対処するため、日本が市場と金融政策の両面で断固たる措置を講じることを強く支持する」と伝達。従来の「期待」表現からより直接的な催促へ変化しており、9月17〜18日の金融政策決定会合での利上げが注視されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090201035&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-2",
+          "star": true,
+          "headline": "円、2日で5円急伸 155円台後半に 「円キャリー」巻き戻し観測",
+          "summary": "日銀の利上げ加速観測を受け、円売りポジションの手じまいが広がる。",
+          "detail": "円が2日間で5円上昇し一時155円30銭を記録。積み上がった円売りポジションの手じまいが広がったとみられ、200日移動平均を超えたことも巻き戻しを促す技術的シグナルとされる。158円が今後の相場の分水嶺になるとの分析も出ている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN03C120T00C26A9000000/"
+        },
+        {
+          "id": "2026-09-04-econ-3",
+          "star": false,
+          "headline": "円、1カ月ぶり155円台に急騰 1日で4円上昇",
+          "summary": "9月3日の東京市場で円が急伸し、1カ月ぶりの水準まで上昇。",
+          "detail": "9月3日の東京市場で円相場が急伸し、1カ月ぶりとなる155円台まで上昇した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB031QP0T00C26A9000000/"
+        },
+        {
+          "id": "2026-09-04-econ-4",
+          "star": false,
+          "headline": "ベセント米財務長官、片山財務相に高市政権の経済政策で強い不満（報道）",
+          "summary": "5月訪日時の会談で2時間以上にわたり不満を伝えていたと報じられた。",
+          "detail": "ベセント米財務長官が5月の訪日時、片山さつき財務相との会談で2時間以上にわたり高市政権の経済政策への不満を伝えていたと報じられた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200517&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-5",
+          "star": false,
+          "headline": "G20財務相会議、不均衡是正へ非市場的政策の撤廃を議長声明 中国反対で共同声明見送り",
+          "summary": "議長声明は公表されたが中国の反対で共同声明の採択は見送られた。",
+          "detail": "G20財務相・中央銀行総裁会議で、貿易不均衡是正に向け非市場的政策の是正を求める議長声明が公表された。中国の反対により共同声明の採択は見送られた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200163&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-6",
+          "star": false,
+          "headline": "日銀総裁、追加利上げ「今月も議論」 物価目標に「かなり近づいた」",
+          "summary": "植田総裁が9月会合での追加利上げ議論に言及。",
+          "detail": "植田日銀総裁が、物価目標の達成に「かなり近づいた」との認識を示し、9月の金融政策決定会合でも追加利上げを議論する考えを述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200434&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-7",
+          "star": false,
+          "headline": "長期金利、一時3.015%に急上昇 東京株急落、1889円安",
+          "summary": "長期金利の急上昇を受け東京株式市場が急落した。",
+          "detail": "9月2日、長期金利が一時3.015％まで上昇し、東京株式市場は前日比1889円安の急落となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200317&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-8",
+          "star": false,
+          "headline": "自動車総連、27年春闘で物価高上回る賃上げ要求へ",
+          "summary": "2027年春闘に向け物価上昇を上回る賃上げ要求方針を固めた。",
+          "detail": "自動車総連が2027年春闘に向け、物価上昇を上回る水準の賃上げを要求する方針を固めたことが分かった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300989&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-9",
+          "star": false,
+          "headline": "新興企業のIPO低迷続く 最先端AI台頭や金利上昇が重荷",
+          "summary": "国内新興企業のIPO件数減少が続き、AI台頭や金利上昇が影響。",
+          "detail": "国内新興企業のIPO件数の減少傾向が続いており、最先端AIの台頭や金利上昇が投資家心理の重荷になっているとの分析が示された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300237&g=eco"
+        },
+        {
+          "id": "2026-09-04-econ-10",
+          "star": false,
+          "headline": "NYダウ続伸、利上げ観測後退で624ドル高",
+          "summary": "米連邦準備制度の利上げ観測後退を受けNYダウが続伸。",
+          "detail": "米連邦準備制度の利上げ観測が後退したことを受け、NYダウが前日比624ドル高となり続伸した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0400I0U6A900C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-04-pol-1",
+          "star": true,
+          "headline": "高市首相、鈴木幹事長の続投を調整 麻生・木原氏も留任へ",
+          "summary": "9月16〜18日を軸に検討する内閣改造・党役員人事の骨格が判明。",
+          "detail": "高市早苗首相が来年秋の総裁選での再選を見据え、鈴木俊一幹事長の続投、麻生太郎副総裁・木原稔官房長官の留任を軸に人事を調整していることが分かった。政権の骨格を維持し基盤を安定させる狙いとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300981&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-2",
+          "star": false,
+          "headline": "内閣・党人事、16日にも 高市首相、総裁選へ基盤固め",
+          "summary": "内閣改造・党役員人事を9月16日にも行う方向で調整。",
+          "detail": "高市首相が内閣改造・党役員人事を9月16日にも行う方向で調整していると報じられた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090201088&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-3",
+          "star": false,
+          "headline": "高市首相、物価高対策で発信強化 国民の不満を警戒",
+          "summary": "物価高対策について首相自らの発信を強める方針。",
+          "detail": "高市首相が物価高対策について発信を強化する方針を示した。国民の不満の高まりを警戒しているとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200920&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-4",
+          "star": false,
+          "headline": "政府、2次補正編成を見送りへ調整 災害対応は当面予備費で",
+          "summary": "2026年度2次補正予算の編成を当面見送る方向。",
+          "detail": "政府が2026年度の2次補正予算編成を当面見送る方向で調整していることが分かった。災害対応は当面予備費で対応する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300890&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-5",
+          "star": false,
+          "headline": "OSA対象、12カ国に拡大 中国念頭に警備艇など供与",
+          "summary": "政府安全保障能力強化支援（OSA）の対象国を12カ国に拡大。",
+          "detail": "政府が同志国への安全保障能力強化支援（OSA）の対象を12カ国に拡大する方針を固めた。中国を念頭に、周辺国へ警備艇などの供与を進める。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300689&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-6",
+          "star": false,
+          "headline": "木原官房長官「積極財政方針は変わらぬ」 米側の政策転換要求に論評せず",
+          "summary": "米側の経済政策転換要求について論評を避けつつ財政方針を維持。",
+          "detail": "木原官房長官が、米側からの経済政策転換要求について論評を避けつつ、日本の積極財政方針に変わりはないと述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200964&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-7",
+          "star": false,
+          "headline": "中国「戦勝記念日」で各地行事 習政権、対日批判を展開",
+          "summary": "対日戦勝記念日の行事に合わせ習政権が対日批判を展開。",
+          "detail": "中国各地で対日戦勝記念日の行事が行われ、習近平政権が対日批判を展開した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300972&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-8",
+          "star": false,
+          "headline": "北方領土の税制優遇「成功」とプーチン氏、「ロシア領」の立場を改めて強調",
+          "summary": "プーチン大統領が北方領土での税制優遇策を「成功」と評価。",
+          "detail": "プーチン大統領が北方領土での税制優遇策を「成功」と評価し、「ロシア領」との立場を改めて強調した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090300766&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-9",
+          "star": false,
+          "headline": "公明党、「穏健保守」結集を練り直し 生き残りへ焦り",
+          "summary": "「穏健保守」勢力の結集戦略を練り直す動き。",
+          "detail": "公明党が「穏健保守」勢力の結集戦略を練り直しており、党内には生き残りへの焦りがあるとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090201091&g=pol"
+        },
+        {
+          "id": "2026-09-04-pol-10",
+          "star": false,
+          "headline": "高市首相、防衛力強化へ「変化恐れず」 自衛隊幹部に訓示",
+          "summary": "自衛隊幹部への訓示で防衛力強化への姿勢を強調。",
+          "detail": "高市首相が自衛隊幹部への訓示で、防衛力強化に向け「変化を恐れない」姿勢を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090200156&g=pol"
+        }
+      ]
+    }
+  ]
+}
