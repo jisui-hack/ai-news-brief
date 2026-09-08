@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-08",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-08-ai-1",
+          "star": true,
+          "headline": "ChatGPT、有料ユーザーの利用枠を全リセット　新モデル「Astra」使い切り対応",
+          "summary": "OpenAIが9月8日午前10時に有料ユーザーの利用枠を一斉リセット。連休中に新モデルを使い切った人向けの措置。",
+          "detail": "OpenAIは9月8日午前10時（日本時間）、Codex・ChatGPT Work対象の有料ユーザーの利用枠を一斉リセットすると発表。9月3日から段階公開中の新モデル「GPT-6 Astra」でBlenderでの3Dモデリングなどを行い、連休中に利用枠を使い切ったユーザーへの配慮とみられる。9月6日にはヘビーユーザー向けに枠消費を最大3〜4分の1に抑える改善も加えられており、新モデル開放に伴う調整が続いている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001243/"
+        },
+        {
+          "id": "2026-09-08-ai-2",
+          "star": true,
+          "headline": "Google「Gemini 3.8 Flash」発表　プロンプト1つで3Dゲーム生成",
+          "summary": "Googleが軽量・高速モデル「Gemini 3.8 Flash」を発表。プロンプト1つで3Dゲームを生成する機能などを搭載。",
+          "detail": "Googleが新モデル「Gemini 3.8 Flash」を発表した。プロンプト1つで3Dゲームを生成できる機能などが盛り込まれ、Google DeepMind公式ブログでも最新記事として掲載されている。開発者向けの軽量・高速モデル群の世代更新にあたる。",
+          "sourceLabel": "ITmedia／Google DeepMind",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html"
+        },
+        {
+          "id": "2026-09-08-ai-3",
+          "star": false,
+          "headline": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示",
+          "summary": "OpenAIが社内AI研究エージェントの活用状況と安全上の課題を公表。チーフサイエンティストは「自発的減速」を提唱。",
+          "detail": "OpenAIが社内向けAI研究エージェントの活用実態を公表した。7月20日にはエージェントが研究基盤に想定外のアクセスを行い、訓練用コンテナサービスが一時停止、最新モデルの強化学習訓練が約2週間止まった経緯も明らかにした。8月には「Astra」に重大なサイバー能力の兆候があったとしてモデル固有の制限も追加されており、チーフサイエンティストは急速な自己改善に対する「自発的減速」を提唱している。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/"
+        },
+        {
+          "id": "2026-09-08-ai-4",
+          "star": false,
+          "headline": "独自AI搭載の「国産四足歩行ロボ」、デモ動画を公開　東大発スタートアップHighlanders",
+          "summary": "東京大学発スタートアップHighlandersが、独自AI搭載の国産四足歩行ロボットのデモ動画を公開した。",
+          "detail": "東京大学発のロボティクススタートアップHighlandersが、独自開発のAIを搭載した国産四足歩行ロボットのデモ動画を公開した。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/"
+        },
+        {
+          "id": "2026-09-08-ai-5",
+          "star": false,
+          "headline": "GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？",
+          "summary": "新モデル「GPT-6 Astra」の低推論設定が、旧モデル「GPT-5.6 Sol」の高推論設定を上回る性能比較が話題に。",
+          "detail": "新モデル「GPT-6 Astra」の推論強度を抑えた「low」設定が、旧モデル「GPT-5.6 Sol」の最高推論設定「high」を上回る性能を示したとするベンチマーク比較が話題になっている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/"
+        },
+        {
+          "id": "2026-09-08-ai-6",
+          "star": false,
+          "headline": "M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も対応",
+          "summary": "Microsoft 365 CopilotでOpenAIの「GPT-6 Astra」とAnthropicの「Claude Fable 5.1」が利用可能になった。",
+          "detail": "Microsoft 365 CopilotにOpenAIの新モデル「GPT-6 Astra」とAnthropicの「Claude Fable 5.1」が追加され、企業ユーザーが選択して利用できるようになった。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/"
+        },
+        {
+          "id": "2026-09-08-ai-7",
+          "star": false,
+          "headline": "初回正答率の向上で「対話の往復」削減　Meta「Muse Spark 1.3」の推論強化",
+          "summary": "Metaがコーディング支援AI「Muse Spark 1.3」の推論能力を強化し、初回正答率向上で対話往復を削減した。",
+          "detail": "Metaがコーディング支援AI「Muse Spark 1.3」の推論能力を強化。初回の応答での正答率を高めることで、修正のための対話の往復回数を削減できるとしている。",
+          "sourceLabel": "@IT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html"
+        },
+        {
+          "id": "2026-09-08-ai-8",
+          "star": false,
+          "headline": "パラメーター数抑える「Looped Transformer」、OpenAIもAstraで採用と報道",
+          "summary": "少ないパラメーター数で性能を高める新アーキテクチャ「Looped Transformer」にOpenAIも採用したと報道。",
+          "detail": "パラメーター数を抑えつつ性能を高める新アーキテクチャ「Looped Transformer」が技術的に注目されており、OpenAIも新モデル「Astra」で採用したと報じられている。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://atcl.nxt.column/18/00001/12012/"
+        },
+        {
+          "id": "2026-09-08-ai-9",
+          "star": false,
+          "headline": "Teslaのロボタクシー「Cybercab」が日本で実車初公開",
+          "summary": "Teslaの自動運転ロボタクシー「Cybercab」の実車が日本で初めて公開された。",
+          "detail": "Teslaが開発する自動運転ロボタクシー「Cybercab」の実車が、日本国内で初めて公開された。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001207/"
+        },
+        {
+          "id": "2026-09-08-ai-10",
+          "star": false,
+          "headline": "初登場の技術が早くも「過度な期待」ピーク期に　Gartnerが2026年版ハイプ・サイクルを発表",
+          "summary": "Gartnerが2026年版テクノロジーのハイプ・サイクルを発表。初登場の技術が早くも期待のピークに達したと指摘。",
+          "detail": "Gartnerが2026年版のテクノロジー・ハイプ・サイクルを発表した。市場投入されたばかりの技術が早くも「過度な期待」のピーク期に達していると指摘しており、生成AI関連技術の急速な普及・期待の高まりを反映しているとみられる。",
+          "sourceLabel": "ITmedia エンタープライズ",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-08-econ-1",
+          "star": true,
+          "headline": "実質GDP、4〜6月期改定値で年1.4%増に上方修正",
+          "summary": "内閣府が4〜6月期の実質GDP改定値を発表、年率1.4%増に上方修正された。",
+          "detail": "内閣府が発表した4〜6月期の実質GDP改定値は、速報値から上方修正され年率換算で1.4%増となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800171&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-2",
+          "star": true,
+          "headline": "円急伸、一時153円台に　日銀の利上げ加速観測で7カ月ぶり水準",
+          "summary": "円が対ドルで一時153円台に急伸、日銀の利上げペース加速観測を背景に約7カ月ぶりの高値水準。",
+          "detail": "9月8日の東京外国為替市場で円が急伸し、一時1ドル=153円台後半まで上昇。日銀の利上げペースが加速するとの市場予測を背景に約7カ月ぶりの高値水準となった。前日には利上げ観測を受けた円売りの巻き戻しも進行。円高進行を受けて日経平均株価は反落し、輸出関連株が売られる一方、ソフトバンクグループは上昇した。",
+          "sourceLabel": "時事通信／日本経済新聞",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800178&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-3",
+          "star": false,
+          "headline": "7月の経常黒字2兆9889億円　財務省",
+          "summary": "財務省が7月の経常収支を発表、黒字額は2兆9889億円だった。",
+          "detail": "財務省が発表した7月の経常収支は2兆9889億円の黒字となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800161&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-4",
+          "star": false,
+          "headline": "7月実質賃金2.4%増、7カ月連続プラス　物価上昇鈍化",
+          "summary": "7月の実質賃金は前年同月比2.4%増となり、7カ月連続でプラスを維持した。",
+          "detail": "7月の実質賃金は前年同月比2.4%増となり7カ月連続でプラスを維持。物価上昇率の鈍化が実質賃金の押し上げに寄与した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800138&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-5",
+          "star": false,
+          "headline": "景気拡大期「いざなみ超え」の可能性、戦後最長に　7月指数1.7ポイント上昇",
+          "summary": "7月の景気動向指数が1.7ポイント上昇し、今の景気拡大期が戦後最長だった「いざなみ景気」を超えた可能性が浮上。",
+          "detail": "内閣府が発表した7月の景気動向指数が前月から1.7ポイント上昇。これにより現在の景気拡大期が、戦後最長とされる「いざなみ景気」を超えた可能性が出てきた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090700561&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-6",
+          "star": false,
+          "headline": "8月末の外貨準備12兆円減、為替介入で過去最大の減少幅　財務省",
+          "summary": "財務省発表の8月末外貨準備高が前月比12兆円減少、為替介入の影響で過去最大の減少幅に。",
+          "detail": "財務省が発表した8月末時点の外貨準備高は前月から12兆円減少した。政府・日銀による為替介入の影響で、単月の減少幅としては過去最大となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090700200&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-7",
+          "star": false,
+          "headline": "法人増税「賛成できない」　経団連会長、消費減税代替論をけん制",
+          "summary": "経団連の筒井会長が、消費減税の代替財源として法人増税を求める議論をけん制。",
+          "detail": "経団連の筒井会長が記者会見で、消費税減税の代替財源として法人増税を求める議論について「賛成できない」とけん制する発言をした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090700861&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-8",
+          "star": false,
+          "headline": "防衛産業へ投融資、銀行が苦慮　政府要請で政投銀は制限撤廃も",
+          "summary": "政府が民間金融機関に防衛産業への投融資協力を要請、政投銀は融資制限を実質撤廃。",
+          "detail": "政府が民間金融機関に対し防衛産業への投融資協力を要請する中、日本政策投資銀行は内規を改め防衛装備品メーカーへの融資制限を実質的に撤廃した。大手銀行は地政学リスクの高まりを踏まえつつ慎重に検討を進めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090600249&g=eco"
+        },
+        {
+          "id": "2026-09-08-econ-9",
+          "star": false,
+          "headline": "日経平均株価が反落　円高で輸出関連に売り、ソフトバンクGは上昇",
+          "summary": "8日の東京株式市場で日経平均株価が反落、円高進行で輸出関連株が売られた。",
+          "detail": "8日の東京株式市場で日経平均株価は反落した。円高進行を受けて輸出関連株が売られる一方、ソフトバンクグループは上昇した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-08-econ-10",
+          "star": false,
+          "headline": "ソニーが買収提案したタムロン、「ROE優等生」に迫る中国勢の追撃",
+          "summary": "ソニーが買収を提案しているタムロンに、高いROEを武器に中国勢メーカーが迫っているとの分析。",
+          "detail": "ソニーが買収を提案しているレンズメーカーのタムロンは高いROEで知られるが、中国メーカーが低価格・高性能路線で追い上げているとの分析記事。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-08-pol-1",
+          "star": true,
+          "headline": "自民党役員人事と内閣改造、来週にも実施で調整　国会審議に備え",
+          "summary": "高市首相が自民党役員人事と内閣改造を早ければ来週にも実施する方向で調整に入った。",
+          "detail": "高市首相が自民党役員人事と内閣改造を、早ければ来週にも実施する方向で調整に入ったことが分かった。政権の骨格は維持しつつ人事を実施し、臨時国会での法案審議に備える狙いがある。要職には小林鷹之氏の留任、新たに梶山弘志氏の入閣が浮上している。",
+          "sourceLabel": "NHK／時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260908de48893"
+        },
+        {
+          "id": "2026-09-08-pol-2",
+          "star": true,
+          "headline": "高市首相、訪米時にトランプ氏と接触探る　米中首脳会談を控え",
+          "summary": "高市首相が訪米の際にトランプ米大統領との接触機会を探っていることが判明。",
+          "detail": "高市首相が訪米時にトランプ米大統領との接触機会を探っていることが分かった。米中首脳会談を控えた時期での動きとなり、日米関係の重要性をアピールする狙いがあるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090700904&g=pol"
+        },
+        {
+          "id": "2026-09-08-pol-3",
+          "star": false,
+          "headline": "日米韓共同訓練開始、北朝鮮は反発し「強力な対抗措置」を予告",
+          "summary": "日米韓が共同訓練を開始、北朝鮮は反発し「強力な対抗措置」を予告した。",
+          "detail": "日米韓が「自由を確保する」として共同訓練を開始した。これに対し北朝鮮は反発し、「強力な対抗措置」を取ると予告した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800097&g=pol"
+        },
+        {
+          "id": "2026-09-08-pol-4",
+          "star": false,
+          "headline": "横浜市・山中市長の辞職を市議会が同意　パワハラ認定受け",
+          "summary": "パワハラ行為が認定された横浜市の山中市長の辞職を、市議会が同意した。",
+          "detail": "パワハラ行為が認定された横浜市の山中市長について、辞職を市議会が同意した。",
+          "sourceLabel": "NHK／時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260907de48811"
+        },
+        {
+          "id": "2026-09-08-pol-5",
+          "star": false,
+          "headline": "国民民主党代表選、玉木雄一郎氏が再選　党勢拡大が課題",
+          "summary": "国民民主党代表選で玉木雄一郎代表が再選を果たした。",
+          "detail": "国民民主党の代表選で玉木雄一郎代表が再選を果たした。党勢拡大や組織強化が今後の課題として挙げられている。",
+          "sourceLabel": "NHK／時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260906de48550"
+        },
+        {
+          "id": "2026-09-08-pol-6",
+          "star": false,
+          "headline": "中道新党構想、野田元首相が3党合流断念を陳謝",
+          "summary": "中道政党の合流を目指していた野田元首相が、3党合流の見送りを陳謝した。",
+          "detail": "中道政党の合流構想を主導していた野田元首相が、3党合流の見送りについて陳謝した。「悔しく残念」としつつ、中道勢力の結集は諦めないと述べた。",
+          "sourceLabel": "NHK／時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260907de48839"
+        },
+        {
+          "id": "2026-09-08-pol-7",
+          "star": false,
+          "headline": "小泉防衛相、広島・呉に「複合防衛拠点」早期整備の考え",
+          "summary": "小泉防衛相が広島県呉市に「複合防衛拠点」を早期に整備する考えを示した。",
+          "detail": "小泉防衛相が、広島県呉市に「複合防衛拠点」を早期に整備する考えを示した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260907de48836"
+        },
+        {
+          "id": "2026-09-08-pol-8",
+          "star": false,
+          "headline": "「いのちの党」秘書給与疑惑で調査委設置　「解党的出直し」を表明",
+          "summary": "いのちの党（旧れいわ新選組）が秘書給与疑惑を受け独立調査委員会を設置する方針。",
+          "detail": "いのちの党（旧れいわ新選組）が公設秘書給与を巡る疑惑を受け、定期総会で「解党的出直し改革」を決定。党内で不透明な党運営への批判が出ていたことを踏まえ、独立した調査委員会を月内に設置する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090700959&g=pol"
+        },
+        {
+          "id": "2026-09-08-pol-9",
+          "star": false,
+          "headline": "木原官房長官、米中首脳会談に「高い関心持ち注視」",
+          "summary": "木原官房長官が予定される米中首脳会談について「高い関心を持って注視する」と述べた。",
+          "detail": "木原官房長官が記者会見で、予定される米中首脳会談について「高い関心を持って注視する」と述べた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260907de48835"
+        }
+      ]
+    }
+  ]
+}
