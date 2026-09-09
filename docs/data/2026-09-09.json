@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-09",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-09-ai-1",
+          "star": true,
+          "headline": "Meta、パーソナルAIエージェント「Muse」を発表",
+          "summary": "ザッカーバーグCEOが掲げる「パーソナル超知能」構想の第一弾。メール送信や旅行予約から自律的な計画・実行までを担う。",
+          "detail": "単純作業から目標設定に基づく自律的な計画・実行までを担うAIエージェント「Muse」を発表。iOS/Android/Web（muse.ai）でまず米国から基本機能を無料提供する。隔離環境「Muse Secure VM」と監視エージェント「Sentinel」による安全対策を講じ、最大30万ドル相当のバグ報奨金制度も設けた。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/"
+        },
+        {
+          "id": "2026-09-09-ai-2",
+          "star": false,
+          "headline": "OpenAI「GPT-6 Astra」がCAPTCHA認証ゲームを完全攻略、能力の高さと不透明さに懸念",
+          "summary": "OpenAIエンジニアが、GPT-6 AstraがCAPTCHAテーマのパロディーゲーム全48レベルを約4分でクリアしたと報告。詳細は非公開。",
+          "detail": "9月3日発表の新モデル「GPT-6 Astra」が、CAPTCHA認証をゲーム化した「I'm Not a Robot」の全48レベルを攻略したとOpenAIエンジニアが報告した。GPT-6 Astraは「ARC-AGI-3」ベンチマークで99.9%を記録するなど高性能を示しているが、今回の動作環境や指示内容の詳細は非公開のままで、再現性は不明とされている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001245/"
+        },
+        {
+          "id": "2026-09-09-ai-3",
+          "star": false,
+          "headline": "Google DeepMind、ヒトゲノム全変異を予測した「AlphaGenome Atlas」を公開",
+          "summary": "約90億通りの一塩基変異すべての分子レベルでの影響を予測したデータベースを公開。データ量は1Pバイト。",
+          "detail": "既存モデル「AlphaGenome」の予測結果を事前計算し検索可能にしたデータベースを公開した。新指標「AVIスコア」により、コード領域・非コード領域双方の影響度を数値化できる。ゲノムの98%を占める非コード領域の機能解明が進み、希少疾患研究などへの活用が期待される。学術向けに無料提供予定。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/"
+        },
+        {
+          "id": "2026-09-09-ai-4",
+          "star": true,
+          "headline": "クアルコム、アマゾンにAIデータセンター向け半導体を供給　最大6200億円の出資権利も付与",
+          "summary": "クアルコムがAWS向けAI半導体供給契約を締結。対価としてアマゾンに新株予約権を最大40億ドル分付与する。",
+          "detail": "クアルコムがアマゾン・ウェブ・サービス（AWS）向けに、大規模AIデータセンター特化型半導体を供給する契約を結んだ。両社はAIインフラ向け光接続技術の開発でも協業する。スマートフォン依存からの脱却を目指すクアルコムのAI半導体事業多角化戦略の一環とみられる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN08BFF0Y6A900C2000000/"
+        },
+        {
+          "id": "2026-09-09-ai-5",
+          "star": false,
+          "headline": "Anthropic・OpenAIら米ビッグテック、AIエージェント標準化団体「Agentic AI Foundation」を設立",
+          "summary": "Anthropic、OpenAI、Google、Microsoft、AWSなどが参加し、AIエージェントの相互運用性標準化を目指す新団体を設立。",
+          "detail": "The Linux Foundationが運営し、Anthropic、OpenAI、AWS、Google、Microsoft、Block、Bloomberg、Cloudflareがプラチナ会員として参加。設立にあたりAnthropic・OpenAI・Blockが各社の技術を寄贈した。特定企業によるAIエージェント技術の独占を防ぎ、オープンなエコシステムを築くことが狙い。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/082800326/"
+        },
+        {
+          "id": "2026-09-09-ai-6",
+          "star": false,
+          "headline": "サムスン、横浜にAI半導体の研究開発拠点を開所　日韓連携を強化",
+          "summary": "サムスン電子が横浜市にAI半導体開発の研究拠点を開設し、開所式を実施。日韓の連携強化の動き。",
+          "detail": "サムスン電子が横浜市にAI半導体分野の研究開発拠点を開設し、開所式を実施した。日本の技術・人材を活用しAI半導体開発を強化する狙いとみられ、地政学的にも日韓の半導体協力の広がりを示す動きとなっている。",
+          "sourceLabel": "日本経済新聞／時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800857&g=eco"
+        },
+        {
+          "id": "2026-09-09-ai-7",
+          "star": false,
+          "headline": "インドTCS、AIデータセンター開発に1.2兆円投資",
+          "summary": "インドIT大手タタ・コンサルタンシー・サービシズ（TCS）が、AIデータセンター開発に1.2兆円規模の投資方針を示した。",
+          "detail": "生成AI需要の急拡大を受け、インド系IT大手のTCSがAIデータセンター開発への大規模投資方針を示した。投資規模は1.2兆円に上る見通し。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM08A7B0Y6A900C2000000/"
+        },
+        {
+          "id": "2026-09-09-ai-8",
+          "star": false,
+          "headline": "日立、「2026年はフィジカルAI元年」　AI関連売上5000億円を目指す",
+          "summary": "日立の徳永社長が2026年を「フィジカルAI元年」と位置づけ、AI事業群「HMAX」で売上高5000億円を目指すと発表。",
+          "detail": "現場の機器・システムが自ら判断・動作する「フィジカルAI」を推進し、2040年に1100万人規模とされる労働力不足への対応を狙う。AIソリューション群「HMAX」は2026年度末に売上高5000億円・利益率22%を見込む。AnthropicのClaudeを活用したセキュリティサービス「HMAX Cyber」も発表し、NVIDIAやOpenAIともパートナーシップを結ぶ戦略を掲げた。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/"
+        },
+        {
+          "id": "2026-09-09-ai-9",
+          "star": false,
+          "headline": "Arm、モバイル・AIインフラ・フィジカルAI向けに新製品3件を発表",
+          "summary": "Armが中国のイベントで、モバイル向けCPU/GPU、AIインフラ向けサーバーCPU、ロボット向け統合サービスの3製品を発表。",
+          "detail": "モバイル向け新CPU「CSS for Mobile 2」はAI処理性能が従来比最大1.7倍向上。AIインフラ向け「Neoverse CSS N4」は3nmプロセスでデータ帯域幅を最大2倍に拡大。ロボット開発向け「Total Design for Physical AI」には80社以上が参加し、ロボット能力を6段階（RL0〜RL5）で評価する枠組みを導入した。",
+          "sourceLabel": "ITmedia MONOist",
+          "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html"
+        },
+        {
+          "id": "2026-09-09-ai-10",
+          "star": false,
+          "headline": "地方に大規模データセンター建設ラッシュ、投資額は数十兆円規模か",
+          "summary": "AI需要を背景に地方での大規模データセンター建設計画が相次ぎ、投資総額は数十兆円規模に達する可能性。",
+          "detail": "経済産業省は「GX戦略地域制度」を新設し、1ギガワット級のデータセンター集積を目指す地域を選定・支援する方針。建物やサーバー設備、インフラ整備などへの補助が見込まれている。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03750/090700001/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-09-econ-1",
+          "star": true,
+          "headline": "日銀、9月17〜18日会合で追加利上げ観測が支配的　「外圧」の影響も",
+          "summary": "市場調査では回答者全員が政策金利を1.00%から1.25%へ引き上げると予想。米国からの「外圧」も背景に。",
+          "detail": "日銀は9月17〜18日に金融政策決定会合を開催予定。市場調査では回答者全員が利上げを予想しており、米ベッセント財務長官が8月30日に円の過小評価に言及するなど、米国からの「外圧」も日銀の判断を後押ししているとみられる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0716UTX00C26A9000000/"
+        },
+        {
+          "id": "2026-09-09-econ-2",
+          "star": false,
+          "headline": "円相場、9日朝は153円台半ばまで上昇　利上げ観測背景に高値圏続く",
+          "summary": "9日の東京外国為替市場で円は対ドル・対ユーロともに上昇。日銀の利上げペース加速観測を背景に高値圏が続く。",
+          "detail": "9日午前の東京外国為替市場で円は対ドル・対ユーロともに上昇した。前日8日には一時152円台後半まで円高が進んでおり、日銀の利上げペース加速観測を背景とした円買いの流れが続いている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL090DM0Z00C26A9000000/"
+        },
+        {
+          "id": "2026-09-09-econ-3",
+          "star": true,
+          "headline": "8月の企業倒産830件、14年ぶり高水準　人手不足など要因",
+          "summary": "東京商工リサーチの集計で、8月の企業倒産件数は830件となり14年ぶりの高水準に達した。",
+          "detail": "人手不足や物価高などを背景に、8月の企業倒産件数は830件に達し14年ぶりの高水準となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800592&g=eco"
+        },
+        {
+          "id": "2026-09-09-econ-4",
+          "star": false,
+          "headline": "NYダウ続落、628ドル安　中東情勢緊迫化で原油高",
+          "summary": "前日のNY株式市場でダウ平均が628ドル安と続落。中東情勢緊迫化に伴う原油高が嫌気された。",
+          "detail": "中東情勢の緊迫化を受け原油が一時1バレル=94ドル台まで上昇する場面があり、投資家心理を冷やした。半導体株中心のSOX指数はAI関連需要の底堅さを背景に4日続伸するなど、業種間で明暗が分かれた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL090180Z00C26A9000000/"
+        },
+        {
+          "id": "2026-09-09-econ-5",
+          "star": false,
+          "headline": "米10年債利回り4.79%に上昇　中東情勢悪化受けた原油高で",
+          "summary": "米長期金利の指標となる10年債利回りが4.79%まで上昇。中東情勢悪化に伴う原油高がインフレ懸念を強めた。",
+          "detail": "米国債市場で長期金利の指標となる10年債利回りが4.79%まで上昇した。中東情勢の悪化を受けた原油高がインフレ懸念を強めていることが背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL08B1D0Y6A900C2000000/"
+        },
+        {
+          "id": "2026-09-09-econ-6",
+          "star": false,
+          "headline": "9日の日経平均、朝安後に上昇へ転換　AI・半導体株に買い",
+          "summary": "9日の東京株式市場で日経平均株価は朝方の下落から上昇に転じた。AI・半導体関連株への買いが支え。",
+          "detail": "9日の東京株式市場で日経平均株価は朝安後に上昇に転じた。前日のNY市場でSOX指数がAI関連需要の底堅さを背景に続伸したことも支援材料となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL090KW0Z00C26A9000000/"
+        },
+        {
+          "id": "2026-09-09-econ-7",
+          "star": false,
+          "headline": "りそな銀行社長、スタートアップ向け融資を28年度に9倍超へ拡大方針",
+          "summary": "りそな銀行社長がスタートアップ向け融資を2028年度までに現在の9倍超へ拡大する方針を表明。",
+          "detail": "りそな銀行の社長が、スタートアップ向け融資を2028年度までに現在の9倍超に拡大する方針を示し、「トップランナーを狙う」と述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800848&g=eco"
+        },
+        {
+          "id": "2026-09-09-econ-8",
+          "star": false,
+          "headline": "ライフコーポレーション、北陸地盤のスーパー「アルビス」にTOB",
+          "summary": "ライフコーポレーションが北陸地盤のスーパー「アルビス」にTOBを実施すると発表。",
+          "detail": "ライフコーポレーションが、北陸を地盤とするスーパー「アルビス」に対しTOB（株式公開買い付け）を実施すると発表した。北陸でのスーパー事業基盤強化を狙う。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800983&g=eco"
+        },
+        {
+          "id": "2026-09-09-econ-9",
+          "star": false,
+          "headline": "丸紅、ROE15%目標へ投資と株主還元に4500億円積み増し",
+          "summary": "丸紅がROE15%達成に向け、投資と株主還元の原資として4500億円を追加投入する方針を示した。",
+          "detail": "丸紅がROE（自己資本利益率）15%の達成を目指し、投資と株主還元に充てる資金として4500億円を追加で積み増す方針を示した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB028GM0S6A900C2000000/"
+        },
+        {
+          "id": "2026-09-09-econ-10",
+          "star": false,
+          "headline": "日系自動車3社、中国販売が大幅減　ガソリン車不振で8月実績悪化",
+          "summary": "日系自動車メーカー3社の8月の中国販売が大幅に減少。ガソリン車の不振が響いた。",
+          "detail": "日系自動車メーカー3社の中国での8月の販売台数が大幅に減少した。ガソリン車の不振が主な要因となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090900289&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-09-pol-1",
+          "star": true,
+          "headline": "自民党、内閣改造・役員人事を9月16〜17日にも実施へ　維新の入閣調整も",
+          "summary": "高市首相が内閣改造・役員人事を早ければ9月16日、遅くとも17日に実施する方向で調整。維新の入閣も検討。",
+          "detail": "高市首相は政権の骨格を維持しつつ、臨時国会での法案審議に備える体制構築を重視している。日本維新の会の議員を新たに入閣させる方針で、具体的なポスト配分の調整が進められている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260909de49187"
+        },
+        {
+          "id": "2026-09-09-pol-2",
+          "star": true,
+          "headline": "自民党税調、食料品の消費税減税の大綱案を了承",
+          "summary": "自民党税制調査会が食料品の消費税減税の制度設計を盛り込んだ大綱案を了承した。",
+          "detail": "高市首相は小野寺税調会長らと会談し、大綱への調整を指示した。政府は地方自治体の減収分を特例交付金で全額補てんする検討も進めているが、財源については明示されていない。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260908de49049"
+        },
+        {
+          "id": "2026-09-09-pol-3",
+          "star": false,
+          "headline": "中道勢力、立民系・公明系で衆院統一会派結成へ調整　離党者も相次ぐ",
+          "summary": "中道勢力は立憲民主党系と公明党系に分かれつつ、それぞれ衆院での統一会派結成を目指し調整している。",
+          "detail": "3党合流構想が見送られた後、中道勢力は立民系・公明系に分かれて統一会派結成を目指す方向に転換した。玄葉光一郎前衆院副議長の離党など、党内の再編の動きも続いている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800803&g=pol"
+        },
+        {
+          "id": "2026-09-09-pol-4",
+          "star": false,
+          "headline": "石破前首相、訪韓しハン・ソンスク首相と会談",
+          "summary": "石破前首相が韓国を訪問し、ハン・ソンスク首相と会談。人口減少など共通課題での連携を確認した。",
+          "detail": "石破前首相は訪韓し、幅広い分野での日韓関係強化とともに、人口減少をはじめ両国に共通する課題での連携を確認した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260908de49156"
+        },
+        {
+          "id": "2026-09-09-pol-5",
+          "star": false,
+          "headline": "維新の国会議員11人が台湾訪問、頼清徳総統と会談",
+          "summary": "日本維新の会の国会議員11人が台湾を訪問し、頼清徳総統と会談。東アジアの平和と地域安定への協力を確認。",
+          "detail": "藤田共同代表や馬場前代表を含む国会議員11人が台湾を訪問し、頼清徳総統と会談。東アジアの平和やインド太平洋地域の安定に向けて協力していくことを確認した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260908de49158"
+        },
+        {
+          "id": "2026-09-09-pol-6",
+          "star": false,
+          "headline": "茂木外相、イラン外相と電話会談し船舶攻撃の自制を要求",
+          "summary": "茂木外相がイラン外相と電話会談し、事態沈静化に向けた柔軟な対応と船舶攻撃の自制を求めた。",
+          "detail": "茂木外相がイラン外相と電話で会談し、中東情勢の沈静化に向けた柔軟な対応と船舶攻撃の自制を要求した。",
+          "sourceLabel": "NHK／時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260908de49140"
+        },
+        {
+          "id": "2026-09-09-pol-7",
+          "star": false,
+          "headline": "中国の半導体材料輸出規制、政府が影響を精査",
+          "summary": "中国による半導体材料の輸出規制について、政府が日本経済への影響を精査していることが判明。",
+          "detail": "中国が導入した半導体材料の輸出規制を巡り、木原官房長官は「適切に対応する」と述べ、政府として影響を精査していることを明らかにした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800405&g=pol"
+        },
+        {
+          "id": "2026-09-09-pol-8",
+          "star": false,
+          "headline": "防衛省・厚生労働省、戦傷医療向上へ次官級協議を新設",
+          "summary": "防衛省と厚生労働省が、戦傷医療の向上に向けた連携強化のため次官級協議を新設する方針を示した。",
+          "detail": "防衛省と厚生労働省が新たに次官級の協議の枠組みを設け、有事の際の戦傷医療体制の向上に向けた連携を強化する方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800577&g=pol"
+        },
+        {
+          "id": "2026-09-09-pol-9",
+          "star": false,
+          "headline": "北朝鮮選手団のアジア大会参加、日本政府が入国容認へ調整",
+          "summary": "日本政府がアジア大会への北朝鮮選手団の入国を容認する方向で調整していることが分かった。",
+          "detail": "日本国内で開催予定のアジア大会を巡り、政府は北朝鮮選手団の入国を容認する方向で調整を進めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800561&g=pol"
+        },
+        {
+          "id": "2026-09-09-pol-10",
+          "star": false,
+          "headline": "荒井優前衆院議員、出馬表明　札幌市長選",
+          "summary": "荒井優前衆院議員が札幌市長選への出馬を表明した。",
+          "detail": "荒井優前衆院議員が記者会見し、札幌市長選への出馬を正式に表明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026090800775&g=pol"
+        }
+      ]
+    }
+  ]
+}
