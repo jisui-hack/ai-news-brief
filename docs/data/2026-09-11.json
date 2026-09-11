@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-11",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-11-ai-1",
+          "star": true,
+          "headline": "Anthropic、AI悪用に関する脅威インテリジェンスレポートを公開",
+          "summary": "2025年12月〜2026年8月の悪用事例を7分野に分類し、国家関与の疑いがある事例を報告した。",
+          "detail": "中国AI企業（Alibaba・DeepSeek・Moonshot AI等）による無断モデル抽出、中国当局による香港民主派・ウイグル支援活動家の監視、ロシアのプロパガンダ記事作成、イラン・マレーシア関連の影響工作などを報告。生物兵器関連の悪用については「正当な研究と区別できない」ケースもあり、安全性を優先して対応したとしている。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+        },
+        {
+          "id": "2026-09-11-ai-2",
+          "star": false,
+          "headline": "OpenAI、GPT-6 Astra需要急増でChatGPT「Pro」新規受付を一時停止",
+          "summary": "新モデル「GPT-6 Astra」への「前例がない」需要を受け、最上位プランの新規加入を一時停止した。",
+          "detail": "9月3日公開の「GPT-6 Astra」への需要急増により、ChatGPT「Pro（20倍）」プランの新規加入を一時停止すると発表。既存加入者への影響はなく、容量増強に向けた作業を進めているとした。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/"
+        },
+        {
+          "id": "2026-09-11-ai-3",
+          "star": false,
+          "headline": "OpenAI、金融機関向け「ChatGPT for Financial Services」を発表",
+          "summary": "Morgan Stanley・Evercoreと共同開発し、金融データとGPT-6 Astraを組み合わせて調査・財務分析を支援する。",
+          "detail": "Daloopa、PitchBook、LSEG Newsなどの金融データを標準搭載し、50種類以上のMCPコネクタで既存契約データにアクセス可能。セキュリティはChatGPT Enterpriseの機能をベースとし、企業データは既定でモデル学習に使用しない設計とした。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/"
+        },
+        {
+          "id": "2026-09-11-ai-4",
+          "star": false,
+          "headline": "DeepSeek、新モデル「V4.1-Flash」発表・大幅値下げ",
+          "summary": "552BパラメータのMoEモデルを発表し、8月の値上げから一転して大幅な値下げに踏み切った。",
+          "detail": "KVキャッシュ削減により入力コストを圧縮し、DeepSeek-V4-ProやGPT-5.6 Sol、Claude Opus 5など他社モデルを一部上回る性能を主張。オフピーク時の入力料金はキャッシュヒット時0.003ドルまで引き下げられた。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001374/"
+        },
+        {
+          "id": "2026-09-11-ai-5",
+          "star": false,
+          "headline": "Google DeepMind、\"Google弱体化説\"にエンジニアが反論",
+          "summary": "AI研究者による衰退論に対し、DeepMindエンジニアが「Gemini 3.8 Flash Cyber」の優位性を挙げて反論した。",
+          "detail": "ローガン・キルパトリック氏は、Gemini 3.8 Flash Cyberがサイバー防御ベンチマークやCyberGym等でAnthropic「Claude Mythos 5」を上回ると主張。次期モデル「Gemini 4」の存在にも言及し、サイバー領域での競争力を強調した。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001381/"
+        },
+        {
+          "id": "2026-09-11-ai-6",
+          "star": false,
+          "headline": "AIガバナンス・リスク管理市場、1年で10倍に急拡大",
+          "summary": "ITR調査によると2025年度は前年度比10倍規模に拡大、2030年度に150億円到達と予測。",
+          "detail": "2025〜2030年度のCAGRは106.4%と算出。生成AIエージェントの自律的な動作によるリスクの複雑化や、企業システムの品質・プライバシー・監視といった課題への対応需要が市場拡大の背景にあるという。",
+          "sourceLabel": "ITmedia エンタープライズ",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2609/11/news026.html"
+        },
+        {
+          "id": "2026-09-11-ai-7",
+          "star": false,
+          "headline": "Anthropic調査、Claude Codeの自動実行モードが危険コマンドの89%を停止",
+          "summary": "1053人のテスターを対象にした検証で、危険コマンドの89%が「ロック」機能で停止されたと報告。",
+          "detail": "提示された危険なコマンドのうち13.6%がブロック、89%がロック機能により停止された。セッション中に複数のロックが発生した場合は自動実行モードのデフォルト設定を自動的に切り替えるプロトコルも導入しているという。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html"
+        },
+        {
+          "id": "2026-09-11-ai-8",
+          "star": false,
+          "headline": "Apple、「Siri AI」日本語版を10月提供へ",
+          "summary": "Apple Foundation Modelを基盤とする刷新版Siriの日本語版が10月に提供開始予定。",
+          "detail": "英語版は9月9日からベータ提供を開始しており、日本語を含む5言語版は10月提供予定。オンデバイス処理と純正クラウド「Private Cloud Compute」を組み合わせ、プライバシーを確保した設計としている。土台の「Apple Intelligence」機能はiOS 27と同時に9月14日から提供される。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001338/"
+        },
+        {
+          "id": "2026-09-11-ai-9",
+          "star": false,
+          "headline": "Oracle、6〜8月期純利益60%増で過去最高",
+          "summary": "クラウドインフラ事業がAI需要で急拡大し、四半期純利益が前年同期比60%増を記録した。",
+          "detail": "純利益は前年同期比60%増の46億7900万ドルとなり、過去最高を更新。生成AI向けクラウド需要の拡大が業績を押し上げた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-11-ai-10",
+          "star": false,
+          "headline": "日立、熟練者の知見をAIで形式知化",
+          "summary": "ベテラン技術者が持つ暗黙知をAIで言語化・形式知化する取り組みを進めている。",
+          "detail": "技能継承の課題が深刻化する中、熟練者のノウハウをAIによって形式知に変換し、組織内で共有可能にする取り組みを紹介した。",
+          "sourceLabel": "ITmedia MONOist",
+          "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2609/11/news027.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-11-econ-1",
+          "star": true,
+          "headline": "東京株、一時2000円超安",
+          "summary": "イラン情勢悪化による原油高騰を受け、企業業績悪化への懸念から売り注文が拡大した。",
+          "detail": "日経平均株価は一時2000円以上下落した。イラン情勢の緊迫化で原油先物価格が上昇し、製造業を中心にコスト増への不安から株式売却が広がった。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260911de49643"
+        },
+        {
+          "id": "2026-09-11-econ-2",
+          "star": false,
+          "headline": "ECB、政策金利0.25%引き上げ",
+          "summary": "6月以来2会合ぶりの利上げを全会一致で決定した。",
+          "detail": "ラガルド総裁は会見で「インフレは目標を上回り、リスクは上方」と述べた一方、「将来の軌道は協議していない」とし、今後の追加利上げの有無には含みを持たせた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-11-econ-3",
+          "star": false,
+          "headline": "8月の企業物価指数、7.6%上昇",
+          "summary": "日銀発表。中東情勢の影響による石油関連製品の値上がりを反映し高水準が続いている。",
+          "detail": "企業間で取引されるモノの価格を示す企業物価指数は前年同月比7.6%上昇。石油関連製品の価格上昇が主因で、高水準の物価が続いている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260911de49635"
+        },
+        {
+          "id": "2026-09-11-econ-4",
+          "star": false,
+          "headline": "フーシ派が紅海要衝を掌握、原油価格急騰",
+          "summary": "バベルマンデブ海峡付近の港湾掌握を受け、NY原油先物が一時104ドル台に上昇した。",
+          "detail": "中東の重要な海運航路であるバベルマンデブ海峡近くの港湾をフーシ派が掌握したことを受け、原油の供給不安から価格が急騰。中東情勢の緊迫化が世界的な原油高の要因となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-11-econ-5",
+          "star": false,
+          "headline": "円相場、154円台半ばまで下落",
+          "summary": "米金利上昇や原油高を背景に円売りが進んだ。",
+          "detail": "11日の東京外国為替市場で円相場は下落し、154円台半ばで推移した。米金利上昇と原油価格の上昇が円売り材料となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091100273&g=eco"
+        },
+        {
+          "id": "2026-09-11-econ-6",
+          "star": false,
+          "headline": "中部電力、浜岡原発再稼働審査の申請取り下げで最終調整",
+          "summary": "同原発を巡っては今年1月にデータ不正が発覚し安全審査が白紙化されていた。",
+          "detail": "浜岡原発3・4号機の再稼働に向けた安全審査は、耐震データの不正が発覚し規制委員会が今年1月に白紙化。以降、廃炉に関する手続き不正も明らかになるなどガバナンス不全が指摘されており、今回は申請自体の取り下げに向けた調整が進んでいる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/genre/politics"
+        },
+        {
+          "id": "2026-09-11-econ-7",
+          "star": false,
+          "headline": "大企業景況感、7〜9月期は2期ぶりプラス",
+          "summary": "財務省・内閣府の法人企業景気予測調査で、大企業全産業の景況判断指数はプラス5.3となった。",
+          "detail": "前期（4〜6月期）はマイナスだったが、今期は2四半期ぶりにプラスに転じた。製品需要増や金融収益改善が回復の背景にあるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091100260&g=eco"
+        },
+        {
+          "id": "2026-09-11-econ-8",
+          "star": false,
+          "headline": "あいちフィナンシャルグループと三十三フィナンシャルグループ、経営統合を解消",
+          "summary": "新設持ち株会社の方向性を巡り見解の相違があり、来年4月の統合に向けた最終合意を断念した。",
+          "detail": "両社は9月10日、それぞれの取締役会で経営統合の解消を決定。あいち銀行社長は「今の体制強化に軸足を移す」としつつ「ある程度の規模は必要」と述べ、三十三銀行社長も再協議の余地を残す発言をしている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000807&g=eco"
+        },
+        {
+          "id": "2026-09-11-econ-9",
+          "star": false,
+          "headline": "日産社外取締役、ホンダとの異業種協業も視野「ウィンウィン」",
+          "summary": "資本提携解消後もホンダとの関係について前向きな発言があった。",
+          "detail": "日産の社外取締役が、ホンダとの間で異業種を含む協業の可能性について「ウィンウィンの関係を築ける」との見方を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091001039&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-11-pol-1",
+          "star": true,
+          "headline": "高市首相、内閣改造へ閣僚担務再編を検討",
+          "summary": "復興相・防災相の兼務、デジタル相・AI戦略相の兼務、消費税担当相の新設などを検討している。",
+          "detail": "来週の内閣改造に向け、復興庁の知見を新設の防災庁に活用させる復興相・防災担当相の兼務、AI政策の司令塔機能を一元化するデジタル相・AI戦略担当相の兼務、食料品消費税減税と給付を国会で一元的に答弁する消費税担当相の新設を検討。16日に党役員人事、17日に内閣改造を予定している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091001055&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-2",
+          "star": true,
+          "headline": "消費税減税、大綱を来週決定へ",
+          "summary": "自民党執行部は食料品消費税減税の制度設計を盛り込んだ大綱案に一任を取り付けた。",
+          "detail": "11日の合同会議で大綱案への一任を取り付け、高市首相は来週の決定を目指す考えを示した。決定後は16日に党役員人事、17日に内閣改造という日程で調整が進んでいる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260911de49613"
+        },
+        {
+          "id": "2026-09-11-pol-3",
+          "star": false,
+          "headline": "木原官房長官、政権で影響力強める",
+          "summary": "内閣の中枢として存在感を増す一方、自民党内との連携が課題として指摘されている。",
+          "detail": "木原官房長官が政権運営における発言力を強めているとされ、党内の各派閥との連携をどう構築するかが今後の課題とされている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000853&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-4",
+          "star": false,
+          "headline": "官房長官、裏金議員の起用排除せず",
+          "summary": "内閣改造・党人事を控え、政治資金問題に関わった議員の起用方針を巡る発言があった。",
+          "detail": "木原官房長官は記者会見で、いわゆる裏金問題に関わった議員について、人事での起用を一律には排除しない考えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091001195&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-5",
+          "star": false,
+          "headline": "入閣待機組、狭き門「安倍チルドレン」自民",
+          "summary": "内閣改造を控え、入閣を待つ議員グループの間で焦りが広がっているとされる。",
+          "detail": "自民党内で入閣を待つ「安倍チルドレン」と呼ばれる当選同期グループが、ポストの少なさから焦りを見せているという。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091001008&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-6",
+          "star": false,
+          "headline": "高市首相、21日から国連総会出席で訪米を調整",
+          "summary": "今月下旬の国連総会出席に合わせた訪米日程の調整が進んでいる。",
+          "detail": "高市首相は9月21日から国連総会出席のため訪米する方向で調整が進められている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260910de49567"
+        },
+        {
+          "id": "2026-09-11-pol-7",
+          "star": false,
+          "headline": "維新との連立合意「改定不要」",
+          "summary": "木原官房長官は日本維新の会との連立合意について改定の必要はないとの認識を示した。",
+          "detail": "木原官房長官は、消費税減税の実現に向け自信を示しつつ、維新との連立合意については現行のままで問題ないとの考えを述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000692&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-8",
+          "star": false,
+          "headline": "政府、AI農業特区を指定へ 北海道十勝地域",
+          "summary": "帯広市など19市町村を国家戦略特区に指定し、AI農業の規制を緩和する方針。",
+          "detail": "公道でのロボットトラクター自動走行やドローンによる農薬散布の手続きを簡素化する。現行法では倉庫から畑への移動時に有人運転が必要だったが、特区では有人車と隊列を組めば無人走行を認める方向で、省人化の効果を高める狙い。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000907&g=eco"
+        },
+        {
+          "id": "2026-09-11-pol-9",
+          "star": false,
+          "headline": "中東の危険情報引き下げ",
+          "summary": "日本政府はイスラエルなど4カ国・地域について危険情報を引き下げた。",
+          "detail": "外務省は中東情勢を踏まえ、イスラエルなど4カ国・地域に対する海外安全情報（危険情報）のレベルを引き下げた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000852&g=pol"
+        },
+        {
+          "id": "2026-09-11-pol-10",
+          "star": false,
+          "headline": "ロシア外務省、日本は「口出しするな」",
+          "summary": "日本政府による「菊花紋章」破壊像の撤去要請に、ロシア外務省が反発した。",
+          "detail": "日本の皇室の紋章を破壊する内容の像を巡り、日本政府が撤去を要請したことに対し、ロシア外務省は「口出しするな」との声明で反発した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091000194&g=pol"
+        }
+      ]
+    }
+  ]
+}
