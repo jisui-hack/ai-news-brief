@@ -1,0 +1,263 @@
+{
+  "date": "2026-09-14",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-14-ai-1",
+          "star": true,
+          "headline": "Anthropic、アモデイCEOがAI開発の「ペース調整」を訴えるエッセイ公開",
+          "summary": "急速な能力向上と再帰的自己改善のリスクを踏まえ、業界全体で開発ペースを落とし安全対策に時間を割くべきだと提言。アルトマン氏・マスク氏も同調。",
+          "detail": "7月に発生したOpenAIとHugging Face間のインシデントを一因に挙げ、第三者の「常駐評価者」制度導入や民主主義国間の安全基準の協調を提案。訓練停止ではなく、各社がアライメントと安全対策に十分な時間を割くことが目的だと強調した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/"
+        },
+        {
+          "id": "2026-09-14-ai-2",
+          "star": true,
+          "headline": "トランプ政権のサックス氏、AI「ペース調整」論に苦言",
+          "summary": "科学技術諮問委員会共同議長のデビッド・サックス氏が、AnthropicとOpenAIの主張に対し「規制がなければできないふりをやめろ」と反論。",
+          "detail": "サックス氏は両社が既にフロンティアAIを寡占していると指摘し、規制の枠組みを条件に求める姿勢は「国民と政治システムへの脅迫に見える」と述べた。動機には製造物責任回避の思惑もあるとし、「まず実行してから信用を得るべき」と結論づけた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/"
+        },
+        {
+          "id": "2026-09-14-ai-3",
+          "star": false,
+          "headline": "Anthropic脅威レポート、APIキー奪取から3時間でクラウド掌握される実態を公表",
+          "summary": "単一のAPIキー漏洩からAI駆動の自律型エージェントが攻撃を自動化し、数時間でクラウド管理者権限を奪う事例を報告。",
+          "detail": "従来の静的な防御体制が機能していない実態を指摘し、APIキー管理の強化、権限スコープの最小化、自動検知・対応体制の整備などを緊急対策として提言した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://techtarget.itmedia.co.jp/tt/article/2609/14/2000001415/"
+        },
+        {
+          "id": "2026-09-14-ai-4",
+          "star": false,
+          "headline": "日立、複数AIエージェントを統合する「AIオーケストレーション」技術を発表",
+          "summary": "サプライチェーン全体の運用課題を、専門AIエージェントを束ねる「コーディネーターAI」で解決する仕組み。",
+          "detail": "Hitachi Social Innovation Forum 2026で発表。各部門に最適なAIを配置し、最終意思決定は人間が行う設計。2027年中の提供開始を予定している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html"
+        },
+        {
+          "id": "2026-09-14-ai-5",
+          "star": false,
+          "headline": "Databricks、従来型RAGの限界を示す「適応型検索」モデルを発表",
+          "summary": "質問の複雑さに応じて検索方法を自律制御する「Adaptive Instructed-Retriever」により、社内検索の高速化・低コスト化を狙う。",
+          "detail": "単純な要求には高速検索、複雑な要求には複数ステップの順次検索を使い分けるアプローチで、遅延とコストを抑えつつ精度向上を図る。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://techtarget.itmedia.co.jp/tt/article/2609/14/2000001410/"
+        },
+        {
+          "id": "2026-09-14-ai-6",
+          "star": false,
+          "headline": "Google、「NotebookLM」を「Gemini Notebook」に改称し機能拡張",
+          "summary": "資料を読むためのAIから、コード実行・データ分析・資料生成まで担う基盤へ役割を拡大した。",
+          "detail": "ノートブック内でのコード記述・実行、複雑な集計・分析処理、グラフや表計算・スライド資料の生成機能を追加し、Geminiの他サービスとも連携する。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/"
+        },
+        {
+          "id": "2026-09-14-ai-7",
+          "star": false,
+          "headline": "AIエージェント標準化団体、開発ツールを無料公開",
+          "summary": "Agentic AI FoundationがMCPやSDKなどの開発ツールを無料公開し、標準化を推進。",
+          "detail": "外部システムとの連携を容易にし、企業がAIエージェント技術を効率的に活用できる環境整備を狙う。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html"
+        },
+        {
+          "id": "2026-09-14-ai-8",
+          "star": false,
+          "headline": "Gartner調査、生成AI導入企業の85%がコスト削減も利益向上は14%どまり",
+          "summary": "トークン使用量の管理不足が課題として指摘され、使用状況の可視化やROI測定の明確化が必要とされた。",
+          "detail": "生成AIとAIエージェント導入企業の85%が「コスト削減」を実感する一方、利益向上の実感は14%にとどまる。New Relicが開発したMCPサーバー「Preflight」などトークン効率改善ツールも紹介された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-14-econ-1",
+          "star": true,
+          "headline": "日経平均株価続落、6万3000円割れ AI・半導体が大幅安",
+          "summary": "米国市場でのAI関連株への過熱警戒が波及し、東京市場でも半導体・AI関連株が軒並み売られた。",
+          "detail": "14日の東京株式市場で日経平均株価が続落し、節目の6万3000円を割り込んだ。AI・半導体関連銘柄の急落が指数を押し下げた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL140E80U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-14-econ-2",
+          "star": false,
+          "headline": "米利上げ観測でVIX売り膨らむ、株式市場の慢心に警鐘",
+          "summary": "過度な低ボラティリティへの賭けが積み上がっており、相場急変時の巻き戻しリスクが意識されている。",
+          "detail": "米国の利上げ観測が強まる中、恐怖指数（VIX）への売り建てが膨らんでいる。市場の楽観姿勢が続く中、急変時の反動を警戒する声が出ている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL14029TU6A910C2000000/"
+        },
+        {
+          "id": "2026-09-14-econ-3",
+          "star": false,
+          "headline": "矢野元財務次官、財政悪化に改めて警鐘「オオカミはすぐそこに来ている」",
+          "summary": "国債増発やAI関連投資拡大に伴う資金需要増を背景に、長期金利上昇への懸念を表明。",
+          "detail": "矢野康治・元財務次官が財政赤字の拡大に改めて警鐘を鳴らした。AI投資向け資金需要の高まりが国債市場への重圧となっているとの見方を示した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL10BH7TQ6A910C2000000/"
+        },
+        {
+          "id": "2026-09-14-econ-4",
+          "star": false,
+          "headline": "円相場、1ドル153円台前半で推移",
+          "summary": "14日午前9時時点で153円41〜41銭。日米金利差を意識した推移が続く。",
+          "detail": "外国為替市場では円安基調が続いており、日米の金融政策格差が引き続き相場の主な材料となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400224&g=eco"
+        },
+        {
+          "id": "2026-09-14-econ-5",
+          "star": false,
+          "headline": "NY原油先物、一時103ドル台に上昇 中東情勢緊迫が長期化",
+          "summary": "供給不安の高まりが原油相場を押し上げ、エネルギーコストを通じた物価影響が懸念される。",
+          "detail": "ニューヨーク原油先物相場が一時1バレル=103ドル台まで上昇した。中東情勢の緊迫が長期化していることが背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL14084TU6A910C2000000/"
+        },
+        {
+          "id": "2026-09-14-econ-6",
+          "star": false,
+          "headline": "浜岡原発不正、中部電の社長・会長が引責辞任の方向",
+          "summary": "第三者委員会の報告書は、経営層による審査遅延への批判が担当者の不適切行為の要因になったと指摘。",
+          "detail": "中部電力の浜岡原発を巡る点検不正問題で、林欣吾社長ら両首脳が引責辞任する方向であることが分かった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091300348&g=eco"
+        },
+        {
+          "id": "2026-09-14-econ-7",
+          "star": false,
+          "headline": "不動産大手、AI需要でデータセンター開発を強化",
+          "summary": "各社が培ってきた開発ノウハウを生かし、AI需要拡大を背景とした市場拡大を狙う動きが広がる。",
+          "detail": "不動産大手各社がAI需要の拡大を追い風にデータセンター事業を強化している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200301&g=eco"
+        },
+        {
+          "id": "2026-09-14-econ-8",
+          "star": false,
+          "headline": "金融庁、社債の売買情報インフラを整備へ",
+          "summary": "社債市場の流動性向上を通じ、企業の資金調達手段の確保を後押しする狙い。",
+          "detail": "金融庁が社債の売買を活性化し企業の資金調達を支援するため、情報インフラの整備に乗り出す方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091100869&g=eco"
+        },
+        {
+          "id": "2026-09-14-econ-9",
+          "star": false,
+          "headline": "使用済み核燃料の再処理工場、長期保管で燃料性能に影響の恐れ",
+          "summary": "各電力会社の保管量が公開され、東京電力が最多で関西・九州電力が続くことが判明。",
+          "detail": "日本原燃の再処理工場を巡り、長期保管により燃料性能に影響が出る可能性が指摘された。電力会社ごとの保管量も併せて公開された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200292&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-14-pol-1",
+          "star": true,
+          "headline": "沖縄県知事選、自民系・古謝氏が初当選 辺野古容認、12年ぶり自民系奪還",
+          "summary": "自民党などが支援する新人の古謝玄太氏が、辺野古移設に反対してきた現職らを破り初当選した。",
+          "detail": "13日投開票の沖縄県知事選で、自民系候補の当選は12年ぶり。辺野古移設を容認する立場で、高市政権の沖縄基地政策運営に影響を与えるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400124&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-2",
+          "star": true,
+          "headline": "高市首相、党役員人事・内閣改造を調整 国対委員長に村井氏起用へ",
+          "summary": "異例の抜てき人事とみられ、連立を組む日本維新の会からは入閣調整も伝えられている。",
+          "detail": "高市首相が自民党役員人事と内閣改造の調整を進めており、国会対策委員長に村井英樹氏を起用する方向。日本維新の会の中司幹事長の入閣調整も報じられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091300215&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-3",
+          "star": false,
+          "headline": "政府・与党、沖縄知事選結果を受け辺野古移設推進の方針",
+          "summary": "古謝氏当選を受け、政府・与党は移設事業を「着実に進める」方針を確認した。",
+          "detail": "政府・与党は、米軍普天間基地の名護市辺野古への移設計画を推進する方針を示すとともに、沖縄経済の発展を支援していく考えを示した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260914de50006"
+        },
+        {
+          "id": "2026-09-14-pol-4",
+          "star": false,
+          "headline": "AI向け電力・供給網整備で協力、APECエネルギー相会合が共同声明",
+          "summary": "AI需要拡大に伴う電力インフラ整備に向け、政策連携強化をうたう共同声明を採択。",
+          "detail": "APEC(アジア太平洋経済協力)のエネルギー相会合で、AI向けの電力・供給網整備に関する国際協力を強化する共同声明がまとめられた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200119&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-5",
+          "star": false,
+          "headline": "消費減税、大綱決定へ 特例・経過措置で制度複雑化の懸念",
+          "summary": "2027年4月の食料品消費税減税を巡り、特例・経過措置が事業者や消費者の混乱を招く恐れが指摘されている。",
+          "detail": "自民党税制調査会が消費減税の大綱をまとめる方向。複数の特例措置や経過措置が設けられることで、制度が複雑化する懸念が出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091101017&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-6",
+          "star": false,
+          "headline": "北朝鮮、弾道ミサイル数発発射 日本海に落下",
+          "summary": "韓国軍が発表。日本海に向けて数発の弾道ミサイルが発射された。",
+          "detail": "北朝鮮による弾道ミサイル発射は今年に入り複数回確認されており、周辺国が警戒を強めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200134&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-7",
+          "star": false,
+          "headline": "次期戦闘機（日英伊）開発、経済安保面で年内に次官級協議へ",
+          "summary": "駐日英国大使がインタビューで言及。日英伊共同開発の次期戦闘機を巡る経済安保協議が年内に予定される。",
+          "detail": "駐日英国大使は、次期戦闘機の共同開発が経済安全保障の観点からも重要だとし、年内に次官級の協議を行う方針を明らかにした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200312&g=pol"
+        },
+        {
+          "id": "2026-09-14-pol-8",
+          "star": false,
+          "headline": "日中友好議連、超党派若手議員が北京訪問 交流再開の糸口探る",
+          "summary": "停滞していた日中間の議員交流の再開を模索する動き。",
+          "detail": "日中友好議員連盟に所属する超党派の若手議員が北京を訪問し、中国側の友好団体幹部と面会した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260913de49955"
+        },
+        {
+          "id": "2026-09-14-pol-9",
+          "star": false,
+          "headline": "BRICS首脳会議開幕、このあと中印首脳会談へ",
+          "summary": "主要新興国首脳が一堂に会し、この後に中印首脳会談が予定されている。",
+          "detail": "BRICS首脳会議が開幕し、参加国の首脳が経済・外交上の連携について協議する見通し。会議に続き中印首脳会談も予定されている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260912de49901"
+        },
+        {
+          "id": "2026-09-14-pol-10",
+          "star": false,
+          "headline": "守勢日本、打てぬ対抗策 プーチン大統領の択捉訪問から1カ月",
+          "summary": "ロシア大統領の北方領土訪問から1カ月が経過し、日本側の有効な対抗策が乏しい現状を指摘。",
+          "detail": "プーチン大統領による択捉島訪問から1カ月が経過したが、日本政府は目立った対抗措置を打ち出せておらず、外交上の手詰まり感が指摘されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091200287&g=pol"
+        }
+      ]
+    }
+  ]
+}
