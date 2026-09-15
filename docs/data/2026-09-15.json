@@ -1,0 +1,254 @@
+{
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-15-ai-1",
+          "star": true,
+          "headline": "元Anthropic研究者、AI開発競争の加速に警鐘",
+          "summary": "事前学習を担当していた27歳の元研究者が、AIの自己改善能力が「半年〜2年以内」に出現しうると指摘した。",
+          "detail": "企業間の競争激化が安全対策を置き去りにし、制御不能な事態を招く恐れがあると訴えた。Anthropic・OpenAI両トップが開発ペースの調整を呼びかけた直後のタイミングで、内部関係者からも同様の懸念が示された形。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN14AJ10U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-15-ai-2",
+          "star": true,
+          "headline": "中国AI大手・智譜（Zhipu AI）、7700億円を調達",
+          "summary": "転換社債と新株発行を組み合わせ、開発競争激化に備える大型資金を確保した。",
+          "detail": "2027年満期の無利子転換社債で約4600億円、新株発行で約3000億円超を調達。調達資金は競争が激しさを増すAI開発に充てるとしている。発表後、同社株価は一時1割安となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM142I00U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-15-ai-3",
+          "star": false,
+          "headline": "国内AIスタートアップYoom、7億円を調達",
+          "summary": "業務自動化サービスを展開する同社が、顧客の社内システムとの連携まで自動化対象を広げる方針。",
+          "detail": "J-KISS方式で7億円を調達。現在はメールやチャットツール、各種SaaSを組み合わせた経費精算などの自動化を提供しているが、今後は顧客企業の社内システム上の業務にも対応範囲を拡大する。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC1311R0T10C26A9000000/"
+        },
+        {
+          "id": "2026-09-15-ai-4",
+          "star": false,
+          "headline": "秋田県、AIデータセンター向け電力確保でGX戦略地域の優遇措置活用へ",
+          "summary": "経産省の重点地域指定を受け、鈴木知事が電力系統接続の優遇制度活用を表明した。",
+          "detail": "経産省は9月11日、全国18地域をGX戦略地域の第1弾として指定し、秋田県は「データセンター拠点」に選ばれた。県は関係市町村と連携し、優遇的な系統接続申込制度の活用準備を進めるとしている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC143A60U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-15-ai-5",
+          "star": false,
+          "headline": "会議支援AI市場が35.1％成長",
+          "summary": "「議事録作成」にとどまらない活用ニーズの広がりが市場拡大の背景にある。",
+          "detail": "会議支援AIの利用が議事録の自動作成という当初用途を超え、意思決定支援や進捗管理など幅広い業務領域に広がっていることが成長の要因として挙げられている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html"
+        },
+        {
+          "id": "2026-09-15-ai-6",
+          "star": false,
+          "headline": "Salesforce、AI関連6製品を統合し組織のAI統制機能を強化",
+          "summary": "複数のAIエージェントが野放しになる状況に歯止めをかける狙いの製品統合。",
+          "detail": "企業内で乱立しがちなAIエージェントの利用状況を一元的に把握・管理できるよう、既存の関連6製品を統合したガバナンス基盤を打ち出した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://techtarget.itmedia.co.jp/tt/article/2609/15/2000001442/"
+        },
+        {
+          "id": "2026-09-15-ai-7",
+          "star": false,
+          "headline": "トランプ米大統領、広がるAI規制論に反論",
+          "summary": "「中国へのリードを維持したい」として、性急な規制強化に慎重な姿勢を示した。",
+          "detail": "AnthropicやOpenAIのトップらが開発ペースの調整や安全対策の強化を訴える中、トランプ大統領は米国のAI覇権維持を優先すべきだとの立場を改めて示した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/"
+        },
+        {
+          "id": "2026-09-15-ai-8",
+          "star": false,
+          "headline": "生成AI活用、300人調査で見えた定着の壁",
+          "summary": "既存業務画面と切り離された「別画面」での利用が定着を妨げているとの指摘。",
+          "detail": "業務システムとは別のチャット画面で生成AIを使い続ける運用が、日常業務への組み込みを阻む要因になっているとの調査結果。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news042.html"
+        },
+        {
+          "id": "2026-09-15-ai-9",
+          "star": false,
+          "headline": "米IT大手のAIモデル無償公開戦略、日本は追随できるか",
+          "summary": "オープンウェイト公開の背景にある競争戦略を分析する記事。",
+          "detail": "米IT業界がAIモデルを無料公開する背景には、エコシステムの主導権を握るしたたかな戦略があると指摘。日本企業が同様の戦略を取れるかを論じている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-15-econ-1",
+          "star": true,
+          "headline": "中部電力、社長・会長が引責辞任 浜岡原発不正で決着",
+          "summary": "林欣吾社長・勝野哲会長が9月30日付で辞任、再稼働審査申請も取り下げた。",
+          "detail": "後任には安井稔専務が昇格する。浜岡原発3・4号機の地震想定データを巡る不正問題を受け、調査委員会は「経営層による叱責が現場の不適切行為の要因になった」と指摘しており、ガバナンスと組織風土の問題が改めて浮き彫りとなった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400584&g=eco"
+        },
+        {
+          "id": "2026-09-15-econ-2",
+          "star": true,
+          "headline": "「AI開発減速」論で市場動揺、半導体株急落",
+          "summary": "AnthropicとOpenAIのトップが開発ペース調整を訴えたことを受け、NYダウが反落し半導体株が急落した。",
+          "detail": "NVIDIAなど半導体株が売られ、東京市場でもソフトバンクGやキオクシアが下落。ただ15日午前の東京市場ではソフトバンクGが急反発するなど、AIセクターを巡る神経質な値動きが続いている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL14ACH0U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-15-econ-3",
+          "star": false,
+          "headline": "国内長期金利、3.005％に上昇",
+          "summary": "米長期金利が一時5％を超え、国内金利にも上昇圧力が波及した。",
+          "detail": "新発10年物国債利回りは前日比0.010％上昇。原油高によるインフレ懸念と中東情勢の緊張が、日米双方で金利の先高観を強めている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL150BU0V10C26A9000000/"
+        },
+        {
+          "id": "2026-09-15-econ-4",
+          "star": false,
+          "headline": "光通信、レオパレス21を最大2676億円でTOB買収",
+          "summary": "ファンド2社と共同でTOBを実施し、1株あたり1000円で買い付ける。",
+          "detail": "レオパレス21の管理物件約54万戸のうち法人契約が約3分の2を占めており、光通信は自社の電気・通信商材を法人顧客に販売する足がかりにする狙い。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC1496P0U6A910C2000000/"
+        },
+        {
+          "id": "2026-09-15-econ-5",
+          "star": false,
+          "headline": "円相場、154円台前半で推移",
+          "summary": "一時155円に接近する場面もあり、日米金利差を意識した展開が続いている。",
+          "detail": "米長期金利の上昇観測を背景にドル買い圧力がかかりやすい状況が続く。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL1502ZTV10C26A9000000/"
+        },
+        {
+          "id": "2026-09-15-econ-6",
+          "star": false,
+          "headline": "原油続伸、中東の供給懸念強まる",
+          "summary": "中東情勢の緊迫が長期化し、供給不安から原油価格が押し上げられている。",
+          "detail": "エネルギーコストの上昇を通じた物価への波及も懸念材料となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL150GX0V10C26A9000000/"
+        },
+        {
+          "id": "2026-09-15-econ-7",
+          "star": false,
+          "headline": "プルデンシャル生命、顧客情報1570人分が漏えい",
+          "summary": "元社員が不正に持ち出した後に紛失したことが判明した。",
+          "detail": "同社は該当する顧客への説明と再発防止策の徹底を進めるとしている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091401016&g=eco"
+        },
+        {
+          "id": "2026-09-15-econ-8",
+          "star": false,
+          "headline": "楽天モバイル、ID連携必須化の方針を撤回",
+          "summary": "自動解約につながる方針変更を巡り「深くおわび」と表明した。",
+          "detail": "利用者からの反発を受け、当初予定していた方針を取りやめる対応を取った。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400943&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-15-pol-1",
+          "star": true,
+          "headline": "自民党役員人事・内閣改造、16・17日に実施へ",
+          "summary": "村井英樹氏を国対委員長に起用する方向で調整。維新の中司宏幹事長の入閣も固まった。",
+          "detail": "16日に党役員人事、17日に内閣改造を実施する予定。連立を組む日本維新の会は「閣外協力」から「閣内協力」へ転換する。中司氏は規制改革担当相への起用が取り沙汰されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400332&g=pol"
+        },
+        {
+          "id": "2026-09-15-pol-2",
+          "star": true,
+          "headline": "政府、消費税減税の大綱を15日に閣議決定へ",
+          "summary": "食料品を対象とした減税の制度設計を盛り込み、臨時国会での法案成立を目指す。",
+          "detail": "自民・維新両党の税制調査会幹部が大綱案を了承済み。できるだけ多くの党の賛同を得て法案を成立させたい考え。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260914de50209"
+        },
+        {
+          "id": "2026-09-15-pol-3",
+          "star": false,
+          "headline": "高市内閣支持率53％・不支持31％",
+          "summary": "NHK世論調査で支持率は前月から横ばい、不支持率は2ポイント低下した。",
+          "detail": "政権発足後の政策運営が一定の評価を得ている一方、支持率の伸びは頭打ちとなっている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260914de50073"
+        },
+        {
+          "id": "2026-09-15-pol-4",
+          "star": false,
+          "headline": "沖縄県知事選、出口調査で辺野古争点の後退浮き彫りに",
+          "summary": "前回玉城氏支持層の3割が当選した古謝氏に投票したとの分析結果が示された。",
+          "detail": "政府は知事選結果を受け、沖縄経済の活性化策の検討を進める方針を示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400582&g=pol"
+        },
+        {
+          "id": "2026-09-15-pol-5",
+          "star": false,
+          "headline": "高市首相、IEA事務局長とエネルギー安定確保で協力を要請",
+          "summary": "世界規模でのエネルギー強靱化に向けた連携を確認した。",
+          "detail": "AI需要拡大などを背景にエネルギー需給が世界的に逼迫する中、多国間での安定供給体制構築を呼びかけた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260914de50194"
+        },
+        {
+          "id": "2026-09-15-pol-6",
+          "star": false,
+          "headline": "日中友好議連の若手議員、中国外務省幹部と会談",
+          "summary": "停滞していた日中間の議員交流の再開に向け意思疎通を図った。",
+          "detail": "双方は今回の会談を交流再開への「大きな一歩」と位置づけている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260914de50195"
+        },
+        {
+          "id": "2026-09-15-pol-7",
+          "star": false,
+          "headline": "中道系の立憲民主離党組、新党名に「民主」を盛り込む方針",
+          "summary": "週内にも新党結成の見通しとなっている。",
+          "detail": "既存の立憲民主党との路線の違いを打ち出す狙いがあるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400936&g=pol"
+        },
+        {
+          "id": "2026-09-15-pol-8",
+          "star": false,
+          "headline": "立憲民主党代表、辺野古移設中止の方針を維持",
+          "summary": "沖縄知事選の結果にかかわらず方針は変更しないと表明した。",
+          "detail": "自民系新知事の誕生で移設容認派が優勢となる中でも、党としての立場を崩さない考えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400980&g=pol"
+        },
+        {
+          "id": "2026-09-15-pol-9",
+          "star": false,
+          "headline": "皇室典範改正、有識者会議に検討状況を報告",
+          "summary": "政府が有識者会議に報告を行い、木原官房長官がメンバーに謝意を表明した。",
+          "detail": "皇位継承の安定確保に向けた制度改正の検討が引き続き進められている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091400927&g=pol"
+        }
+      ]
+    }
+  ]
+}
