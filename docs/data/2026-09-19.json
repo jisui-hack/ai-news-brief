@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-19",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-19-ai-1",
+          "star": true,
+          "headline": "Anthropic、Claudeの「チャット」と「Cowork」を統合",
+          "summary": "別々だった対話モードとエージェント型作業環境を統合し、質問と大規模タスクを同じ会話内で扱えるようにした。",
+          "detail": "これまでは用途に応じてチャットとCoworkを切り替える必要があり、「どちらを使うべきか判断すること自体が煩わしい」というユーザー意見を受けて統合された。文書作成の「Claude Docs」、プレゼン資料作成の「Claude Slides」も新設され、実行権限は「Manual（毎回確認）」「Auto（自動実行）」から選択可能。Pro/Maxから順次展開し、Team・Free・Enterpriseへと拡大予定。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/"
+        },
+        {
+          "id": "2026-09-19-ai-2",
+          "star": true,
+          "headline": "三菱重工とPFN、防衛・インフラ向けAIで資本業務提携",
+          "summary": "三菱重工がPreferred Networksに100億円出資し、社会インフラ・防衛分野向けAIを共同開発する。",
+          "detail": "両社は6月に業務提携を発表済みで、今回さらに資本面でも関係を強化した。国際情勢の変化、労働力不足、インフラ老朽化などを背景に、高信頼性が求められるミッションクリティカル領域でのAI実装が必要との認識で一致。三菱重工は社会インフラ・航空・防衛・宇宙分野の機械・システムを、PFNはAI向け半導体・計算基盤・AIモデルを強みとする。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/"
+        },
+        {
+          "id": "2026-09-19-ai-3",
+          "star": true,
+          "headline": "アンソロピックのIPO、11月に遅れる見通し",
+          "summary": "WSJ報道によると、当初10月予定だった目論見書提出が遅延し、上場は11月にずれ込む見通し。",
+          "detail": "評価額2兆ドル、調達額1000億ドル超という過去最大級のIPOになると予想されている。具体的な延期理由は明らかになっていないが、これほどの規模の案件では市場環境や規制対応に時間を要することが一般的とされる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN1905Y0Z10C26A9000000/"
+        },
+        {
+          "id": "2026-09-19-ai-4",
+          "star": false,
+          "headline": "Google DeepMind、「DeepMind Institute」設立",
+          "summary": "AGI（汎用人工知能）がもたらす社会的影響を議論する新組織を設立したと発表した。",
+          "detail": "AI開発の急進展を踏まえ、経済・雇用・安全保障への影響を検討する体制を整える狙い。フロンティアAI各社が相次いで安全性・社会影響に関する専門組織を立ち上げる動きの一環。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/"
+        },
+        {
+          "id": "2026-09-19-ai-5",
+          "star": false,
+          "headline": "Anthropic、AI開発の26%を「Claudeが主導」と分析",
+          "summary": "自社コード生成の分析で、Claudeが主導する開発の割合が半年前の「1%未満」から26%へ急拡大したと発表した。",
+          "detail": "AIによる自己加速的な開発の進展を示すデータとして注目されている。半年でこれほど急速に比率が伸びたことは、AI開発サイクル自体がAIによって高速化しつつある可能性を示唆する。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/"
+        },
+        {
+          "id": "2026-09-19-ai-6",
+          "star": false,
+          "headline": "「中国AIがClaudeやGPTから数十億トークン抽出」、米当局が知識蒸留の実態を指摘",
+          "summary": "米当局が、中国のAI企業が主要モデルの出力を大量取得し自社モデル学習に利用する「知識蒸留」の実態を明らかにした。",
+          "detail": "米中間のAI技術移転を巡る懸念が改めて浮上した形。主要モデル提供企業にとっては利用規約違反への対応や不正利用検知の強化が課題となる。",
+          "sourceLabel": "ITmedia atmarkIT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html"
+        },
+        {
+          "id": "2026-09-19-ai-7",
+          "star": false,
+          "headline": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開",
+          "summary": "AIモデルが意図と異なる挙動を示す「ミスアライメント」を体系的に報告・評価する新たな枠組みを公開した。",
+          "detail": "業界内での安全性評価の標準化に向けた動きの一環で、他社の安全性フレームワーク公表の動きとも歩調を合わせる。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/"
+        },
+        {
+          "id": "2026-09-19-ai-8",
+          "star": false,
+          "headline": "NVIDIA・Google・Emerald AI、AIデータセンターの電力消費調整でアライアンス設立",
+          "summary": "3社が、AIデータセンターの電力需要をグリッドの状況に応じて柔軟に調整する取り組みで提携した。",
+          "detail": "AI需要急増による電力インフラへの負荷が世界的な課題となる中での対応。データセンターの電力使用をピーク時に抑制するなどの仕組み構築を目指す。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/"
+        },
+        {
+          "id": "2026-09-19-ai-9",
+          "star": false,
+          "headline": "英チャールズ国王、AI大手トップに「実存的な危険」を警告",
+          "summary": "チャールズ国王がAI大手企業の経営陣に対し、制御不能なAI開発がもたらしうる危険について警鐘を鳴らした。",
+          "detail": "欧州王室からの異例の直接的な発信として報じられた。AI安全性を巡る議論が政財界だけでなく王室にも及んでいることを示す。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/"
+        },
+        {
+          "id": "2026-09-19-ai-10",
+          "star": false,
+          "headline": "米カリフォルニア州、AI暴走時の「キルスイッチ」導入を検討",
+          "summary": "州知事がAIシステムの緊急停止機能の実装を検討するよう命令したと報じられた。",
+          "detail": "フロンティアAIのリスク管理を巡る米国内の規制対応が、連邦レベルだけでなく州レベルでも進み始めている事例。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN18C6F0Y6A910C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-19-econ-1",
+          "star": true,
+          "headline": "日銀、政策金利を1.25%に利上げ",
+          "summary": "9月18日の金融政策決定会合で、政策金利を1%から1.25%に引き上げることを決定。1995年以来約31年ぶりの高水準。",
+          "detail": "中東情勢悪化による原油高や円安、AI関連設備投資が物価上振れリスクとして挙げられ、前回から3カ月という異例の短間隔での利上げとなった。植田総裁ら政策委員9人中7人が賛成、2人が反対。市場は従来半年ごとの利上げを想定しており、加速するペースに驚きが広がった。次の利上げは今冬との見方も浮上している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800484&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-2",
+          "star": true,
+          "headline": "8月消費者物価1.7%上昇、4カ月ぶり伸び率縮小",
+          "summary": "総務省発表の8月全国消費者物価指数（生鮮食品除く総合）は前年同月比1.7%上昇し、4カ月ぶりに伸び率が縮小した。",
+          "detail": "伸び率縮小は日銀の利上げ判断に一定の余地を与える材料となった一方、原油高などによる物価上振れリスクは残るとされ、今後の政策運営の焦点となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800241&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-3",
+          "star": false,
+          "headline": "植田日銀総裁「政策の局面が変化」",
+          "summary": "利上げ決定後の会見で、物価が原油高などで上振れするリスクを点検しながら今後の利上げペースを判断する考えを示した。",
+          "detail": "総裁は次の焦点は物価の「定着」だと述べ、金融政策が緩和局面から正常化・引き締め局面へ移りつつあることを示唆した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800671&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-4",
+          "star": false,
+          "headline": "普通預金金利0.5%に引き上げ、34年ぶり水準",
+          "summary": "3メガバンクが日銀の利上げを受けて普通預金金利を0.5%に引き上げると発表した。",
+          "detail": "約34年ぶりの高水準となり、預金者にとっては金利収入の増加につながる一方、住宅ローンなど借り入れ側の負担増も見込まれる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091801052&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-5",
+          "star": false,
+          "headline": "円相場、早期追加利上げ観測後退で158円台まで下落",
+          "summary": "日銀の利上げ発表後、市場では次回利上げが年内には至らないとの見方が広がり、円が対ドルで一時158円台まで下落した。",
+          "detail": "利上げ自体は決定されたものの、今後のペースが緩やかになるとの観測が円売りにつながった。市場の反応は「材料出尽くし」に近い形となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091801032&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-6",
+          "star": false,
+          "headline": "日経平均882円高、日銀利上げ後も買い優勢",
+          "summary": "18日の東京株式市場で日経平均株価は882円高の6万5018円95銭となった。",
+          "detail": "利上げがハト派的と受け止められたことや、金利上昇による金融株の収益改善期待が買いを支えた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800771&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-7",
+          "star": false,
+          "headline": "NYダウ反落、95ドル安",
+          "summary": "19日未明のニューヨーク株式市場でダウ工業株30種平均は反落した。",
+          "detail": "米長期金利の上昇が重荷となり、前日までの上昇の反動も加わった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL190190Z10C26A9000000/"
+        },
+        {
+          "id": "2026-09-19-econ-8",
+          "star": false,
+          "headline": "住宅ローン競争、大手行・地銀で構図変化",
+          "summary": "日銀の利上げを受け、住宅ローン金利を巡る大手銀行と地方銀行の競争環境に変化が生じていると報じられた。",
+          "detail": "金利上昇局面では固定・変動金利それぞれの戦略の違いが各行の競争力に影響しやすく、顧客獲得競争の構図が変わりつつあるとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800910&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-9",
+          "star": false,
+          "headline": "SBI、ライブドアを買収",
+          "summary": "SBIホールディングスがライブドアを75億円で買収し子会社化すると発表した。",
+          "detail": "両社にはかつて経緯的な因縁があったとされ、それを超えての買収として注目されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091701103&g=eco"
+        },
+        {
+          "id": "2026-09-19-econ-10",
+          "star": false,
+          "headline": "アドバンテスト株反発、NVIDIA「来年販売2倍」発言で",
+          "summary": "半導体検査装置大手アドバンテストの株価が反発した。",
+          "detail": "NVIDIA経営陣が来年の販売台数倍増に言及したことを受け、AI半導体需要への期待が改めて高まったことが背景。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB185KA0Y6A910C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-19-pol-1",
+          "star": true,
+          "headline": "第2次高市改造内閣が発足",
+          "summary": "高市早苗首相の就任後初となる内閣改造が9月17日に行われた。木原官房長官、茂木外相、片山財務相、小泉防衛相ら主要閣僚は留任。",
+          "detail": "派閥裏金事件に関与した議員の入閣は初めてで、関芳弘氏が文科相、簗和生氏が農水相に起用された。日本維新の会からは中司宏氏が規制改革担当相として初入閣し、自維連立の新段階を象徴する人事となった。林芳正前総務相は退任し、山下貴司元法相が法相、細野豪志元環境相が復興相に就任するなど経験者も登用された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091700731&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-2",
+          "star": true,
+          "headline": "高市・トランプ両首脳、22日に会談へ",
+          "summary": "高市首相とトランプ米大統領が9月22日にニューヨークで会談することが決まった。",
+          "detail": "国連総会に合わせて実施され、対中認識のすり合わせが主要議題となる見通し。高市外交にとって就任後初の対面での日米首脳会談となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800774&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-3",
+          "star": true,
+          "headline": "臨時国会、10月5日召集",
+          "summary": "政府は臨時国会を10月5日に召集する方針を固めた。",
+          "detail": "食料品の消費税減税や衆院定数削減の法案審議が焦点となる。裏金事件関与議員の入閣を受け、野党側の追及も予想される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800485&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-4",
+          "star": false,
+          "headline": "小泉防衛相、米国防長官と電話会談",
+          "summary": "小泉防衛相が米国防長官と電話協議を行い、日米同盟の強化と安全保障協力の推進で一致した。",
+          "detail": "22日の日米首脳会談を前に、防衛当局間の連携を確認する位置づけの協議となった。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260919de51167"
+        },
+        {
+          "id": "2026-09-19-pol-5",
+          "star": false,
+          "headline": "衆院選制度手直し、10月に結論",
+          "summary": "与野党は衆院選挙制度の当面の手直しについて10月に結論を出す方針で一致した。",
+          "detail": "抜本改革は第三者機関に委ねる方向で、当面の一票の格差是正など限定的な見直しにとどめる見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091800889&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-6",
+          "star": false,
+          "headline": "消費減税財源、高市首相「心配無用」",
+          "summary": "高市首相は食料品消費税減税の財源確保に自信を示し、衆院定数削減にも意欲を表明した。",
+          "detail": "財源の具体策は臨時国会での審議に持ち越される見通しで、野党から詳細説明を求める声が上がっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091701217&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-7",
+          "star": false,
+          "headline": "野党、「裏金議員」入閣に警戒感",
+          "summary": "改造内閣での裏金事件関与議員の起用について、野党側は国会軽視につながるとの警戒感を強めている。",
+          "detail": "臨時国会での追及材料になるとみられ、与党側は「みそぎは済んだ」との立場を示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091701019&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-8",
+          "star": false,
+          "headline": "食料品消費減税「2年後8%」に反対5割超",
+          "summary": "時事通信の世論調査で、食料品消費税を2年後に8%へ戻す案への反対が5割を超えた。",
+          "detail": "直近1件の調査結果。時限的な減税ではなく恒久的な引き下げを求める世論の強さがうかがえる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091700747&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-9",
+          "star": false,
+          "headline": "林前総務相、総裁選へ始動か",
+          "summary": "内閣改造で閣外となった林芳正前総務相が地方行脚を継続している。",
+          "detail": "次期総裁選への布石との見方があり、高市首相サイドは警戒しているとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091801010&g=pol"
+        },
+        {
+          "id": "2026-09-19-pol-10",
+          "star": false,
+          "headline": "参院予算委員長に有村氏、議運委員長は藤川氏",
+          "summary": "自民党は参院の要職人事として予算委員長に有村治子氏、議院運営委員長に藤川政人氏を充てる方向で調整に入った。",
+          "detail": "臨時国会での審議運営を担う要職の人事として調整が進められている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026091801072&g=pol"
+        }
+      ]
+    }
+  ]
+}
