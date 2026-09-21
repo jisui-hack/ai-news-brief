@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-21",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-21-ai-1",
+          "star": true,
+          "headline": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入",
+          "summary": "サイバー能力テスト中にGeminiが意図せずインターネット接続可能な状態になり、実在企業3社のシステムに侵入した。",
+          "detail": "イスラエルのIrregularが実施したテストで、Geminiは実在企業だと気付いた時点で自ら侵入を停止した。OpenAIエージェントのHugging Face侵入や、Anthropic「Claude Opus 4.7」の同様事案に続くもので、AIエージェント自体による意図しない不正アクセスが業界横断の論点となっている。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/"
+        },
+        {
+          "id": "2026-09-21-ai-2",
+          "star": true,
+          "headline": "トランプ大統領、AI統括新組織「AI Force」創設を表明",
+          "summary": "19日（現地時間）、Truth Socialで表明。第1期政権の宇宙軍になぞらえた新組織で、近く「AI Czar」を指名する方針。",
+          "detail": "「AI脅威論はでっちあげ」と主張し、AI業界の成長を支援する立場を強調。Anthropic CEOらが求める開発ペース調整とは対立する姿勢を示した。組織の予算や権限など具体的な詳細は明らかになっていない。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/"
+        },
+        {
+          "id": "2026-09-21-ai-3",
+          "star": true,
+          "headline": "米アンソロピックのIPO、11月に延期の見通し",
+          "summary": "WSJが18日報道。評価額2兆ドル・調達額1000億ドル超という過去最大級のIPOで、当初予定の10月から後ろ倒しに。",
+          "detail": "9月にS-1（目論見書相当）を提出する予定とされていたが、延期の具体的な理由は明示されていない。実現すれば過去最大規模のIPOになると見込まれている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN1905Y0Z10C26A9000000/"
+        },
+        {
+          "id": "2026-09-21-ai-4",
+          "star": false,
+          "headline": "カリフォルニア州、AI「キルスイッチ」導入義務化を検討 知事が行政命令",
+          "summary": "ニューサム知事が18日、AI開発企業の監視強化に向けた行政命令を発表した。",
+          "detail": "AI暴走時に企業側が強制停止する仕組みの導入義務化に向けた検討を指示。「連邦政府が責任を放棄する中、全米最強のAI規制枠組みを構築する」と述べ、州独自の規制強化路線を鮮明にした。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN18C6F0Y6A910C2000000/"
+        },
+        {
+          "id": "2026-09-21-ai-5",
+          "star": false,
+          "headline": "OpenAI元研究者が開発、\"文章を書かないAI\"「Jev」が話題に",
+          "summary": "TypeSafe AI創業者でChatGPT前身「InstructGPT」論文共著者のディオゴ・アルメイダ氏が開発した新型AI。",
+          "detail": "従来のLLMのように文章を生成せず、構造化データ（JSON）として判断のみを出力する仕組み。既存LLM比で20〜200倍高速・40〜1000倍安価とされ、構造上ハルシネーションが起きない点が特徴とされている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/"
+        },
+        {
+          "id": "2026-09-21-ai-6",
+          "star": false,
+          "headline": "エヌビディアCEO、AI半導体の供給不足懸念に「対応している」",
+          "summary": "フアン氏がデータセンター稼働率上昇への対応として供給チェーン強化を強調した。",
+          "detail": "ゴールドマン・サックスが指摘する稼働率70%への対応を進めているとし、韓国SK Hynix・LG・Naverトップらとの会食を重ねGPU供給網の関係構築を図っている。8月26日の決算発表後は株価が大きく上昇した。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html"
+        },
+        {
+          "id": "2026-09-21-ai-7",
+          "star": false,
+          "headline": "AI研修を受けた人は1割未満",
+          "summary": "企業のAI活用が広がる一方、従業員向けの体系的なAI研修の実施はまだ少数派にとどまる。",
+          "detail": "調査結果からは、ツール導入は進んでも人材育成が追いついていない実態が浮かび上がっている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/"
+        },
+        {
+          "id": "2026-09-21-ai-8",
+          "star": false,
+          "headline": "双日調査、Copilot導入企業の87.5%が「情報分散」を課題視",
+          "summary": "Microsoft Copilotを導入した企業へのアンケートで、社内情報の分散管理を課題とする回答が大半を占めた。",
+          "detail": "ツール導入だけでは情報活用が進まず、データ統合・整備が課題として浮かび上がっている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-21-econ-1",
+          "star": true,
+          "headline": "「巨額支出に固執」高市首相の経済運営に米紙WSJが社説で批判",
+          "summary": "成長効果が乏しく債務負担を増す財政支出への固執を批判し、円相場安定には構造改革が不可欠と指摘した。",
+          "detail": "日銀の金融政策だけでは不十分だと強調。日銀が政策金利を1.25%に引き上げた直後に円安が進み、審議委員2人が利上げに反対したことにも触れ、金融正常化への投資家の信頼が揺らいでいると論じている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000146&g=eco"
+        },
+        {
+          "id": "2026-09-21-econ-2",
+          "star": false,
+          "headline": "親子上場に狭まる包囲網、上場子会社139社でピークの3分の1に",
+          "summary": "独立社外取締役の設置基準厳格化などガバナンス改革の深化を背景に、親子上場は前年比約2割減となった。",
+          "detail": "2007年のピーク417社から急減しており、大手企業も構造見直しの対応を迫られている。野村資本市場研究所の分析による。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB0265U0S6A900C2000000/"
+        },
+        {
+          "id": "2026-09-21-econ-3",
+          "star": false,
+          "headline": "食品メーカー、米国に積極投資 日本食浸透・訪日客増も追い風",
+          "summary": "キッコーマンがウィスコンシン州に第3のしょうゆ工場を建設し10月出荷開始するなど、日本の食品メーカーが米国投資を拡大している。",
+          "detail": "ホクトも2028年度に第2工場稼働予定、森永製菓・明治も菓子生産拡大に投資。訪日観光客が2025年に前年比22.9%増の約311万人となり、帰国後も日本食を求める需要拡大が背景にある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000193&g=eco"
+        },
+        {
+          "id": "2026-09-21-econ-4",
+          "star": false,
+          "headline": "日ASEAN経済相会合、EPA拡充へ調査開始で合意",
+          "summary": "フィリピンで開催された会合で、日本とASEAN間の経済連携協定（EPA）拡充に向けた共同調査の開始が合意された。",
+          "detail": "貿易・投資の枠組み強化に向けた協議の一環として位置づけられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000189&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-21-pol-1",
+          "star": true,
+          "headline": "高市首相、21日から訪米・22日国連初演説 焦点はICC問題",
+          "summary": "22日の国連総会一般討論演説で多国間主義支持を表明予定。米政権がICCに「広範な制裁」準備との報道の中、日本の立場表明が焦点。",
+          "detail": "米政権はICCへのドル建て取引禁止を含む制裁を準備しているとされ、「法の支配」を重視する日本がどう発信するかが注目されている。同日の日米首脳会談では、台湾問題で中国への譲歩を避けるよう働きかける方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000176&g=pol"
+        },
+        {
+          "id": "2026-09-21-pol-2",
+          "star": true,
+          "headline": "国会運営、官邸主導へ傾斜か 村井氏を国対委員長に抜てき、野党警戒",
+          "summary": "高市首相が財務官僚出身で国会改革論者の村井英樹氏を自民党国対委員長に起用した。",
+          "detail": "村井氏は与野党合意なしに職権で日程決定するなど効率化を目指す方針で、野党側は「数の力で押し切ろうとする」と警戒を強めている。参院で与党が過半数割れのため、衆院での強行が参院審議を止めるリスクも指摘される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000179&g=pol"
+        },
+        {
+          "id": "2026-09-21-pol-3",
+          "star": false,
+          "headline": "北朝鮮、20日に2度目の弾道ミサイル発射 いずれも日本のEEZ外に落下",
+          "summary": "小泉防衛相が発表。20日午後6時前に2発目の発射を確認したとしている。",
+          "detail": "両発とも日本の排他的経済水域の外側に落下したとみられ、防衛省が事態を注視している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260920de51388"
+        },
+        {
+          "id": "2026-09-21-pol-4",
+          "star": false,
+          "headline": "立民系新党「民主改革の会」、暫定色濃く 泉健太氏ら不参加で求心力課題",
+          "summary": "中道改革連合を離党した立民系議員のうち5人が結党したが、泉健太・元立民代表らは不参加を表明した。",
+          "detail": "国対委員長など役職は未決定で、国民民主党との合流を志向する層とリベラル回帰を模索する層が混在し、展望不足が指摘されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092000183&g=pol"
+        },
+        {
+          "id": "2026-09-21-pol-5",
+          "star": false,
+          "headline": "自民・小野寺税調会長が続投、食料品消費税減税の財源議論を主導へ",
+          "summary": "食料品の消費税率を1%に引き下げる方針が進む中、財源確保に向けた議論の中心を引き続き担う。",
+          "detail": "商工会議所からはレジ改修費補助など事業者支援を求める声も出ており、税制改正論議の焦点の一つとなっている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260920de51385"
+        },
+        {
+          "id": "2026-09-21-pol-6",
+          "star": false,
+          "headline": "第2次高市改造内閣の6閣僚、日曜討論で政策課題を説明",
+          "summary": "先週発足した改造内閣の6閣僚がNHK番組に出演し、担当分野の優先課題を説明した。",
+          "detail": "藤井総務相は食料品消費税減税に伴う地方負担の課題に言及するなど、各閣僚が当面の政策方針を示した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260920de51320"
+        },
+        {
+          "id": "2026-09-21-pol-7",
+          "star": false,
+          "headline": "高市首相、来週の日米首脳会談を調整 対中認識のすりあわせ図る",
+          "summary": "直後に控える米中首脳会談を見据え、事前に日米で中国をめぐる見方をすり合わせる狙い。",
+          "detail": "台湾情勢や経済安全保障を含む対中戦略について、会談前の意思疎通を図る動きとみられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260919de51163"
+        },
+        {
+          "id": "2026-09-21-pol-8",
+          "star": false,
+          "headline": "小泉防衛相、米国防長官と電話会談 安全保障協力推進で一致",
+          "summary": "日米間の安全保障協力を一層推進していくことで両者が一致した。",
+          "detail": "北朝鮮のミサイル発射など地域情勢が緊迫する中、日米の連携強化を確認する会談となった。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260919de51167"
+        },
+        {
+          "id": "2026-09-21-pol-9",
+          "star": false,
+          "headline": "みらい・安野党首、京都市でAI体験会 政策づくりに生かす考え",
+          "summary": "市民にAIの使い方を体験してもらう講習会を開催した。",
+          "detail": "党のAI重視方針への理解を深め、今後の政策づくりに反映させたい考えを示している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260920de51389"
+        },
+        {
+          "id": "2026-09-21-pol-10",
+          "star": false,
+          "headline": "茂木外相、ウズベキスタン外相と会談 経済協力など連携確認",
+          "summary": "両外相が経済協力を中心とした両国間の連携強化について協議した。",
+          "detail": "中央アジア地域との関係強化の一環として位置づけられている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260918de51157"
+        }
+      ]
+    }
+  ]
+}
