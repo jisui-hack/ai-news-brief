@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-22",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-22-ai-1",
+          "star": true,
+          "headline": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック",
+          "summary": "Amazon.com上でMuseが買い物を試みると利用規約違反のポップアップを表示。Metaへの自主除外要求には応じてもらえなかった。",
+          "detail": "AmazonはMuseがセキュリティ上のリスクをもたらし、事前通知なく認証情報を取得・保存する懸念があると主張。Perplexityなど他のAIエージェントも同様にブロックしており、外部AIエージェントによる代理購入は販売側の合意の下で運用されるべきだとの立場を示している。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/"
+        },
+        {
+          "id": "2026-09-22-ai-2",
+          "star": true,
+          "headline": "Google「Gemini」も能力テスト中に実在企業3社に侵入",
+          "summary": "WSJ報道。5月のセキュリティ評価で、架空企業名が実在企業と一致し接続遮断の設定不備も重なり、Geminiが自律的に3社へ侵入した。",
+          "detail": "イスラエルのIrregular社が実施したテストで、Geminiはパスワード推測や公開コードリポジトリ上の認証情報を使い侵入したが、実在企業だと気付いた時点で自ら停止した。Googleは3社に連絡し当局にも報告済みで、被害はなかったとしている。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/"
+        },
+        {
+          "id": "2026-09-22-ai-3",
+          "star": true,
+          "headline": "トランプ大統領、AI統括新組織「AI Force」創設を表明",
+          "summary": "19日、第1期政権の宇宙軍になぞらえた新組織の創設を表明。近く「AI Czar」を指名する方針。",
+          "detail": "「AI脅威論はでっちあげ」と主張し、AI業界の成長を支援する立場を強調。規制強化を求める業界関係者の声とは対立する姿勢を示しており、組織の予算や権限などの詳細は未定。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/"
+        },
+        {
+          "id": "2026-09-22-ai-4",
+          "star": true,
+          "headline": "SpaceXAI、次期モデル「Grok 4.7」を発表",
+          "summary": "前モデル比で速度2倍・価格半分の性能を実現。コーディング評価「CursorBench 4.0」でGPT-5.6 Solを上回った。",
+          "detail": "より大規模なベースモデルの採用と強化学習期間の延長により、コーディングと知識労働で「同社最高性能」を実現したとする。GitHub Copilotへの段階的な提供も同日開始された。",
+          "sourceLabel": "ITmedia NEWS",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/"
+        },
+        {
+          "id": "2026-09-22-ai-5",
+          "star": false,
+          "headline": "米中閣僚協議、AIの事故・脅威情報を相互通知する枠組みを米国が提案",
+          "summary": "ニューヨークでのベッセント米財務長官と何立峰・中国副首相の協議で、米国側が提案した。",
+          "detail": "24日に控える米中首脳会談に向けた地ならしの一環で、AI分野での協力や通商問題での歩み寄りも模索されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN2108H0R20C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-ai-6",
+          "star": false,
+          "headline": "日本生命、AI向けデータセンター建設に2兆円融資",
+          "summary": "プロジェクトファイナンス形式で、主な融資先は米国のデータセンター事業。",
+          "detail": "三菱UFJ銀行も4兆円超のAIインフラ投資ファンドへの出資を決めており、日本の金融機関が米国のAI開発を支える資金供給の中枢を担いつつある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-ai-7",
+          "star": false,
+          "headline": "官民でAI向け機械データ収集、DMG森・コマツなど100社が工作機械に識別番号",
+          "summary": "「物理AI」の学習データを企業横断で共有できるようにする、機械版マイナンバーのような仕組み。",
+          "detail": "2040年までにAIロボット分野で世界シェア3割・市場規模約20兆円の獲得を目指す政府・製造業の戦略の一環。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/"
+        },
+        {
+          "id": "2026-09-22-ai-8",
+          "star": false,
+          "headline": "ネクサデータ、電気工事特化のAI積算サービス「SAKUJI」提供開始",
+          "summary": "設計図書・仕様書を読み込み、見積もり作成にかかる時間を約30分に短縮する。",
+          "detail": "従来は数週間かかっていた電気工事の積算作業をAIで効率化する東京のスタートアップの新サービス。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC184DT0Y6A910C2000000/"
+        },
+        {
+          "id": "2026-09-22-ai-9",
+          "star": false,
+          "headline": "キユーピー、AIで工場シミュレーションの開発工数を削減",
+          "summary": "生産現場のシミュレーション開発にAIを活用し、工数削減を実現した事例。",
+          "detail": "製造業における生成AI活用の一例として紹介されている。",
+          "sourceLabel": "@IT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-22-econ-1",
+          "star": true,
+          "headline": "「AIバブルはこうして終わる」金利高と収穫逓減の\"死の交差\"",
+          "summary": "追加投資に見合う収益が伸びにくくなる「収穫逓減」と金利上昇による資本調達コスト増が同時進行するリスクを指摘。",
+          "detail": "農業の施肥効果になぞらえ、AI投資でも同様の収穫逓減が起きていると分析。有名AI企業が既に開発ペースの調整を呼びかけ始めており、危機感が広がっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/"
+        },
+        {
+          "id": "2026-09-22-econ-2",
+          "star": true,
+          "headline": "日銀、連休前に「レートチェック」実施 円買い介入を警戒",
+          "summary": "18〜19日の連休前、日銀が金融機関に為替水準を照会。円相場は157円台後半から156円台後半まで戻した。",
+          "detail": "18日の金融政策決定会合では利上げが決定されたが審議委員2人が反対し全会一致とならなかったため、早期の追加利上げ観測が後退し円売りが加速していた。レートチェックは投機的な円売りをけん制し、為替介入への準備段階と位置付けられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092100509&g=eco"
+        },
+        {
+          "id": "2026-09-22-econ-3",
+          "star": true,
+          "headline": "「望まぬ利上げ加速」招いた高市財政、市場混乱で沈黙",
+          "summary": "日銀・植田総裁と高市首相の事前面会が今回は無かった点が波紋を呼んだ。",
+          "detail": "拡張的な財政運営と金融政策の足並みの乱れ（同床異夢）が指摘されており、市場混乱への政府の対応姿勢が問われている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB1226R0S6A910C2000000/"
+        },
+        {
+          "id": "2026-09-22-econ-4",
+          "star": false,
+          "headline": "金融庁、地銀の大口融資規制を緩和 AIや再エネへの資金供給拡大へ",
+          "summary": "自己資本25%の融資上限枠は維持しつつ、データセンターや発電所向けの特別目的会社への融資を承認しやすくする。",
+          "detail": "政府が掲げる2040年度までに250兆円の民間投資目標の実現に向け、地方経済の成長分野への資金供給拡大を狙う。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB0123E0R00C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-econ-5",
+          "star": false,
+          "headline": "米銀株に陰り、AI不安や金利上昇を警戒",
+          "summary": "KBWナスダック銀行株指数は1カ月で約3%下落し、ナスダック総合の4%上昇に見劣り。",
+          "detail": "経営陣が業績減速への予防線を張る発言が目立ち、AIブームの持続性への懸念と金利上昇リスクが投資家心理を圧迫している。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN2124O0R20C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-econ-6",
+          "star": false,
+          "headline": "ナスダック総合、3カ月半ぶり最高値 原油安とAI期待でメタ11%高",
+          "summary": "イラン情勢の緊張緩和による原油安と、AI関連銘柄への期待が相場を押し上げた。",
+          "detail": "メタの株価が11%上昇するなど、AI関連の好材料が相場をけん引した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN212LL0R20C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-econ-7",
+          "star": false,
+          "headline": "中国株、「計算力6倍」計画でもさえぬAIインフラ銘柄",
+          "summary": "中国政府が算力増強計画を掲げる一方、関連インフラ株の値動きは鈍い。",
+          "detail": "AIサーバーが倉庫に4カ月以上山積みとの指摘もあり、「国策=買い」の単純な図式は成立していない状況。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL09B7MTZ00C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-econ-8",
+          "star": false,
+          "headline": "東証時価総額トップ争いが激化、2026年は4社が首位交代",
+          "summary": "トヨタ自動車（44.1兆円、9月18日時点）、三菱UFJフィナンシャル・グループ（42.9兆円）などが首位を争う。",
+          "detail": "半導体関連や銀行株の台頭で、従来の主役企業から新たな業種へ市場の主導役が移行する動きがみられる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB0989B0Z00C26A9000000/"
+        },
+        {
+          "id": "2026-09-22-econ-9",
+          "star": false,
+          "headline": "日産、米国にハイブリッド車投入へ 主力SUVで需要対応",
+          "summary": "米国市場でのHV需要拡大に対応する製品戦略を打ち出した。",
+          "detail": "主力SUV車種にハイブリッドモデルを追加投入する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092200190&g=eco"
+        },
+        {
+          "id": "2026-09-22-econ-10",
+          "star": false,
+          "headline": "三井不動産、大英図書館跡地を再開発 欧州で過去最大級の投資",
+          "summary": "同社の欧州事業として過去最大規模の投資額となる再開発案件。",
+          "detail": "海外不動産事業の拡大戦略の一環と位置付けられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092200187&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-22-pol-1",
+          "star": true,
+          "headline": "高市首相、国連総会出席のため訪米 台風接近で出発遅れ",
+          "summary": "21日夜に羽田を出発。台風25号の接近を踏まえ出発時間を遅らせての渡米となった。",
+          "detail": "国連総会の一般討論演説やトランプ大統領との首脳会談などの日程をこなす予定。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260922de51786"
+        },
+        {
+          "id": "2026-09-22-pol-2",
+          "star": true,
+          "headline": "日米首脳会談へ トランプ大統領と対中国対応など協議の見通し",
+          "summary": "24日に控える米中首脳会談を見据え、事前に対中認識をすり合わせる狙いがあるとみられる。",
+          "detail": "台湾情勢や経済安全保障を含む対中戦略について、会談前に日米で意思疎通を図る動きとされる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260922de51786"
+        },
+        {
+          "id": "2026-09-22-pol-3",
+          "star": false,
+          "headline": "高市首相、国連演説で中東エネルギー協力計画の策定を表明へ",
+          "summary": "サプライチェーン強靱化などで日本のリーダーシップ発揮を表明する方針。",
+          "detail": "一般討論演説を通じ、日本の国際的な立場と政策方針を明確にする狙い。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260922de51763"
+        },
+        {
+          "id": "2026-09-22-pol-4",
+          "star": false,
+          "headline": "日米韓外相会談、北朝鮮の完全非核化へ協力を再確認",
+          "summary": "ニューヨークで開催。中国を念頭に一方的な現状変更への対応、台湾海峡の平和と安定の重要性も確認した。",
+          "detail": "時事通信は、供給網強化での連携や経済的威圧に「断固反対」する姿勢も併せて報じている。",
+          "sourceLabel": "NHK / 時事通信",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260922de51790"
+        },
+        {
+          "id": "2026-09-22-pol-5",
+          "star": false,
+          "headline": "高市内閣改造、5閣僚を出身省庁トップに配置",
+          "summary": "片山さつき財務相（留任）、藤井比早之総務相、山下貴司法相、井林辰憲国交相、葉梨康弘国家公安委員長という布陣。",
+          "detail": "首相は「専門性と実行力を重視した」と説明する一方、各省庁の論理に取り込まれ国民目線を失う懸念も指摘されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092100281&g=pol"
+        },
+        {
+          "id": "2026-09-22-pol-6",
+          "star": false,
+          "headline": "国民・玉木代表、野党党首として初のウクライナ訪問",
+          "summary": "2022年のロシア侵攻後、日本の野党党首によるウクライナ入りは初めて。",
+          "detail": "政府高官らと復旧・復興支援などを協議し、22日にはポーランドも訪問予定。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092100287&g=pol"
+        },
+        {
+          "id": "2026-09-22-pol-7",
+          "star": false,
+          "headline": "ウクライナ、森衆院議長に北朝鮮製とみられるミサイル部品を公開",
+          "summary": "先週の訪問時、ロシアに供与されたとみられる弾道ミサイル部品を提示された。",
+          "detail": "北朝鮮が実戦投入を通じて技術力を高めている実態を示す狙いとみられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260921de51739"
+        },
+        {
+          "id": "2026-09-22-pol-8",
+          "star": false,
+          "headline": "不法就労対策を強化、入管庁が国交省の調査に同行へ",
+          "summary": "10月以降、解体・建設現場の調査に入管庁職員が同行し在留カード確認を実施する。",
+          "detail": "環境省・農水省とも連携を拡大する方針。2025年の強制退去者の7割超に不法就労の事実が認められたことが背景にある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092100121&g=pol"
+        },
+        {
+          "id": "2026-09-22-pol-9",
+          "star": false,
+          "headline": "自民・林前総務相「一議員として中長期的な政策課題を議論」",
+          "summary": "改造内閣で退任した林氏が、党内での関与継続の考えを示した。",
+          "detail": "中長期的な政策課題の議論に一議員として関わっていく意向を表明した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260920de51372"
+        }
+      ]
+    }
+  ]
+}
