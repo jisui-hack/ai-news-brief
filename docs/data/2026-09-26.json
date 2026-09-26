@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-26",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-26-ai-1",
+          "star": true,
+          "headline": "OpenAI、「GPT-6 Sol」「GPT-6 Luna」を投入し価格を50%引き下げ",
+          "summary": "9月22日発表。Anthropic「Claude」やOSSモデルの追い上げに対抗する攻勢的な価格戦略。",
+          "detail": "前世代から価格を50%引き下げ、企業のAI導入促進を狙う。アナリストからは「企業が真に求めるのは課題解決能力であり、安全性とガバナンスを備えた実用的なソリューション」との指摘もあり、価格競争の効果は限定的との見方もある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://techtarget.itmedia.co.jp/tt/article/2609/26/2000001752/"
+        },
+        {
+          "id": "2026-09-26-ai-2",
+          "star": true,
+          "headline": "Microsoft、「Copilot」を大幅刷新 ナデラCEO「仕事のための新しいOS」",
+          "summary": "「Home」「Code」「Autopilot」の3タブ構成にOffice統合機能を追加。",
+          "detail": "ナデラCEOはXへの投稿で、質問への回答からアプリ構築、ユーザー代理業務まで仕事の流れにAIを組み込む方針を示した。企業の働き方全体をAIアシスタント中心に再設計する狙いがある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/"
+        },
+        {
+          "id": "2026-09-26-ai-3",
+          "star": false,
+          "headline": "「Codex」全機能に障害、約1時間にわたり利用不可",
+          "summary": "Web版・API・CLI・VS Code拡張の全機能が停止、原因は「内部の問題」。",
+          "detail": "日本時間9月26日午前8時前から発生し、8時54分に復旧した。ChatGPTなど他サービスへの影響はなかった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/"
+        },
+        {
+          "id": "2026-09-26-ai-4",
+          "star": true,
+          "headline": "Anthropic「Claude in Chrome」を一般提供開始",
+          "summary": "Webページの読み取り・要約・クリック・フォーム入力を行うブラウザ統合型AIエージェント。",
+          "detail": "プロンプトインジェクション対策として、隠れた指示の検出・事前確認メカニズム・ユーザー確認プロセスの3段の防御策を実装。企業向けにはドメイン管理機能も提供される。",
+          "sourceLabel": "@IT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html"
+        },
+        {
+          "id": "2026-09-26-ai-5",
+          "star": false,
+          "headline": "Meta、AIエージェント「Muse」を日本で提供開始へ",
+          "summary": "買い物代行などの顧客対応機能を備える一方、情報漏洩リスクも指摘。",
+          "detail": "スマートグラス向けにも展開しているMetaのAIエージェント「Muse」が日本市場に投入される見通し。個人情報の扱いを巡るリスクが課題として挙げられている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/topics/24032501"
+        },
+        {
+          "id": "2026-09-26-ai-6",
+          "star": false,
+          "headline": "豪首相、暴走AI防止へ国際監督機関の設立を提唱",
+          "summary": "国連演説でIAEAをモデルにした枠組み構築を主張。",
+          "detail": "前日報じられた豪政府機関へのOpenAIエージェント不正アクセス事案を踏まえた提言とみられ、AIの自律的な暴走リスクに対する実効性ある国際監督体制の必要性を訴えた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/topics/24032501"
+        },
+        {
+          "id": "2026-09-26-ai-7",
+          "star": false,
+          "headline": "Google、AIサブスクに「Colab」有料GPU特典をバンドル",
+          "summary": "高性能GPUへのアクセスを含む特典を追加し、開発者向けの囲い込みを強化。",
+          "detail": "AI関連サブスクリプションの付加価値を高める施策で、開発者の囲い込みを狙う。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/"
+        },
+        {
+          "id": "2026-09-26-ai-8",
+          "star": false,
+          "headline": "元OpenAI研究者の新AI「Jev」が話題に",
+          "summary": "ハルシネーション排除と最大200倍の高速化をうたう新モデル。",
+          "detail": "既存の大規模言語モデルと異なるアプローチで、応答速度と正確性の両立を目指しているとされる。",
+          "sourceLabel": "@IT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html"
+        },
+        {
+          "id": "2026-09-26-ai-9",
+          "star": false,
+          "headline": "AIボットのアクセス急増、広告指標の信頼が揺らぐ",
+          "summary": "人間による閲覧との区別が困難になり、広告効果測定に影響。",
+          "detail": "AIエージェントによるWebアクセスの急増で、従来の広告指標の前提が崩れつつあり、人間証明IDの導入が議論され始めている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/topics/24032501"
+        },
+        {
+          "id": "2026-09-26-ai-10",
+          "star": false,
+          "headline": "AI内製化、9割超の企業が「停滞・頓挫」を経験",
+          "summary": "つまずきの主因は技術面ではなく組織・運用面にあるとの調査結果。",
+          "detail": "AI活用を自社で進めようとした企業の多くが途中で行き詰まっており、原因として技術力よりも組織体制や運用プロセスの課題が大きいことが分かった。",
+          "sourceLabel": "@IT",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-26-econ-1",
+          "star": true,
+          "headline": "日米財務相会談、「円の過小評価は問題」で一致",
+          "summary": "片山財務相とベセント米財務長官がオンラインで会談。",
+          "detail": "7月末に約28年ぶりの円買い協調介入を実施した経緯を踏まえ、さらなる協調介入の可能性も示唆された。日米首脳会談でもトランプ大統領が円安への懸念を表明していた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092501164&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-2",
+          "star": true,
+          "headline": "NY円急伸、一時156円台 再度の日米協調介入を警戒",
+          "summary": "円買い・ドル売りが加速し大幅な円高に。",
+          "detail": "ニューヨーク外国為替市場で円が急伸し、一時1ドル=156円台に。午後5時時点では157円22〜32銭と前日比1円60銭の円高となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092600185&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-3",
+          "star": false,
+          "headline": "世界的に金利上昇が鮮明に、原油高でインフレ懸念拡大",
+          "summary": "米長期金利は19年ぶり高水準の5.22%に到達。",
+          "detail": "中東情勢の緊迫による原油価格上昇がインフレ懸念を拡大させ、日米欧の主要中央銀行が9月に利上げを実施。日本でも財政拡張路線への警戒から長期金利が30年ぶり水準まで上昇している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500931&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-4",
+          "star": false,
+          "headline": "城内経済財政相「リフレ局面、終わった」",
+          "summary": "高市政権の経済運営を「リフレ政策ではない」と位置づけ。",
+          "detail": "物価と金利がともに緩やかに上昇する新たな局面にあると説明し、アベノミクス型の金融緩和・機動的財政という枠組みからの転換を示唆した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500579&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-5",
+          "star": false,
+          "headline": "日銀9月短観、大企業製造業は6期連続の改善見通し",
+          "summary": "AI・半導体関連需要が景気を押し上げ、業況判断指数はプラス26の見込み。",
+          "detail": "12社の民間シンクタンク予測がまとまり、前回6月調査から4ポイントの改善が見込まれる。一方、非製造業はインバウンド需要低迷などから小幅悪化が予想されている。日銀は10月1日に結果を発表する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500994&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-6",
+          "star": false,
+          "headline": "小林製薬、非上場化を検討",
+          "summary": "日英ファンド連合が創業家と組み5000億円規模のTOBを提案。",
+          "detail": "日本産業推進機構（NSSK）と英CVCキャピタル・パートナーズが、企業価値向上の選択肢として非公開化に関する初期的な共同提案を行ったことを同社が明らかにした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500376&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-7",
+          "star": false,
+          "headline": "スズキ、新車開発期間を半減",
+          "summary": "従来40〜48カ月の開発を24カ月に短縮する方針。",
+          "detail": "企画・設計・調達の各部門が初期段階から情報共有し並行して進める体制に転換。設計等にAIを活用し開発効率を30%程度改善する目標で、中国・新興メーカーとの競争激化に対抗する狙い。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500910&g=eco"
+        },
+        {
+          "id": "2026-09-26-econ-8",
+          "star": false,
+          "headline": "日経平均、5営業日続伸",
+          "summary": "「米中友好」ムードとAI関連需要への安堵感が支え、850円高。",
+          "detail": "金利高という逆風をはねのける形で続伸し、配当狙いの買いも相場を下支えした。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-26-econ-9",
+          "star": false,
+          "headline": "ドコモ、12月に料金値上げ",
+          "summary": "50を超えるプランで最大550円の値上げを予定。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500906&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-26-pol-1",
+          "star": true,
+          "headline": "米中首脳会談、トランプ氏の中国「同盟国」発言に日本政府が困惑",
+          "summary": "高市首相は「第三国間のやりとり」とコメントを控えつつ日米同盟の強さを強調。",
+          "detail": "外務省関係者からは「リップサービス」「連合国の意味」との見方も出ており、現時点で大きなサプライズはないと判断されている。政府は米中首脳会談の内容説明を求めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092501015&g=pol"
+        },
+        {
+          "id": "2026-09-26-pol-2",
+          "star": true,
+          "headline": "高市首相「日本はICCを一貫して支持」と表明",
+          "summary": "米国の強いICC不信感を踏まえ、日米首脳会談後に明らかにした。",
+          "detail": "米国はICC解体を志向し加盟国に脱退を呼びかけているが、日本は関係国への働きかけを通じ存続を支援する方針。高市首相は米国のICCへの不信感が「非常に大きい」とも指摘し、今後は日米外相間で協力体制を強化する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092501046&g=pol"
+        },
+        {
+          "id": "2026-09-26-pol-3",
+          "star": false,
+          "headline": "高市首相、日米首脳会談「金融・財政の議論はなかった」も円安を提起",
+          "summary": "トランプ大統領に円の過小評価問題を指摘。",
+          "detail": "責任ある積極財政で経済と財政の持続可能性を両立させる方針を強調した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500963&g=pol"
+        },
+        {
+          "id": "2026-09-26-pol-4",
+          "star": false,
+          "headline": "臨時国会、10月5日召集へ 会期69日間",
+          "summary": "消費税減税と国会改革が焦点。",
+          "detail": "食料品の消費税減税に関する法案審議に加え、国会審議の効率化・充実に向けた国会改革も論点となる見通し。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260926de52518"
+        },
+        {
+          "id": "2026-09-26-pol-5",
+          "star": false,
+          "headline": "政府、食料品消費税減税に向けレジ改修等の準備を支援へ",
+          "summary": "来年4月からの減税実施を見据えた対応。",
+          "detail": "必要な費用は今年度予算の予備費から充当する方向で調整している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260925de52513"
+        },
+        {
+          "id": "2026-09-26-pol-6",
+          "star": false,
+          "headline": "高市首相、スタートアップ企業にAI・半導体等17戦略分野の投資けん引を期待",
+          "summary": "表彰式での演説で次世代起業家への期待を表明。",
+          "detail": "政府が成長戦略で掲げる重要分野への投資を主導する役割を、スタートアップ企業に求めた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260925de52439"
+        },
+        {
+          "id": "2026-09-26-pol-7",
+          "star": false,
+          "headline": "中司規制改革担当相、市長時代の金銭授受疑惑を否定",
+          "summary": "共産党機関紙の報道を受け記者会見で説明。",
+          "detail": "「記載されているような事実はない」と述べた上で、批判を受け止めながら職務を続ける意向を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500780&g=pol"
+        },
+        {
+          "id": "2026-09-26-pol-8",
+          "star": false,
+          "headline": "福岡県知事、給与3カ月ゼロを表明",
+          "summary": "県議会議員・職員関係や高額な海外活動への批判を受けた対応。",
+          "detail": "政治とカネを巡る問題への責任を取る姿勢を示すもので、県内で相次ぐ関連問題への対応の一環。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260925de52503"
+        },
+        {
+          "id": "2026-09-26-pol-9",
+          "star": false,
+          "headline": "自民・岩屋前外相、27日に訪中",
+          "summary": "日本国際貿易促進協会の新会長就任に伴う訪問。",
+          "detail": "北京で中国政府要人との会談を調整中。同協会は前会長の河野洋平元衆院議長の死去に伴い、会長代行が先に訪中していた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092500687&g=pol"
+        }
+      ]
+    }
+  ]
+}
