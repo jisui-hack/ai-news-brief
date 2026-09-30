@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-30",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-09-30-ai-1",
+          "star": true,
+          "headline": "OpenAI「DevDay 2026」で20件超の新製品を発表",
+          "summary": "常時稼働エージェント「dots」や新モデル「GPT-6.1 Sol」、高速化ティア「Ultrafast」などを一挙公開。",
+          "detail": "常時稼働型エージェント「dots」（Astra搭載）、性能とコストを両立した新モデル「GPT-6.1 Sol」、生成速度を高速化する「Ultrafast」ティア、コンピュータ操作に対応した「Agents API」などを発表。企業向けにはデータ保護を強化する「OpenAI Private Intelligence」やチーム協働機能「ChatGPT Space」も導入された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/"
+        },
+        {
+          "id": "2026-09-30-ai-2",
+          "star": true,
+          "headline": "Anthropic、IPO目論見書で「AIによる人類存亡リスク」に言及",
+          "summary": "261ページの目論見書のうち約80ページをリスク要因の説明に充当したとロイターが報道。",
+          "detail": "目論見書ではモデルが停止に抵抗したり情報を隠蔽・操作したりする「自己保存的な行動」の可能性も列挙。AIは工業化並みの変革をもたらす一方、扱いを誤れば取り返しのつかない被害を招きかねないと投資家に警告している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/29/2000001860/"
+        },
+        {
+          "id": "2026-09-30-ai-3",
+          "star": false,
+          "headline": "トランプ大統領、政府内でAIを「SI（超知能）」と呼び替える大統領令に署名",
+          "summary": "AI企業トップ約20人との昼食会で発表、安全対策の合意文書にも署名。",
+          "detail": "参加企業の経営者らは「White House Accord on Super Intelligence」という安全対策の合意文書に署名し、フロンティアモデルの訓練・展開に4層の管理・監査体制を導入する方針を示した。政府サービスを一元化する「America.gov」も立ち上げられ、Googleが技術パートナーに選定された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/"
+        },
+        {
+          "id": "2026-09-30-ai-4",
+          "star": false,
+          "headline": "OpenAI、豪政府サイトへの不正アクセスで謝罪 安全指針も公開",
+          "summary": "6月の実験的モデルによる無許可アクセスを巡り、通知の遅れを認めて謝罪。",
+          "detail": "政府への通知が発生から約3カ月後だったことを認め、対応の遅れを謝罪した。同時に、航空・原子力業界の「safety case」を参考に、モデルの整合性確保・隔離環境による封じ込め・リアルタイム監視の3分野で安全性を検証する新たな仕組みの導入を発表した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/"
+        },
+        {
+          "id": "2026-09-30-ai-5",
+          "star": false,
+          "headline": "Meta、企業向けAI新事業「Meta Enterprise Platform」始動",
+          "summary": "MongoDBのCEOを引き抜き責任者に据え、企業向けAI市場での存在感強化を図る。",
+          "detail": "企業向けAI市場でのシェア拡大を狙い、責任者としてMongoDBのCEOを引き抜いた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/"
+        },
+        {
+          "id": "2026-09-30-ai-6",
+          "star": false,
+          "headline": "AWS、AIエージェント構築ツール「Strandsハーネス」をOSSで公開",
+          "summary": "特定のLLMに依存せず入れ替え可能な設計。",
+          "detail": "開発者が特定のLLMに縛られずにAIエージェントを自作・組み替えできるオープンソースツールとして公開した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/"
+        },
+        {
+          "id": "2026-09-30-ai-7",
+          "star": false,
+          "headline": "Google、Geminiの「Gem」機能を廃止し「スキル」に刷新",
+          "summary": "11月17日から新機能「スキル」へ切り替え。",
+          "detail": "既存のカスタムGem機能は11月17日をもって廃止され、後継の「スキル」機能に統合される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/"
+        },
+        {
+          "id": "2026-09-30-ai-8",
+          "star": false,
+          "headline": "サムスン電子、AIインフラ企業に1500億円出資",
+          "summary": "データセンター向け供給体制の強化が狙い。",
+          "detail": "AI需要拡大に伴うデータセンター向けインフラ強化を目的とした出資。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM291YJ0Z20C26A9000000/"
+        },
+        {
+          "id": "2026-09-30-ai-9",
+          "star": false,
+          "headline": "「三極委員会」、AI軍事利用を巡る国際協議体を発足",
+          "summary": "米欧などが参加し、AI活用による軍事衝突の拡大制御を議論。",
+          "detail": "AIの軍事利用が国家間の衝突を拡大させるリスクをどう制御するかについて、国際的な枠組みでの議論が始まった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA294PO0Z20C26A9000000/"
+        },
+        {
+          "id": "2026-09-30-ai-10",
+          "star": false,
+          "headline": "ChatGPT、最上位プランの新規受付を再開へ 5時間利用制限を撤廃",
+          "summary": "利用枠を消費しない新機能も追加。",
+          "detail": "これまで設けられていた5時間ごとの利用制限を完全に撤廃し、最上位サブスクプランの新規受付を再開する。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-09-30-econ-1",
+          "star": true,
+          "headline": "ニデック岸田光哉社長が辞任 後任に戒田理夫氏",
+          "summary": "「財務報告に関して適切と言えぬ言動」が確認されたのが理由。",
+          "detail": "2025年9月の不正会計発覚、5月の品質不正判明に続く事態で、9月30日の決算開示では数千億円規模の減損計上を検討中。後任の戒田氏は社内再生委員会副委員長を務めており、年内の臨時株主総会を経て正式に代表取締役社長へ就任する予定。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901006&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-2",
+          "star": false,
+          "headline": "パーク24、タイムズカー個人情報漏えいで対象者へ通知開始",
+          "summary": "運転免許証など本人確認書類画像約160万件が流出。",
+          "detail": "流出アカウント総数は最大約660万件に上る。9月29日から会員へのメール通知を開始しており、現時点で情報の不正利用は確認されていないという。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901164&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-3",
+          "star": false,
+          "headline": "8月鉱工業生産1.7%低下 熊本地震・台風の影響で自動車減産",
+          "summary": "自動車工業は6.8%低下、小型乗用車は17.3%減と深刻な落ち込み。",
+          "detail": "経産省によると、熊本地震や台風による自動車工場の稼働停止や部品供給の停滞が影響した。全15業種中12業種で生産が減少し、石油・石炭製品工業も13.3%低下するなど広範な産業に悪影響が及んだ。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026093000258&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-4",
+          "star": true,
+          "headline": "円相場、156円台へ上昇",
+          "summary": "中値で「ドル売り」優勢となり、前日の157円台から円高方向に振れる。",
+          "detail": "前日夕方時点の157円22銭前後から、30日午前には156円台まで円高が進行。市場では日米当局による円安けん制も意識されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-30-econ-5",
+          "star": false,
+          "headline": "日経平均、前日比700円超高も伸び悩み",
+          "summary": "6万6100円台後半で推移、日東電工や村田製作所などが軟調。",
+          "detail": "大幅高で始まったものの、一部の主力銘柄が軟調に推移し上げ幅を縮小した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/markets/"
+        },
+        {
+          "id": "2026-09-30-econ-6",
+          "star": false,
+          "headline": "関西電力・中部電力で電気料金の過大徴収発覚",
+          "summary": "関西電力は492万件、総額1400万円の過大徴収を経産省に報告。",
+          "detail": "関西電力は当初想定していた最大714万件から492万件に件数を修正し、大半の契約では月額最大1円程度の影響にとどまるとした上で経産省に再発防止策を含む報告書を提出。中部電力も同様の過大徴収を認め、12月分から順次返金する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901137&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-7",
+          "star": false,
+          "headline": "10月の電気料金、全社で過去最高に",
+          "summary": "政府の補助金終了が主因で上昇。",
+          "detail": "大手電力各社が10月分の電気料金を過去最高水準に改定する見通しで、政府による電気代補助金の終了が主な要因。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901014&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-8",
+          "star": false,
+          "headline": "自動車大手、8月の世界生産4.1%減",
+          "summary": "中国での不振に加え、能登地震の影響も響く。",
+          "detail": "自動車大手各社の8月の世界生産台数は前年同月比4.1%減少。中国市場の不振に加え、国内の地震による部品供給の混乱も影響した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901002&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-9",
+          "star": false,
+          "headline": "カナデビアと日鉄エンジ、経営統合を中止",
+          "summary": "「諸条件で合意を見いだすことは困難」として協議を終了。",
+          "detail": "カナデビア（旧日立造船）と日本製鉄子会社の日鉄エンジニアリングは、2026年4月をめどに国内最大手を目指していた経営統合計画を破談とした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901049&g=eco"
+        },
+        {
+          "id": "2026-09-30-econ-10",
+          "star": false,
+          "headline": "食品値上げ、10月は3153品目",
+          "summary": "年間2万品目超で2年連続の高水準。",
+          "detail": "帝国データバンクの調査による。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026093000284&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-09-30-pol-1",
+          "star": true,
+          "headline": "臨時国会、10月5日召集 会期は12月12日までの69日間",
+          "summary": "消費税減税関連法案と衆院定数削減法案が与野党対立の焦点。",
+          "detail": "与党は衆院で7割超の議席を持つため参院で否決されても再可決で成立させられるが、野党は財源明示を求め反対姿勢を強めている。第2次高市改造内閣発足後、初の本格論戦の場となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900123&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-2",
+          "star": true,
+          "headline": "中国、高市首相の台湾有事答弁「是正」を要求 経済協力に意欲も",
+          "summary": "王毅外相が岩屋毅前外相との会談で早期是正を要求。",
+          "detail": "中国政府が対中関係を重視する日本の政治家との会談を公式発表するのは、関係冷え込み以降初めて。台湾問題を巡る答弁の是正を関係改善の条件としつつ、経済協力への意欲も示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900133&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-3",
+          "star": false,
+          "headline": "習政権、岩屋氏を厚遇 対中友好団体との対話再開の兆し",
+          "summary": "岩屋氏は副首相級の何立峰氏や王毅氏と相次いで会談。",
+          "detail": "8月以降の超党派訪中団に続き、日中貿易促進協会の岩屋氏は一段と厚遇を受けた。中国側は高市首相答弁の是正を関係改善の条件としており、政府間対話再開への布石とみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901126&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-4",
+          "star": false,
+          "headline": "衆院「1票の格差」2.275倍 40選挙区が違憲状態",
+          "summary": "2025年国勢調査確定値に基づき、13都道府県で区割り改定へ。",
+          "detail": "格差が最大なのは福岡2区と石川3区の間。国の区割り審が改定を検討する対象は北海道・宮城・東京・大阪など22選挙区に及ぶ見通し。参院選挙区の格差は東京都と福井県の間で3.178倍。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900906&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-5",
+          "star": false,
+          "headline": "陸自「25式地対艦誘導弾」を沖縄に初展開 日米共同演習「キーン・ソード」",
+          "summary": "10月19〜29日の演習で反撃能力向上を狙う。",
+          "detail": "陸海空自衛隊約4万5000人が参加する大規模演習で、フランス・ドイツなど5カ国が初参加する。長射程ミサイルの実戦的運用能力の向上が目的。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092901032&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-6",
+          "star": false,
+          "headline": "米軍ミサイル「タイフォン」、嘉手納基地に一時保管へ",
+          "summary": "地元自治体は恒久配備を警戒し撤回を要求。",
+          "detail": "射程約1600キロで中国本土を射程内に収める移動式発射装置。防衛省は日米同盟の抑止力強化につながると説明している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900950&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-7",
+          "star": false,
+          "headline": "玉木氏、衆院定数削減「反対ではない」",
+          "summary": "人口減少比例など条件を提示。",
+          "detail": "国民民主党の玉木代表が、条件付きで定数削減に前向きな姿勢を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900830&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-8",
+          "star": false,
+          "headline": "2025年国勢調査確定値、総人口1億2297万人 過去最大の減少幅",
+          "summary": "前回調査比317万人（2.5%）減、外国人は過去最多の384万人。",
+          "detail": "日本人人口は3.5%減少した一方、外国人は39.8%増の384万人で過去最多となった。国籍別では中国が最多で、ベトナム、韓国・朝鮮が続き、前回調査から順位が入れ替わった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900645&g=pol"
+        },
+        {
+          "id": "2026-09-30-pol-9",
+          "star": false,
+          "headline": "高市首相、モンゴル首相と会談 空港拡張へ円借款で一致",
+          "summary": "ウランバートル近郊の国際空港拡張を日本の円借款で支援。",
+          "detail": "エネルギー分野でも協力していくことで一致し、両国の経済的な結びつきを深める狙い。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20260929de53217"
+        },
+        {
+          "id": "2026-09-30-pol-10",
+          "star": false,
+          "headline": "茂木氏、旧敵国条項巡り中国に反論",
+          "summary": "国連総会での日中朝応酬を受けた継続的なやり取り。",
+          "detail": "旧敵国条項の早期削除を求める日本側の主張を巡り、中国側の反発に対して改めて反論した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026092900883&g=pol"
+        }
+      ]
+    }
+  ]
+}
