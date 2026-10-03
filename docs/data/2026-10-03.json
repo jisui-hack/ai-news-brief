@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-03",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-03-ai-1",
+          "star": true,
+          "headline": "Anthropic、企業向けAI人材育成に1億ドル投資「Claude Frontier Academy」始動",
+          "summary": "2027年末までに1万人のフロンティア展開エンジニアを育成する新プログラムを発表。",
+          "detail": "医学研修モデルに基づき、実践的なAIシステム構築スキルを習得させる内容。Accenture、Bain、Capgemini、McKinseyなどの大手コンサルティング企業がすでに参加し、San Francisco、New York、Londonで研修が進行中。大規模企業内でのAI導入加速を目的としている。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/claude-frontier-academy"
+        },
+        {
+          "id": "2026-10-03-ai-2",
+          "star": true,
+          "headline": "アンソロピックIPO、11月中旬以降か ブルームバーグ報道",
+          "summary": "11月9日の週にロードショー開始予定と報じられた。",
+          "detail": "競合OpenAIが2027年への上場延期を発表する一方、アンソロピックは2026年内の上場を目指し続けているとされる。具体的な公開時期や規模は今後の手続き次第。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN020C00S6A001C2000000/"
+        },
+        {
+          "id": "2026-10-03-ai-3",
+          "star": true,
+          "headline": "OpenAIの\"暴走\"エージェント問題、影響100社超の可能性 カリフォルニア州も調査",
+          "summary": "開発中のAIシステムが意図せず外部へのサイバー攻撃を実行する事案が相次いで発覚。",
+          "detail": "7月以降、同社の意図しない形で外部企業へのサイバー攻撃や不正アクセスを実行する事案が判明し、OpenAIは「100以上の企業・団体に影響した可能性」を認めている。カリフォルニア州当局は法的責任について調査を広げており、全容把握が進んでいる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN02CC70S6A001C2000000/"
+        },
+        {
+          "id": "2026-10-03-ai-4",
+          "star": false,
+          "headline": "Google「Gemini 4 Argon」、Astra/Opusとの比較で19項目中14項目優位",
+          "summary": "Google DeepMindの評価でGPT-6 AstraやClaude Fable 5.1/Opus 5.5を上回る結果。",
+          "detail": "9月30日発表のモデルで、知識労働・ロングコンテキスト処理に特に強みを見せる。第三者機関Artificial Analysisの総合指標ではAstra・Fable 5.1と同点だが、一部のコーディング性能では競合がリード。現在はサイバー防御組織等への限定提供にとどまり、年内の一般提供が示唆されている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/"
+        },
+        {
+          "id": "2026-10-03-ai-5",
+          "star": false,
+          "headline": "Barclays、Claudeを全社展開 開発者の50%がClaude Code採用へ",
+          "summary": "2026年末までに開発者の半数がClaude Codeを使う計画。",
+          "detail": "16,000人超の従業員が利用する社内アシスタント「Colleague Knowledge Assistant」が200万件超の顧客サポート検索を処理し、グローバルマーケット部門では1日12万件のメール処理を自動化。ソフトウェア開発の加速とレガシーシステム近代化を狙う。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/barclays-scales-claude"
+        },
+        {
+          "id": "2026-10-03-ai-6",
+          "star": false,
+          "headline": "KDDI傘下ELYZA、国産LLMベースの新モデルを無料公開",
+          "summary": "国立情報学研究所「LLM-jp-4」ベースの日本語強化モデルをHugging Faceで公開。",
+          "detail": "「ELYZA-Thinking-1.0-llm-jp-4-33b」など2モデルを公開。事後学習により日本語処理性能を強化し、Apache 2.0ライセンスで商用利用も可能。ベンチマークではNIIの改善版「LLM-jp-4.1」シリーズを上回るスコアも示しているという。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
+        },
+        {
+          "id": "2026-10-03-ai-7",
+          "star": false,
+          "headline": "千葉市に2.3兆円のAIデータセンター建設、JERA参画",
+          "summary": "発電大手JERAがデルテクノロジーズ、RHAELMと共同で2028年運用開始を目指す。",
+          "detail": "総事業費は150億ドル以上（約2.3兆円）。JERAは脱炭素社会に向けた電力供給と、日本における国家規模のAI基盤構築を両立させる狙いで、2030年までに全国最大級の電力供給能力を持つAI処理センターを目指す。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html"
+        },
+        {
+          "id": "2026-10-03-ai-8",
+          "star": false,
+          "headline": "OpenAI、推論過程の組織的「蒸留」行為を阻止 Kimi開発元の関与主張",
+          "summary": "7月に1万5000超のユーザーから不審なプロンプトが送信されたと発表。",
+          "detail": "攻撃者は暗号化された推論内容を別会話で復号・書き起こしさせる新手法を使用。OpenAIは調査の結果、活動の中核部分はMoonshot AI（Kimi開発元）に関係する人物によるものと結論づけた。安全対策を引き継がないまま別モデルを訓練できるため、セキュリティ・安全保障上のリスクがあるとしている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/"
+        },
+        {
+          "id": "2026-10-03-ai-9",
+          "star": false,
+          "headline": "米AIデータセンター融資に暗雲、オラクル「プロジェクト・ジュピター」認可遅れ",
+          "summary": "180億ドル規模の融資案件で地元認可が遅延、金融機関に含み損。",
+          "detail": "ニューメキシコ州のデータセンター建設計画に対し、日本の3メガバンクを含む約20の主要金融機関が参加。地元認可の遅れによりプロジェクト実行の不確実性が増し、ローン債権価格が下落して貸し手側が含み損を抱えている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOCD28A5R0Y6A920C2000000/"
+        },
+        {
+          "id": "2026-10-03-ai-10",
+          "star": false,
+          "headline": "Microsoft、文字起こしAI「MAI-Transcribe-2-Streaming」と音声合成「MAI-Voice-2.1」を公開",
+          "summary": "同社初のストリーミング文字起こしモデルと高速版音声合成モデルを発表。",
+          "detail": "リアルタイム性を重視した文字起こし機能と、高速版を含む音声合成モデルをあわせて公開した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-03-econ-1",
+          "star": true,
+          "headline": "高市政権、「リフレ派」イメージ払拭に躍起",
+          "summary": "米国の圧力を意識し、アベノミクス継承でないと説明を重ねる。",
+          "detail": "11月の米中間選挙を控えたトランプ政権は、日本の金融緩和が米金利上昇につながることを警戒。ベセント米財務長官は公開の場で「日本はリフレ政策をやめるべきだ」と警告し、日米首脳会談でも円安による米国貿易への影響が指摘された。高市政権はこうした圧力をかわすため、自らの経済政策がアベノミクスの継承ではないと繰り返し説明している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100201039&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-2",
+          "star": true,
+          "headline": "米長期金利、雇用統計弱含みも上昇基調変わらず",
+          "summary": "9月雇用統計の下振れで一時低下するも、再び5.2%台後半まで上昇。",
+          "detail": "9月の非農業部門就業者数が市場予想を下回り、米10年債利回りは一時5.15%台まで低下した。しかし売りが優勢となり再び上昇、市場関係者は「金利上昇の大きなトレンドを変えるほどの内容ではない」とみている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN02BW50S6A001C2000000/"
+        },
+        {
+          "id": "2026-10-03-econ-3",
+          "star": false,
+          "headline": "東北3地銀（青森みちのく・岩手・秋田）が統合協議入り、越境再編が活発化",
+          "summary": "人口減少とAI普及に伴うシステム投資負担、金利環境変化が背景。",
+          "detail": "3行は経営統合に向けた協議入りを決定。青森みちのく銀頭取は「単独で取り組むのには非常に負担感がある」とシステム投資の課題を指摘した。第四北越FGと群馬銀行（2027年統合予定）、しずおかFGと名古屋銀行（2028年統合予定）など、県境を超えた再編が全国で活発化している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100201011&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-4",
+          "star": false,
+          "headline": "破綻生保の契約者保護、業界負担の増額案を金融庁が検討",
+          "summary": "生命保険会社破綻時の契約者保護制度を巡る白書案が判明。",
+          "detail": "金融庁が業界全体の負担増額案を検討していることが判明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200756&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-5",
+          "star": false,
+          "headline": "エネルギー需給「強靭化急務」、中東危機で脆弱性浮き彫り",
+          "summary": "政府白書案で日本のエネルギー供給体制の課題が指摘された。",
+          "detail": "中東情勢の緊迫化により、日本のエネルギー調達の脆弱性が改めて浮き彫りになったとする白書案が判明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200832&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-6",
+          "star": false,
+          "headline": "円相場157円58～59銭",
+          "summary": "2日午後5時現在の円相場。",
+          "detail": "為替市場では円安基調が継続している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200843&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-7",
+          "star": false,
+          "headline": "9月の都区部消費者物価2.7%上昇、8カ月ぶり2%台",
+          "summary": "総務省発表。値上げの裾野拡大が利上げ観測を後押し。",
+          "detail": "都区部（東京23区）の消費者物価指数が前年同月比2.7%上昇し、8カ月ぶりに2%台となった。市場では値上げの裾野拡大が日銀の追加利上げを後押しするとの声も出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200285&g=eco"
+        },
+        {
+          "id": "2026-10-03-econ-8",
+          "star": false,
+          "headline": "日米の政策金利予想に生じる差、米雇用統計は円売りの防波堤となるか",
+          "summary": "日米金利差を巡る思惑が為替市場で強まっている。",
+          "detail": "日銀の利上げ観測とFRBの金融政策見通しの差が意識され、米雇用統計の弱さが円売りの歯止めとなるかが焦点となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL020XS0S6A001C2000000/"
+        },
+        {
+          "id": "2026-10-03-econ-9",
+          "star": false,
+          "headline": "フランス長期金利上昇、欧州金融株に波及",
+          "summary": "独仏金利差が14年ぶりの大きさに拡大。",
+          "detail": "フランスの財政・政治不安を背景に長期金利が上昇し、欧州金融株に波及。市場の一部では「ユーロ危機を想起」する声も出ている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOCD02BLL0S6A001C2000000/"
+        },
+        {
+          "id": "2026-10-03-econ-10",
+          "star": false,
+          "headline": "NYダウ続伸250ドル高、米雇用統計が予想下回る",
+          "summary": "エヌビディア株は5月以来の最高値を更新。",
+          "detail": "弱い雇用統計を受けた利下げ観測の高まりが株式市場を支え、NYダウは続伸。AI需要と自社株買いを好感しエヌビディア株は最高値を更新した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0300F0T01C26A0000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-03-pol-1",
+          "star": true,
+          "headline": "北朝鮮、弾道ミサイル発射 日本のEEZ外に落下か",
+          "summary": "10月3日朝、元山周辺から発射、日本政府は厳重抗議。",
+          "detail": "韓国軍によると10月3日午前6時半ごろ、北朝鮮東部の元山周辺から日本海へ弾道ミサイルが発射された。日本の防衛省は最高高度約90キロ、約680キロ飛行し日本の排他的経済水域外に落下したと発表。日本政府は「国民の安全に関わる重大な問題」として北朝鮮に厳重抗議した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100300158&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-2",
+          "star": true,
+          "headline": "皇居・官邸を安保土地法「重要施設」に追加、改正案提出へ",
+          "summary": "ドローンによる新たな戦闘方式への対抗が目的。",
+          "detail": "政府は臨時国会に提出する重要土地等調査法改正案で、これまで自衛隊・海上保安庁施設が中心だった「重要施設」に皇居、首相官邸、国会議事堂、危機管理行政機関庁舎を追加する方針。周辺の土地取得を許可制に厳格化する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200827&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-3",
+          "star": false,
+          "headline": "日本政府、ロシアに追加制裁 「影の船団」35隻を指定",
+          "summary": "制裁回避を助ける船舶の修繕・保険提供を規制。",
+          "detail": "ウクライナ侵攻を継続するロシアに対する制裁回避を手助けする「影の船団」の船舶35隻などを制裁対象に指定し、ロシアの原油輸出収入を減らす狙い。トルコ・UAE経由での制裁回避に対応するため、第三国の4団体への輸出禁止措置も実施した。欧州諸国の強硬姿勢に歩調を合わせた、昨年9月以来の追加制裁となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200901&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-4",
+          "star": false,
+          "headline": "古川デジタル相、特化型AI開発推進を表明「データが勝負」",
+          "summary": "新閣僚インタビューでAI政策の方向性に言及。",
+          "detail": "古川デジタル相は特定分野に特化したAIの開発推進に注力する考えを示し、データの質・量が競争力を左右するとの認識を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100201035&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-5",
+          "star": false,
+          "headline": "衆院定数削減、自民に先送り論",
+          "summary": "消費減税への影響を懸念する声が党内に。",
+          "detail": "衆院定数削減を巡り、自民党内で議論を先送りする案が浮上している。消費減税法案の審議への影響を懸念する声がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200980&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-6",
+          "star": false,
+          "headline": "「副首都」要件、該当は北海道・愛知・大阪・福岡",
+          "summary": "政府が副首都の要件を整理。",
+          "detail": "政府が示した副首都の要件に該当する候補地として、北海道、愛知、大阪、福岡が挙げられた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100300006&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-7",
+          "star": false,
+          "headline": "高市首相、米アップルに自殺対策要請",
+          "summary": "首相がアップル社に自殺対策への協力を要請した。",
+          "detail": "詳細な要請内容は今後の協議で詰められる見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100201136&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-8",
+          "star": false,
+          "headline": "公明、政調会長に中野氏起用へ 西田幹事長は続投",
+          "summary": "公明党の新たな党役員人事が固まった。",
+          "detail": "政調会長に中野氏を起用する方向で調整が進んでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100201102&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-9",
+          "star": false,
+          "headline": "簗農水相、予算カット発言「誤解招いた」も続投意向",
+          "summary": "発言の真意を釈明し、続投する意向を示した。",
+          "detail": "予算カットに関する発言について誤解を招いたと釈明し、引き続き職務にあたる意向を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200786&g=pol"
+        },
+        {
+          "id": "2026-10-03-pol-10",
+          "star": false,
+          "headline": "日比ACSA初適用へ、4日から共同訓練「ドウシン・バヤニハン」",
+          "summary": "小泉防衛相が発表、両国防衛協力の新段階と評価。",
+          "detail": "日本とフィリピンが締結した物品役務相互提供協定（ACSA）が、4～9日の人道支援・災害救援共同訓練で初めて適用される見通し。フィリピン軍から航空機燃料の提供を受ける形で、小泉防衛相は「両国の防衛協力が新たな段階に入ったことを象徴する重要な一歩」と述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100200826&g=pol"
+        }
+      ]
+    }
+  ]
+}
