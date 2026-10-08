@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-08",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-08-ai-1",
+          "star": true,
+          "headline": "OpenAI、社内AIがリーマン予想関連の難問を証明と主張",
+          "summary": "論文722本をGitHubで公開し、数学分野での自動研究能力をアピール。",
+          "detail": "OpenAIは社内のAIシステムがリーマン予想に関連する未解決問題を証明したと主張し、関連論文722本をGitHubで公開した。数学界では真偽や査読の有無を巡って議論が起きており、AIによる数学研究の信頼性をどう検証するかが焦点になっている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/"
+        },
+        {
+          "id": "2026-10-08-ai-2",
+          "star": true,
+          "headline": "Anthropic、「Claude Haiku 5.5」を公開",
+          "summary": "「Haiku 4.5」から大幅性能向上、利用コストは約75%減。",
+          "detail": "AnthropicはHaiku系列の最新モデル「Claude Haiku 5.5」を公開した。前モデル「Haiku 4.5」比で性能が大幅に向上した一方、利用コストは約75%減少し、API料金は10分の1に設定された。あわせて「Sonnet 5.5」のキャッシュ読み込み料金も半額に引き下げられた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/"
+        },
+        {
+          "id": "2026-10-08-ai-3",
+          "star": false,
+          "headline": "Mistral、1兆パラメータの「Mistral Large 4」発表",
+          "summary": "通称「Le Chonk」、10月末にオープンウェイトで公開予定。",
+          "detail": "フランスのMistral AIは1兆パラメータ規模の新モデル「Mistral Large 4」（通称「Le Chonk」）を発表した。10月末にオープンウェイトとして公開される予定で、大規模モデルの開発競争が欧州勢にも広がっていることを示す動きとなった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/"
+        },
+        {
+          "id": "2026-10-08-ai-4",
+          "star": false,
+          "headline": "Google、画像生成「Nano Banana 2.1」を公開",
+          "summary": "APIの画像出力料金は前モデルの約半額に。",
+          "detail": "Googleは画像生成モデル「Nano Banana 2.1」を公開した。API経由の画像出力料金は前モデル「Nano Banana 2」の約半額に設定されており、画像生成分野での価格競争が一段と進んでいる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/"
+        },
+        {
+          "id": "2026-10-08-ai-5",
+          "star": false,
+          "headline": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に",
+          "summary": "ローカルとクラウドのAIを使い分け、CopilotはPC操作にも対応。",
+          "detail": "Microsoftはローカル実行AIとクラウドAIを場面に応じて使い分ける「ハイブリッドインテリジェンス」をWindowsの基盤とする方針を発表した。CopilotはファイルアクセスやPC操作にも対応範囲を広げる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/"
+        },
+        {
+          "id": "2026-10-08-ai-6",
+          "star": false,
+          "headline": "Anthropic、「Cyber Verification Program」を拡充",
+          "summary": "新モデル「Claude Mythos 5.1」も対象に追加。",
+          "detail": "Anthropicはセキュリティ専門家向けの検証プログラム「Cyber Verification Program」の対象を拡充し、新モデル「Claude Mythos 5.1」を加えた。AIのサイバーセキュリティ領域での能力検証体制を強化する動き。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/"
+        },
+        {
+          "id": "2026-10-08-ai-7",
+          "star": false,
+          "headline": "OpenAIアルトマン氏「AIの多少の悪影響は許容すべき」",
+          "summary": "AI暴走事例を踏まえてもAnthropicとリスク許容度の立場が食い違う。",
+          "detail": "OpenAIのアルトマンCEOは、AIがもたらす一定の悪影響は許容すべきだとの考えを示した。過去のAI暴走事例が報じられる中でも、安全性を重視するAnthropicとのリスク許容度を巡る立場の違いが改めて浮き彫りになった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html"
+        },
+        {
+          "id": "2026-10-08-ai-8",
+          "star": false,
+          "headline": "バイブコーディングで作られた公開Webアプリの9割に脆弱性",
+          "summary": "マイクロソフトの研究者らの調査で判明。",
+          "detail": "マイクロソフトの研究者らが実施した調査により、AIによる「バイブコーディング」で開発・公開されているWebアプリの9割に何らかの脆弱性が存在することが判明した。生成AIによる開発の急速な普及に対し、セキュリティ面の検証体制が追いついていない実態が浮かぶ。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/"
+        },
+        {
+          "id": "2026-10-08-ai-9",
+          "star": false,
+          "headline": "Gartner「FDEが開発したAIエージェントの7割は使われず」",
+          "summary": "実態は単なるコンサルティング販売に近いケースが多いと指摘。",
+          "detail": "調査会社Gartnerは、フォワード・デプロイド・エンジニア（FDE）が開発したAIエージェントのうち7割が実際には使われていないと予測した。名目はAIエージェント開発でも、実態は通常のコンサルティングに近い形で販売されているケースが多いと指摘している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/07/2000002098/"
+        },
+        {
+          "id": "2026-10-08-ai-10",
+          "star": false,
+          "headline": "チームみらい・安野氏「サイバー攻撃能力の高いAIモデルが拡散」",
+          "summary": "相次ぐ情報漏えいを受け、対応を急ぐ必要があると発言。",
+          "detail": "チームみらいの安野氏は、サイバー攻撃能力の高いAIモデルが拡散している現状に警鐘を鳴らした。企業からの情報漏えいが相次いでいることを受け、政府・企業双方が対応を急ぐ必要があると述べた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-08-econ-1",
+          "star": true,
+          "headline": "日経平均、一時800円超下落",
+          "summary": "ソフトバンクGへの売りや米株安が重荷に。",
+          "detail": "8日の東京株式市場で日経平均株価は一時800円超下落した。ソフトバンクグループへの売りが目立ったほか、前日の米国株安も重荷となり、前日に回復したばかりの7万円台から反落する場面があった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL080RS0Y6A001C2000000/"
+        },
+        {
+          "id": "2026-10-08-econ-2",
+          "star": false,
+          "headline": "8月経常黒字、4兆620億円",
+          "summary": "海外子会社からの配当増加が寄与。",
+          "detail": "財務省が発表した8月の経常収支は4兆620億円の黒字だった。海外子会社からの配当金増加が黒字幅拡大に寄与した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100800247&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-3",
+          "star": false,
+          "headline": "円買い介入、米財務省が主導と認める",
+          "summary": "FOMC議事要旨で明らかに。",
+          "detail": "公表されたFOMC議事要旨により、過去の円買い介入を米財務省が主導していたことが明らかになった。為替市場の管理を巡る米国側の関与の実態が改めて確認された形。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100800222&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-4",
+          "star": false,
+          "headline": "オアシス、ニデックに非公開化検討を要請",
+          "summary": "意図せぬ上場廃止への備えを求めるアクティビストの動き。",
+          "detail": "アクティビスト・ファンドのオアシスマネジメントは、ニデックに対し非公開化の検討を求めた。意図しない形での上場廃止リスクに備えるべきだとの主張で、市場はニデックの株価下落という形で反応した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100701199&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-5",
+          "star": false,
+          "headline": "ソフトバンク子会社に不正アクセス",
+          "summary": "495の自治体や企業に影響。",
+          "detail": "ソフトバンクの子会社が不正アクセスを受け、495の自治体や企業に影響が及んでいることが分かった。企業を標的にした不正アクセス被害が相次いでおり、データ管理体制の強化が課題となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700867&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-6",
+          "star": false,
+          "headline": "新TOPIX構成銘柄を発表",
+          "summary": "セリア・GOなど35社追加、683社が除外候補に。",
+          "detail": "日本取引所グループ（JPX）は新しいTOPIXの構成銘柄を発表した。セリアやGOなど35社が新たに追加される一方、683社が除外候補となり、株式市場の選別が進むきっかけになるとみられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700936&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-7",
+          "star": false,
+          "headline": "AIリスク管理で協調を、日米財界人会議が共同声明",
+          "summary": "日米の経済界がAIリスクへの協調対応を提言。",
+          "detail": "日米の財界人による会議が共同声明を発表し、AIの普及に伴うリスク管理での両国の協調を呼びかけた。AI活用の拡大とガバナンス整備の両立が経済界共通の課題として意識されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100800171&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-8",
+          "star": false,
+          "headline": "8月実質賃金、1.5%増",
+          "summary": "8カ月連続プラスで物価上昇の鈍化を反映。",
+          "detail": "厚生労働省が発表した8月の実質賃金は前年同月比1.5%増となり、8カ月連続のプラスとなった。物価上昇の鈍化が実質賃金の押し上げに寄与した形。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700224&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-9",
+          "star": false,
+          "headline": "ビール4社にカルテル疑い",
+          "summary": "出荷価格調整の疑いで公取委が強制調査。",
+          "detail": "公正取引委員会はビール大手4社が数年にわたり出荷価格を調整していた疑いがあるとして強制調査に乗り出した。刑事告発も視野に入れており、過去にも繰り返し一斉値上げが問題視されてきた経緯がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700343&g=eco"
+        },
+        {
+          "id": "2026-10-08-econ-10",
+          "star": false,
+          "headline": "植田日銀総裁「基調物価は目標の2%近辺」",
+          "summary": "安定の持続がより重要との認識を示す。",
+          "detail": "日銀の植田総裁は、基調的な物価上昇率が目標の2%近辺にあるとの認識を示した上で、その水準の安定的な持続がより重要だと述べた。利上げの時期よりペースに市場の関心が移っている局面での発言。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100600803&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-08-pol-1",
+          "star": true,
+          "headline": "高市首相、簗農水相の更迭を否定",
+          "summary": "道路予算カット発言を「不適切」としつつ更迭は否定。",
+          "detail": "衆院代表質問で高市首相は、簗農水相による道路予算カット発言を「不適切な発言」と認めた一方、更迭は否定した。野党は農水相の進退や発言の経緯を引き続き追及する構えを見せている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100800374&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-2",
+          "star": true,
+          "headline": "衆院代表質問始まる",
+          "summary": "野党が消費税減税や簗農水相発言を追及。",
+          "detail": "臨時国会で衆院代表質問が始まり、野党各党は食料品の消費税減税を巡る財源論や、簗農水相の道路予算カット発言を集中的に追及した。与党は消費減税法案の早期成立を最優先課題としている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261007de56108"
+        },
+        {
+          "id": "2026-10-08-pol-3",
+          "star": false,
+          "headline": "高市首相、消費減税財源は特例公債に頼らず",
+          "summary": "歳出・歳入改革で確保する意欲を示す。",
+          "detail": "高市首相は代表質問で、食料品の消費税減税の財源について赤字国債（特例公債）に頼らず、歳出・歳入改革で確保する考えを示した。財源確保の具体策を巡り今後の国会論戦が焦点となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100800364&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-4",
+          "star": false,
+          "headline": "中国外務省幹部が高市首相を呼び捨て",
+          "summary": "日本政府が中国側に敬意を払うよう申し入れ。",
+          "detail": "中国外務省の幹部が高市首相を呼び捨てで呼んだことを受け、日本政府は中国側に対し敬意を払うのは当然だとして申し入れを行った。台湾を巡る答弁問題なども絡み、日中間の緊張がにじむ対応となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100701068&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-5",
+          "star": false,
+          "headline": "高市首相、沖縄・古謝知事と面会",
+          "summary": "米兵逮捕を受け再発防止へ日米協議を進めると表明。",
+          "detail": "高市首相は沖縄県の古謝知事と面会し、米兵の逮捕事件を受けて再発防止に向けた日米協議を進める考えを示した。古謝知事は部隊教育への政府関与を求めており、政府は米側の対応を評価しつつ協議を続ける方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100701073&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-6",
+          "star": false,
+          "headline": "立民、消費減税公約を転換",
+          "summary": "減税より「速やかな給付」を主張する方針に。",
+          "detail": "立憲民主党は従来掲げていた消費減税の公約を転換し、減税よりも速やかな現金給付を優先する考え方をまとめた。与党の消費減税路線との対立軸をどう描くかが今後の論戦の焦点になる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100701089&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-7",
+          "star": false,
+          "headline": "政府、2次補正予算を検討",
+          "summary": "人件費増加を踏まえ年明け提出へ。",
+          "detail": "政府は人件費の増加などを踏まえ、2次補正予算の編成を検討している。年明けの国会提出を見込んでおり、物価・賃金動向を反映した追加の財政措置となる見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700932&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-8",
+          "star": false,
+          "headline": "簗農水相の道路予算カット問題、公選法違反の疑惑も浮上",
+          "summary": "地元への問い合わせ内容を巡り説明が二転三転。",
+          "detail": "簗農水相による道路予算カット発言を巡り、地元自治体への問い合わせの経緯について説明が二転三転し、公職選挙法違反の疑惑も浮上している。野党は農水相の進退を含めた対応を求めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100700482&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-9",
+          "star": false,
+          "headline": "衆院予算委、13日から2日間の質疑で合意",
+          "summary": "自民・民改の国対委員長会談で決定。",
+          "detail": "自民党と民主改革（維新系会派）の国会対策委員長会談により、衆院予算委員会の質疑を13日から2日間行うことで合意した。野党側はより長い質疑時間を求めていたが、与党側の提案で調整がついた形。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100701034&g=pol"
+        },
+        {
+          "id": "2026-10-08-pol-10",
+          "star": false,
+          "headline": "小沢一郎氏、中道会派に離党届",
+          "summary": "新党結成を模索。",
+          "detail": "小沢一郎氏は所属していた会派「中道」に離党届を提出し、新党結成を模索していることが明らかになった。中道勢力の再編を巡る動きが一段と流動化している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100600726&g=pol"
+        }
+      ]
+    }
+  ]
+}
