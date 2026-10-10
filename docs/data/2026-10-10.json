@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-10",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-10-ai-1",
+          "star": true,
+          "headline": "OpenAI、安全性研究者3人を解雇",
+          "summary": "本人らは「安全性を優先したため」と主張、OpenAIは規定違反と説明。",
+          "detail": "OpenAIは安全性研究に携わっていた研究者3人を解雇した。解雇された研究者側は「安全性を優先したため」として処遇を不当とする立場を示しているが、OpenAIは機密情報の扱いに関する社内規定に違反したことが理由と説明しており、双方の主張が対立している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/"
+        },
+        {
+          "id": "2026-10-10-ai-2",
+          "star": true,
+          "headline": "韓国の銀行狙うサイバー攻撃、容疑者はClaude製の偽履歴書から浮上",
+          "summary": "Claudeで作られたとみられる履歴書が手がかりに、中国在住の26歳が容疑者に。",
+          "detail": "韓国の銀行を標的にしたサイバー攻撃の捜査で、Claudeを使って作成されたとみられる偽の履歴書が重要な手がかりとなった。文体や内容の特徴分析から、中国在住の26歳の人物が容疑者として浮上している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/"
+        },
+        {
+          "id": "2026-10-10-ai-3",
+          "star": false,
+          "headline": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞・技術革新賞を授与",
+          "summary": "AI・半導体分野の功績が評価された。",
+          "detail": "トランプ大統領は米国家科学賞と国家技術革新賞を6人に授与した。受賞者にはイーロン・マスク氏やNVIDIAのジェンスン・フアン氏が含まれ、AI・半導体分野での功績が評価された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/"
+        },
+        {
+          "id": "2026-10-10-ai-4",
+          "star": false,
+          "headline": "ChatGPT、音声ファイルに対応へ",
+          "summary": "有料ユーザー向けに文字起こし・要約機能を追加。",
+          "detail": "OpenAIはChatGPTに音声ファイルの文字起こしや要約などができる新機能を追加した。対象は有料ユーザーで、会議の録音やメモなどへの活用が想定されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/"
+        },
+        {
+          "id": "2026-10-10-ai-5",
+          "star": false,
+          "headline": "Anthropic「Claude Cowork」がクラウド型専用に",
+          "summary": "企業向けエージェント機能の提供形態を一本化。",
+          "detail": "Anthropicは企業向けエージェント機能「Claude Cowork」の提供形態をクラウド完結型に一本化した。データ管理の一元化で利便性が高まる一方、企業側のセキュリティ懸念が減るか増えるか議論を呼んでいる。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/100800200/"
+        },
+        {
+          "id": "2026-10-10-ai-6",
+          "star": false,
+          "headline": "AIが発見した脆弱性は2.6万件、修正済みはわずか421件",
+          "summary": "発見が急増する一方、修正が追い付いていない実態。",
+          "detail": "AIを活用した脆弱性スキャンにより2.6万件の脆弱性が発見されたが、実際に修正が完了したのはわずか421件にとどまることが調査で分かった。発見のスピードに対し、修正・対応のリソースが追い付いていない課題が浮かんだ。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/093000196/"
+        },
+        {
+          "id": "2026-10-10-ai-7",
+          "star": false,
+          "headline": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年追跡調査",
+          "summary": "依存が強まる傾向が確認された。",
+          "detail": "スタンフォード大学などの研究グループが、AIキャラクターとの対話に没頭する利用者を1年間追跡調査した結果を発表した。利用を続けるうちに依存が強まる傾向が確認されたという。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/"
+        },
+        {
+          "id": "2026-10-10-ai-8",
+          "star": false,
+          "headline": "履歴書100通に1通「AIだけが読める文字」",
+          "summary": "20万件調査で判明した“就活ハック”の手口。",
+          "detail": "20万件の履歴書を調査した結果、約100通に1通の割合で、人間の目には見えないがAIの書類選考システムには読み取られる特殊な文字が埋め込まれていたことが分かった。AIによる選考を意識した“就活ハック”とみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/"
+        },
+        {
+          "id": "2026-10-10-ai-9",
+          "star": false,
+          "headline": "相次ぐ情報漏えい、攻撃側のAI活用「間違いない」",
+          "summary": "防御側の対応を大手ベンダー各社に聞いた傾向と対策。",
+          "detail": "相次ぐ企業の情報漏えい事案について、攻撃側がAIを活用していることは間違いないとの見方が示された。防御側がどのようにAIを活用して対抗するか、大手セキュリティベンダー各社の取り組みがまとめられた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002136/"
+        },
+        {
+          "id": "2026-10-10-ai-10",
+          "star": false,
+          "headline": "ソフトバンクG株続落、OpenAI「売上高500億ドル」報道が重荷",
+          "summary": "前日の急落に続き、投資家の懸念が株価の重荷に。",
+          "detail": "ソフトバンクグループの株価は続落した。前日に続き、OpenAIの年間売上高が500億ドルに達したとの報道を受け、投資先の業績評価への懸念が株価の重荷となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB095BC0Z01C26A0000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-10-econ-1",
+          "star": true,
+          "headline": "NY円相場、反落 1ドル=158円35〜45銭",
+          "summary": "米長期金利の上昇が重荷に。",
+          "detail": "ニューヨーク外国為替市場で円相場は反落し、1ドル=158円35〜45銭で取引された。米長期金利の上昇が円売りの材料となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL09C9J0Z01C26A0000000/"
+        },
+        {
+          "id": "2026-10-10-econ-2",
+          "star": false,
+          "headline": "米国債「恐怖指数」が鳴らす警鐘",
+          "summary": "財政悪化懸念などを背景にボラティリティ指標が上昇。",
+          "detail": "米国債市場のボラティリティを示す「恐怖指数」が上昇しており、財政赤字拡大への懸念などが背景にあるとみられる。株式市場の平静がいつまで続くか、警鐘を鳴らす内容となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL09B450Z01C26A0000000/"
+        },
+        {
+          "id": "2026-10-10-econ-3",
+          "star": false,
+          "headline": "NY債券、長期債反落 10年債利回り5.24%",
+          "summary": "原油上昇局面で債券売りが優勢。",
+          "detail": "ニューヨーク債券市場で長期債は反落し、10年債利回りは5.24%に上昇した。原油価格が上昇する局面で債券売りが優勢となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL09BUW0Z01C26A0000000/"
+        },
+        {
+          "id": "2026-10-10-econ-4",
+          "star": false,
+          "headline": "米国株、ダウ続伸し423ドル高",
+          "summary": "ハイテク株への買い直しが相場を支え。",
+          "detail": "ニューヨーク株式市場でダウ工業株30種平均は続伸し、前日比423ドル高で終えた。ハイテク株への買い直しが相場を支え、ナスダック総合指数も反発した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL09BR00Z01C26A0000000/"
+        },
+        {
+          "id": "2026-10-10-econ-5",
+          "star": false,
+          "headline": "日銀、金融機関のオペ依存にメス",
+          "summary": "市場調節の運用能力には一抹の不安。",
+          "detail": "日銀は金融機関が市場調節オペに依存する体質の見直しを進めている。背景には金融機関側の市場運用能力への一抹の不安があり、オペ依存からの転換を促す狙いがある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB08AC00Y6A001C2000000/"
+        },
+        {
+          "id": "2026-10-10-econ-6",
+          "star": false,
+          "headline": "フランス国債売り、世界で進む「質への逃避」",
+          "summary": "日本国債も資金の受け皿に。",
+          "detail": "フランスの財政・政治不安を背景に同国の国債が売られている。世界的に「質への逃避」の動きが進み、相対的に安全とされる日本国債に資金が流入する動きも出ている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0916RTZ01C26A0000000/"
+        },
+        {
+          "id": "2026-10-10-econ-7",
+          "star": false,
+          "headline": "事業承継税制、特例廃止論も",
+          "summary": "富裕層の優遇懸念を政府税調が議論。",
+          "detail": "政府税制調査会で事業承継税制の特例について、富裕層優遇につながっているとの懸念から廃止論が出ている。税負担の公平性をめぐる議論が続いている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901217&g=eco"
+        },
+        {
+          "id": "2026-10-10-econ-8",
+          "star": false,
+          "headline": "租特見直し、「聖域」打破が焦点",
+          "summary": "積極財政路線の成否を左右。",
+          "detail": "租税特別措置（租特）の見直しが、政府の積極財政路線の成否を左右する焦点となっている。これまで「聖域」とされてきた分野の措置をどこまで見直せるかが問われている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901071&g=eco"
+        },
+        {
+          "id": "2026-10-10-econ-9",
+          "star": false,
+          "headline": "コメ価格、8週連続下落 5キロ2860円",
+          "summary": "農水省調査、卸売価格が下落続く。",
+          "detail": "農林水産省の調査によると、コメの卸売価格（5キロあたり）は2860円となり、8週連続で下落した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901016&g=eco"
+        },
+        {
+          "id": "2026-10-10-econ-10",
+          "star": false,
+          "headline": "ビールカルテル疑惑、協議内容を経営トップに報告か",
+          "summary": "公取委が組織的関与の有無を調査、担当者は価格調整を認める。",
+          "detail": "ビール大手の価格調整疑惑で、現場の協議内容が経営トップに報告されていた可能性があることが分かった。公正取引委員会は組織的な関与の有無を調査しており、担当者が価格調整を認める証言も出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100900989&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-10-pol-1",
+          "star": true,
+          "headline": "米、ICC(国際刑事裁判所)を制裁対象に指定",
+          "summary": "日本など8カ国は強く反対、高市首相「深く懸念」。",
+          "detail": "米国はICC本体を制裁対象に指定し、「解体」も辞さない構えを示した。これに対し日本を含む8カ国は「国際秩序を守る」として強く反対を表明。高市首相も「深く懸念している」と述べ、必要な支援を続けるとした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901266&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-2",
+          "star": true,
+          "headline": "政府、食料品の消費税減税法案を国会提出",
+          "summary": "与党は月内審議入り目指す、野党は簗農相問責含め協議。",
+          "detail": "政府は食料品の消費税を引き下げる関連法案を国会に提出した。与党は臨時国会での月内審議入りを目指す一方、野党は簗農水相の問責決議案も含めて対応を協議する構えを示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901104&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-3",
+          "star": false,
+          "headline": "簗農水相のバス無料送迎問題、沈静化見通せず",
+          "summary": "自民内に辞任不可避の声。",
+          "detail": "簗農水相の支援者向けバス無料送迎をめぐる公職選挙法上の疑惑について、十分な説明がなされていないとして問題が沈静化していない。自民党内からは辞任は不可避との声も出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901092&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-4",
+          "star": false,
+          "headline": "新給付制度、対象・額は財源次第で「白紙」のまま審議へ",
+          "summary": "消費税減税とあわせた低所得者向け給付制度。",
+          "detail": "消費税減税とあわせて導入予定の低所得者向け新給付制度について、対象者や給付額などの具体案は財源確保の議論次第として、「白紙」のまま国会審議に入ることになった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901104&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-5",
+          "star": false,
+          "headline": "ドイツ、日英伊の次期戦闘機共同開発枠組みへの参画を検討",
+          "summary": "防衛分野の国際協力拡大の動き。",
+          "detail": "日英伊が共同開発を進める次期戦闘機の枠組みについて、ドイツが参画を検討していることが報じられた。防衛分野での国際協力の枠組み拡大に向けた動きとなる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101000256&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-6",
+          "star": false,
+          "headline": "与野党、SNS事業者に選挙の偽情報対策を申し入れ",
+          "summary": "偽情報拡散への対応強化を要請。",
+          "detail": "選挙時に偽情報が拡散する問題への対応強化を求め、与野党がSNS事業者に対応策の申し入れを行った。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100901126&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-7",
+          "star": false,
+          "headline": "高市首相、経済成長率や財政運営目標の「点検・検証体制」具体化を指示",
+          "summary": "経済財政諮問会議で推進体制の刷新を求める。",
+          "detail": "高市首相は経済財政諮問会議で、経済成長率や財政運営目標の実現に向けた点検・検証体制を具体化するよう指示した。管理・点検機能の強化が求められている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261009de57477"
+        },
+        {
+          "id": "2026-10-10-pol-8",
+          "star": false,
+          "headline": "政府、相次ぐ不正アクセス受け官民に対策徹底を要請",
+          "summary": "JR東日本やブックオフなどで情報流出が相次ぐ。",
+          "detail": "JR東日本やブックオフなど複数の企業で不正アクセスによる情報流出が相次いだことを受け、政府は官民問わず対策の徹底を求めた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261010de57529"
+        },
+        {
+          "id": "2026-10-10-pol-9",
+          "star": false,
+          "headline": "高市首相、中国による制裁は「大変名誉」",
+          "summary": "自民・古屋氏へのメールで言及。",
+          "detail": "高市首相は自民党の古屋氏に宛てたメールの中で、自身が中国から制裁対象とされたことについて「大変名誉」との認識を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026100900879&g=pol"
+        },
+        {
+          "id": "2026-10-10-pol-10",
+          "star": false,
+          "headline": "赤根ICC所長、米制裁下でも活動継続を表明",
+          "summary": "「法の支配への攻撃」と米国の制裁を批判。",
+          "detail": "ICCの赤根所長は、米国による制裁を「法の支配への攻撃」と批判し、ICCとしての活動を継続すると表明した。国際司法の重要性が改めて認められたとの認識も示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101000017&g=pol"
+        }
+      ]
+    }
+  ]
+}
