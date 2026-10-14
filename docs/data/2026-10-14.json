@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-14",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-14-ai-1",
+          "star": true,
+          "headline": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+          "summary": "社内の機密会議を無断で録音していたとして、OpenAIの従業員がFBIに逮捕された。",
+          "detail": "容疑者は役員会議室に録音装置を仕掛け、機密性の高い社内議論を無断で記録していたとされる。FBIが刑事事件として捜査を進めており、情報漏えいや社内機密保護の観点から波紋を広げている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/"
+        },
+        {
+          "id": "2026-10-14-ai-2",
+          "star": true,
+          "headline": "Character.ai、米連邦破産法11条を申請",
+          "summary": "Disney系が一部IPのライセンス取得で先行入札しており、AIキャラクターサービスの行方が注目されている。",
+          "detail": "AIキャラクターとの対話サービスを提供するCharacter.aiが経営破綻し、再建型の破産法11条を申請した。Disney系企業が一部の知的財産ライセンス取得で先行入札しているとされ、サービスの継続性や利用者データの扱いが今後の焦点となる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/"
+        },
+        {
+          "id": "2026-10-14-ai-3",
+          "star": false,
+          "headline": "Anthropic、自己複製AIの「兆し」を指摘",
+          "summary": "55ドルの小型TVボックス15台で26Bパラメータモデルが稼働する実験結果を示し、自己増殖リスクに言及した。",
+          "detail": "Anthropicは低コストなハードウェア上でも比較的大規模なモデルが分散稼働できることを示す実験結果を公表し、AIが自律的に資源を確保・複製していくリスクについて注意を促した。セキュリティ・AI安全性の観点から議論を呼んでいる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
+        },
+        {
+          "id": "2026-10-14-ai-4",
+          "star": false,
+          "headline": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供",
+          "summary": "捜査協力中にClaudeが誤情報を提供した事例が判明し、米政権は「通知と是正は義務」と警告した。",
+          "detail": "未解決の殺人事件の捜査でClaudeが警察に提供した情報に誤りがあったことが判明した。米政権はAI企業に対し、こうした誤情報発生時の通知と是正を義務とする姿勢を示し、AIの捜査利用における信頼性確保が課題として浮上している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/"
+        },
+        {
+          "id": "2026-10-14-ai-5",
+          "star": false,
+          "headline": "アンソロピック幹部、デジタル相と会談",
+          "summary": "サイバー対策での協力やAI規制について議論し、連携を確認した。",
+          "detail": "Anthropicの幹部が日本のデジタル相と会談し、サイバーセキュリティ対策での協力やAI規制の方向性について意見交換を行った。同時期に自民党とも同様の議論の場が持たれており、日本側のAI政策形成への関与を強めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101301063&g=eco"
+        },
+        {
+          "id": "2026-10-14-ai-6",
+          "star": false,
+          "headline": "Google、新モデル「Gemini 4 Argon」一般提供開始",
+          "summary": "利用可能なプランや価格が公開された。",
+          "detail": "Googleが新モデル「Gemini 4 Argon」の一般提供を開始した。対応プランや価格体系が明らかになり、既存のGeminiシリーズからの性能向上が見込まれている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/"
+        },
+        {
+          "id": "2026-10-14-ai-7",
+          "star": false,
+          "headline": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入",
+          "summary": "GPU比で電力効率が4割向上し、自社サービスの主力推論基盤に位置付ける。",
+          "detail": "Microsoftは自社開発の第3世代AIチップ「Maia 300」を2027年に投入する計画を明らかにした。従来のGPUに比べ電力効率が4割向上するとされ、NVIDIA依存を減らしつつ自社サービスの推論基盤として主力に据える狙いがある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/"
+        },
+        {
+          "id": "2026-10-14-ai-8",
+          "star": false,
+          "headline": "Meta、同社最大のAIモデル「Muse Wonder」発表",
+          "summary": "記憶力と粘り強さを強化し、AIエージェント「Muse」にも搭載予定。",
+          "detail": "Metaが同社史上最大規模となるAIモデル「Muse Wonder」を発表した。長期的な記憶力やタスク遂行の粘り強さが強化されており、既存のAIエージェント「Muse」への搭載も予定されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
+        },
+        {
+          "id": "2026-10-14-ai-9",
+          "star": false,
+          "headline": "国産AI「Sarashina」を無料で試せる新サービスβ版公開",
+          "summary": "ソフトバンク傘下企業が提供し、チャットに加えAPIも利用可能。",
+          "detail": "ソフトバンク傘下企業が国産大規模言語モデル「Sarashina」を無料で試せる新サービスのβ版を公開した。チャット形式での利用に加え、6つのAIモデルを呼び出せるAPIも提供され、国産AIの普及拡大を狙う。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/"
+        },
+        {
+          "id": "2026-10-14-ai-10",
+          "star": false,
+          "headline": "NTT、アンソロピック向けデータセンターを日本初・大阪で開設へ",
+          "summary": "スマホ事業からAIインフラへ成長軸を移す狙いとみられる。",
+          "detail": "NTTはAnthropic向けのデータセンターを日本国内で初めて大阪に開設する。スマートフォン関連事業からAIインフラ事業へと成長軸を移す動きの一環とみられ、国内のAI計算基盤需要の拡大を取り込む狙いがある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC102E10Q6A011C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-14-econ-1",
+          "star": true,
+          "headline": "東京原油、最高値更新",
+          "summary": "中東情勢の緊迫化を受け、18年ぶりの高値を記録した。",
+          "detail": "中東地域の緊迫化を背景に東京原油市場で価格が上昇し、18年ぶりとなる高値を更新した。サウジアラビアとフーシ派の衝突激化への懸念が主因とされ、エネルギーコストの上昇が国内経済への影響を及ぼす可能性がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400387&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-2",
+          "star": false,
+          "headline": "NY円相場、小反発 1ドル=158円30〜40銭",
+          "summary": "日銀の利上げ観測や米金利低下が支えとなった。",
+          "detail": "ニューヨーク外国為替市場で円相場は小反発し、1ドル=158円30〜40銭で取引された。日銀の追加利上げ観測と米長期金利の低下が円を支える要因となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL13B700T11C26A0000000/"
+        },
+        {
+          "id": "2026-10-14-econ-3",
+          "star": false,
+          "headline": "NY債券、長期債反発 10年債利回り5.21%",
+          "summary": "欧州金利の上昇が一服したことが影響した。",
+          "detail": "ニューヨーク債券市場で長期債が反発し、10年債利回りは5.21%に低下した。欧州での金利上昇に一服感が出たことが買いを誘う要因となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL13B710T11C26A0000000/"
+        },
+        {
+          "id": "2026-10-14-econ-4",
+          "star": false,
+          "headline": "NYダウ、反落し180ドル安",
+          "summary": "景気敏感株やヘルスケア関連株に売りが出た。",
+          "detail": "ニューヨーク株式市場でダウ工業株30種平均は反落し、180ドル安となった。景気敏感株やヘルスケア関連株への売りが相場を押し下げた一方、ハイテク株には底堅さもみられた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL1401P0U6A011C2000000/"
+        },
+        {
+          "id": "2026-10-14-econ-5",
+          "star": false,
+          "headline": "東京株、1253円安",
+          "summary": "半導体関連株への売りが相場を押し下げた。",
+          "detail": "東京株式市場で日経平均株価は大幅に下落し、前日比1253円安となった。半導体関連株への売りが目立ち、米国市場の軟調な地合いも重荷となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300464&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-6",
+          "star": true,
+          "headline": "「銀のさら」運営会社、最大650万件漏えいか",
+          "summary": "不正アクセスによる被害で、JR東海でも1万5000件の漏えいが確認された。",
+          "detail": "宅配サービス「銀のさら」を運営する会社が不正アクセスを受け、最大650万件の顧客情報が漏えいした可能性があることが判明した。同時期にJR東海でも1万5000件規模の情報漏えいが確認されており、国内で不正アクセス被害が相次いでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300974&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-7",
+          "star": false,
+          "headline": "都営線保守6社の談合認定へ",
+          "summary": "公取委が5社に排除命令を出す見通しで、課徴金は5億円規模とみられる。",
+          "detail": "都営地下鉄の保守業務を手掛ける6社による談合が認定される見通しとなった。公正取引委員会は5社に排除命令を出す方向で、落札が路線ごとに事前に決められていたとされ、課徴金は5億円規模になるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300942&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-8",
+          "star": false,
+          "headline": "物価予想、5年後も86.5%が上昇と回答",
+          "summary": "中東情勢の影響で19年ぶりの高水準となった。",
+          "detail": "日銀の調査で、5年後も物価が上昇すると答えた人の割合が86.5%に達し、19年ぶりの高水準となった。中東情勢の緊迫化によるエネルギー価格上昇への懸念が影響しているとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300813&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-9",
+          "star": false,
+          "headline": "今年の世界成長率見通し3.1%に上方修正",
+          "summary": "AI投資ブームが押し上げ要因とされる。",
+          "detail": "IMFは今年の世界経済成長率見通しを3.1%に上方修正した。世界的なAI関連投資の拡大が成長を押し上げる要因になっているとの分析を示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300382&g=eco"
+        },
+        {
+          "id": "2026-10-14-econ-10",
+          "star": false,
+          "headline": "みずほ銀行、12年ぶりに普通社債発行",
+          "summary": "過去最大の2810億円で、資金調達手法の多様化を図る。",
+          "detail": "みずほ銀行が12年ぶりに普通社債を発行した。発行額は過去最大の2810億円で、資金調達手法を多様化する狙いがあるとされる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0829ITY6A001C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-14-pol-1",
+          "star": true,
+          "headline": "高市首相「違法か答えられず」",
+          "summary": "簗農水相の無料バス送迎疑惑について、衆院予算委で明確な回答を避けた。",
+          "detail": "衆院予算委員会で高市首相は、簗農水相の公職選挙法に絡む無料バス送迎疑惑について「違法か答えられず」と述べ、明確な判断を示さなかった。野党は自発的辞任を求めているが、首相は違法性が確認された場合は即断する考えを示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400305&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-2",
+          "star": true,
+          "headline": "ロシア、北海道新聞記者を「スパイ容疑」で拘束",
+          "summary": "動員兵の情報収集を主張する一方、日本側は「記者利用」との見方に遺憾を表明した。",
+          "detail": "ロシア極東サハリン州で北海道新聞の特派員がスパイ容疑で拘束された。ロシア側は動員兵に関する情報収集を主張しているが、日本側は記者が利用された可能性があるとして遺憾の意を表明し、政府はロシアに申し入れを行った。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400156&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-3",
+          "star": false,
+          "headline": "高市首相、簗氏進退に言及",
+          "summary": "「違法性あれば即断」と述べる一方、野党は自発的辞任を要求している。",
+          "detail": "高市首相は簗農水相の進退問題について「違法性があれば即断する」と述べた。与党内からも続投困難との声が出ており、野党は自発的な辞任を求めて国会審議で追及を強めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300638&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-4",
+          "star": false,
+          "headline": "高市内閣支持率51%、不支持32%",
+          "summary": "自民党支持率35.3%、「支持なし」38.5%。",
+          "detail": "NHKの世論調査で高市内閣の支持率は51%、不支持率は32%となった。政党支持率は自民党が35.3%、支持する政党が「ない」との回答が38.5%に達している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261013de58348"
+        },
+        {
+          "id": "2026-10-14-pol-5",
+          "star": false,
+          "headline": "関芳弘文科相、議員会館内での政治資金パーティー開催を認め陳謝",
+          "summary": "議員会館内でのパーティー開催は禁止されており、「今後ないよう猛省」と述べた。",
+          "detail": "関芳弘文部科学相が議員会館内で政治資金パーティーを開催していたことを認め、陳謝した。議員会館内でのパーティー開催は禁止されており、関氏は「今後ないよう猛省する」とコメントしている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261013de58366"
+        },
+        {
+          "id": "2026-10-14-pol-6",
+          "star": false,
+          "headline": "自民合同会議、安保上重要な土地の取得規制強化法案を大筋了承",
+          "summary": "基地周辺での無許可取引に刑事罰を設ける内容。",
+          "detail": "自民党の合同会議が、安全保障上重要な土地の取得規制を強化する法案を大筋で了承した。自衛隊基地周辺などでの無許可の土地取引に刑事罰を設ける内容が含まれている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101301066&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-7",
+          "star": false,
+          "headline": "ICC制裁、米の翻意は難しい情勢",
+          "summary": "日本は国際刑事裁判所への働き掛けを継続する方針。",
+          "detail": "米国による国際刑事裁判所(ICC)への制裁について、米側の翻意は難しい情勢とみられている。日本は日本を含む複数国とともに、制裁撤回に向けた働き掛けを継続する方針を示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101300837&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-8",
+          "star": false,
+          "headline": "個人情報の流出「不安を感じる」77%",
+          "summary": "相次ぐ不正アクセス被害を背景にしたNHK世論調査の結果。",
+          "detail": "NHKの世論調査で、個人情報の流出に「不安を感じる」と答えた人が77%に達した。国内企業・団体での不正アクセス被害が相次いでいることが背景にあるとみられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261013de58351"
+        },
+        {
+          "id": "2026-10-14-pol-9",
+          "star": false,
+          "headline": "防災メールに不正アクセス",
+          "summary": "複数自治体で情報漏えいの可能性が判明した。",
+          "detail": "複数の自治体が運用する防災メールシステムに不正アクセスがあり、登録者情報の漏えいの可能性が判明した。自治体の情報システムに対するセキュリティ対策の強化が課題となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101301047&g=pol"
+        },
+        {
+          "id": "2026-10-14-pol-10",
+          "star": false,
+          "headline": "片山財務相が世銀IMF合同開発委議長に就任",
+          "summary": "日本人として初めての就任を高市首相が発表した。",
+          "detail": "片山財務相が世界銀行・IMF合同開発委員会の議長に就任することが決まった。日本人として初めての就任となり、高市首相が発表した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101200661&g=pol"
+        }
+      ]
+    }
+  ]
+}
