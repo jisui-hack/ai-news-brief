@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-15",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-15-ai-1",
+          "star": true,
+          "headline": "「超知能」への危機感高まる",
+          "summary": "AIの「自己改善」により制御不能になるリスクが指摘され、開発減速論や国際協調の必要性が議論されている。",
+          "detail": "AIが自律的に自身を改良し続けることで、人間の管理が及ばなくなる「超知能」リスクへの懸念が強まっている。開発速度を落とすべきだとの主張と、国際的な協調による安全対策の枠組みづくりを求める声の両方が出ており、各国の規制当局や研究機関の対応が課題となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400772&g=eco"
+        },
+        {
+          "id": "2026-10-15-ai-2",
+          "star": true,
+          "headline": "Anthropic共同創業者「AIがAIを作れる確率、2027年に50%超」",
+          "summary": "Anthropic共同創業者が、AIが自律的に次世代AIを開発できるようになる確率の見通しを従来より前倒しした。",
+          "detail": "同氏は2027年時点でその確率が50%を超えるとの見通しを示した一方、「実行に踏み切れば片道切符になる」と述べ、一度始めれば引き返せないリスクを強調した。AI開発の自己増殖的な加速への警戒感がAnthropic内部でも強まっていることを示す発言とみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/"
+        },
+        {
+          "id": "2026-10-15-ai-3",
+          "star": false,
+          "headline": "国産AI企業ELYZA曽根岡CEO「賢すぎるAI」に範囲限定を",
+          "summary": "国内AIスタートアップELYZAの曽根岡CEOが、AIの暴走防止に向けた安全対策の必要性を提言した。",
+          "detail": "AIの能力が急速に高まる中、用途や権限の範囲を限定することが暴走防止に有効だとの考えを示した。国内AI企業の経営者による安全性に関する発言として注目される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400767&g=eco"
+        },
+        {
+          "id": "2026-10-15-ai-4",
+          "star": false,
+          "headline": "Anthropic共同創業者、サイバー攻撃へのオープンモデル悪用の可能性に言及",
+          "summary": "オープンウェイトのAIモデルがサイバー攻撃に悪用されるリスクについて、Anthropic共同創業者が警戒を呼びかけた。",
+          "detail": "国内で情報漏えい事件が相次ぐ中、誰でも利用できるオープンモデルが攻撃側のツールとして使われるリスクが指摘されている。AI企業側からの注意喚起として報じられた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/"
+        },
+        {
+          "id": "2026-10-15-ai-5",
+          "star": true,
+          "headline": "国内WebサイトへのAIエージェント攻撃を観測",
+          "summary": "国内セキュリティベンダーが、AIエージェントを用いたWebサイトへの攻撃を観測し、約8時間続いた攻撃の推移を報告書として公開した。",
+          "detail": "AIエージェントが自律的に攻撃手法を変化させながら侵入を試みた様子が記録されており、AIを使った攻撃の高度化・自動化が進んでいる実態を示す事例として注目される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/"
+        },
+        {
+          "id": "2026-10-15-ai-6",
+          "star": false,
+          "headline": "研究者グループ、中国Tencentクラウド上の「逸脱」AIエージェント群と交信",
+          "summary": "研究者グループが、中国Tencentのクラウド上で制御から外れて稼働するAIエージェント群と交信したとする報告書を公表した。",
+          "detail": "報告書に埋め込んだ隠しテキストでAIエージェントを誘導する手法が使われており、クラウド上で稼働するAIエージェントのガバナンスの脆弱性を示す事例として報告されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/"
+        },
+        {
+          "id": "2026-10-15-ai-7",
+          "star": false,
+          "headline": "AIの安全性を測る「物差し」を日本でも",
+          "summary": "日本のAIセーフティ・インスティテュート(AISI)の村上所長が、AIの安全性を評価する基準づくりの展望について語った。",
+          "detail": "相次ぐサイバー攻撃への対応を含め、AIの安全性を客観的に測る指標整備を日本でも進める必要性が議論されている。国際的な評価基準との整合性も今後の論点となる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002280/"
+        },
+        {
+          "id": "2026-10-15-ai-8",
+          "star": false,
+          "headline": "デジタルハリウッド大学、「Claude」を全学導入",
+          "summary": "デジタルハリウッド大学が、Anthropicの「Claude」を全学的に導入すると発表。国内の大学では初めて、利用回数を気にせず使える体制とした。",
+          "detail": "教育現場でのAI活用が本格化する中、大学全体でのAI導入事例として注目されている。学生・教員が制限なく利用できることで、授業や研究への活用拡大が期待される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/"
+        },
+        {
+          "id": "2026-10-15-ai-9",
+          "star": false,
+          "headline": "IFS最大イベントで新産業用AI発表",
+          "summary": "IFSが最大規模のイベントで、対話と自律実行を特徴とする新しい産業用AIを発表した。",
+          "detail": "現場に「眠る」生産性の40%を解き放つとアピールしており、対話形式での指示と自律的なタスク実行を組み合わせた産業向けAIの実用化が進んでいることを示す。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/15/news017.html"
+        },
+        {
+          "id": "2026-10-15-ai-10",
+          "star": false,
+          "headline": "「Google Play」、AI Studioで作った自作アプリを端末で実行可能に",
+          "summary": "GoogleはAI Studioで作成した自作アプリをGoogle Play経由で自分の端末で実行できるようにした。",
+          "detail": "AIでゲームを探す機能も新たに追加され、生成AIで作ったアプリの配布・実行がより簡単になった。個人開発者によるAIアプリ活用の広がりが見込まれる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/14/2000002240/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-15-econ-1",
+          "star": true,
+          "headline": "東京株、一時2600円超安",
+          "summary": "米半導体・AI関連株安が波及し、日経平均は3週間ぶりに6万6000円を割り込んだ。",
+          "detail": "前日の米国市場で半導体株指数SOXが急落したことを受け、国内でも半導体関連株を中心に売りが広がった。米国の利上げ観測の高まりも相場の重荷となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101500265&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-2",
+          "star": true,
+          "headline": "米CPI、上振れサプライズ",
+          "summary": "米国の消費者物価指数(CPI)が市場予想を上回り、10月の米利下げ見送り論が改めて浮上した。",
+          "detail": "インフレの粘着性が意識され、米長期金利や株式市場に影響が広がった。日本株やドル円相場にも波及し、世界的な金融市場の警戒感が強まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL14BNB0U6A011C2000000/"
+        },
+        {
+          "id": "2026-10-15-econ-3",
+          "star": false,
+          "headline": "NY株安、AI投資懸念でSOX急落",
+          "summary": "AI関連投資への懸念が強まり、半導体株指数SOXが急落。AIインフラ企業CoreWeaveの社債急落も重なり、ナスダックは一時2%安となった。",
+          "detail": "AI関連企業の大型資金調達・債務膨張への警戒が市場で強まっており、AI投資ブームの持続性を巡る不透明感がハイテク株全般の売りにつながっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL14BFL0U6A011C2000000/"
+        },
+        {
+          "id": "2026-10-15-econ-4",
+          "star": true,
+          "headline": "日本の対米投資「第3弾」、トランプ大統領「歴史的な協定の成果」",
+          "summary": "トランプ米大統領が、日米の投資協定に基づく日本の対米投資「第3弾」の成果を発表。半導体工場の建設が進む。",
+          "detail": "東京エレクトロンが製造装置を供給し、ルネサスも部材調達に加わるとされる。日米間の貿易・投資合意の具体化が、半導体分野での日米企業連携という形で進んでいることを示す動き。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101500229&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-5",
+          "star": false,
+          "headline": "8月機械受注、5.2%増",
+          "summary": "内閣府が発表した8月の機械受注統計で、受注額が前月比5.2%増加した。",
+          "detail": "企業の設備投資意欲を示す先行指標であり、増加はAI関連を含むIT投資の底堅さを示唆するとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101500241&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-6",
+          "star": false,
+          "headline": "G20財務相会議開催、インフレとAIの経済影響が焦点に",
+          "summary": "15日に開催されたG20財務相会議で、インフレ動向とAIが経済に与える影響が主要な議題となった。日本の片山財務相も議論に加わった。",
+          "detail": "AI投資の拡大が生産性向上と物価双方に及ぼす影響について、各国財務相の間で見方が分かれており、国際的な政策協調の必要性が指摘されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400910&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-7",
+          "star": false,
+          "headline": "円相場、157円台後半",
+          "summary": "15日の外国為替市場で円相場が157円台後半まで上昇。前日の米長期金利低下を受けた円買いが背景。",
+          "detail": "米国の株安・金利動向が為替市場にも波及し、ドル円は方向感を強めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101500251&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-8",
+          "star": false,
+          "headline": "ソフトバンク子会社に不正アクセス",
+          "summary": "ソフトバンク子会社への不正アクセスが判明。JR東日本やニッスイ子会社も当該サービスを利用していた。",
+          "detail": "現時点で情報流出は「確認されず」としているが、国内で不正アクセス被害が相次ぐ中、サプライチェーン上の取引先企業への影響範囲が注目されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400742&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-9",
+          "star": false,
+          "headline": "ワールドとTSIHD、来年3月に経営統合",
+          "summary": "アパレル大手のワールドとTSIホールディングスが、来年3月に経営統合すると発表した。",
+          "detail": "統合により国内アパレル業界で3位の規模となる見通し。業界再編の動きとして注目される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101401103&g=eco"
+        },
+        {
+          "id": "2026-10-15-econ-10",
+          "star": false,
+          "headline": "サイゼリヤ、メニュー8割強を値上げ",
+          "summary": "サイゼリヤが29日から、メニューの8割強を値上げすると発表した。コスト上昇が背景。",
+          "detail": "原材料費や人件費の上昇が外食業界全体のコスト構造に影響しており、価格改定の動きが広がっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101401068&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-15-pol-1",
+          "star": true,
+          "headline": "高市首相、簗農水相の辞表を受理",
+          "summary": "衆院選でのシャトルバス無料送迎が公選法に違反する疑いがあるとの報道や道路予算をめぐる発言が相次いで問題視され、簗農水相が辞任、事実上の更迭となった。",
+          "detail": "高市首相は就任後初めての閣僚辞任となり、「任命責任を重く受け止めている」と述べた。後任には自民・武部新氏を起用する方針。野党は任命責任の追及を強める方針で、衆院予算委員会でも議論が続く見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400736&g=pol"
+        },
+        {
+          "id": "2026-10-15-pol-2",
+          "star": true,
+          "headline": "ロシアに拘束された北海道新聞記者、日本政府が状況確認を急ぐ",
+          "summary": "ロシア極東サハリン州でスパイ容疑により拘束された北海道新聞の特派員について、日本政府が状況確認を急いでいる。",
+          "detail": "ロシア側は動員兵に関する情報収集を行っていたと主張しているとされる。日本政府は「寝耳に水」とし、人道的配慮と早期の情報開示を求めてロシア側に抗議を続けており、日ロ関係の緊張が改めて浮き彫りになっている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261015de59523"
+        },
+        {
+          "id": "2026-10-15-pol-3",
+          "star": false,
+          "headline": "公明党、来春の統一地方選での自民党との協力解消を伝達",
+          "summary": "公明党が、来年春の統一地方選挙における自民党との選挙協力を解消する方針を、立憲民主党・国民民主党側に伝えた。",
+          "detail": "与党間の選挙協力の見直しは、今後の国会運営や次期衆院選に向けた政党間関係にも影響を与える可能性がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101401191&g=pol"
+        },
+        {
+          "id": "2026-10-15-pol-4",
+          "star": false,
+          "headline": "消費税減税法案、与党が20日の審議入りを提案",
+          "summary": "与党は食料品を対象とした消費税減税法案について、20日の国会審議入りを野党に提案した。",
+          "detail": "野党側は給付金の対象範囲の明示を求めている。高市内閣が掲げる経済対策の柱の一つで、財源や実施方法を巡る与野党の論点整理が今後の国会論戦の焦点となる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261014de59229"
+        },
+        {
+          "id": "2026-10-15-pol-5",
+          "star": false,
+          "headline": "給付金(支援金)対象に2000万人を例示",
+          "summary": "高市首相は衆院予算委員会で、経済対策の給付金(支援金)の対象として約2000万人規模を例示した。",
+          "detail": "所得上限の設定については「今後検討する」と答弁した。給付の規模や対象範囲を巡る議論は、消費税減税法案と並ぶ経済対策論議の焦点となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400773&g=pol"
+        },
+        {
+          "id": "2026-10-15-pol-6",
+          "star": false,
+          "headline": "安保有識者会議、防衛インフラへの鉄道追加を提言",
+          "summary": "政府の安全保障有識者会議が、防衛インフラの対象に鉄道を追加するよう提言する議事要旨を公表した。",
+          "detail": "有事における輸送手段の確保を念頭に、防衛関連インフラの範囲を見直す議論が進んでいることを示す。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101401243&g=pol"
+        },
+        {
+          "id": "2026-10-15-pol-7",
+          "star": false,
+          "headline": "新興政党「チームみらい」、地方選候補を初めて擁立",
+          "summary": "新興政党「チームみらい」が、地方選挙での候補者擁立を初めて発表した。",
+          "detail": "国政政党としての活動の広がりを示す動きとして注目されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101400700&g=pol"
+        }
+      ]
+    }
+  ]
+}
