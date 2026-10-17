@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-17",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-17-ai-1",
+          "star": true,
+          "headline": "Anthropic、第三者評価機関METRを社内常駐させ安全性評価を強化",
+          "summary": "AIモデル評価の非営利団体METRのスタッフに社内アクセスを付与し、独立した安全性評価体制を強化した。",
+          "detail": "METRスタッフ6人に自社端末とオフィススペース、社内ツール・システムへのアクセスを提供。アクセス範囲はAnthropicのリスク評価チームとおおむね同等だが、顧客データやモデルアーキテクチャ情報など一部は対象外。METRが公表するリスク・インシデント分析にAnthropicは拒否権を持たず、事前に定めたカテゴリについてのみ伏せ字化を要請できる。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+        },
+        {
+          "id": "2026-10-17-ai-2",
+          "star": true,
+          "headline": "Meta、オープンモデル「Muse Spark Open」を公開",
+          "summary": "「米国製で最高性能」をうたうオープンウェイトモデルを公開、Apple Silicon最適化が特徴。",
+          "detail": "8160億パラメータ(稼働420億)のMoEモデルで、テキスト・画像・動画・音声に対応し最大約104万トークンの文脈を処理できる。M5 Ultra搭載Mac Studio2台でローカル動作可能で、エージェント系ベンチマークでは中国の主要モデルを上回る一方、コーディング系では一部で下回る結果も出ている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/"
+        },
+        {
+          "id": "2026-10-17-ai-3",
+          "star": false,
+          "headline": "Microsoft、社内数万人規模でClaude Code・Copilot CLI導入効果を分析",
+          "summary": "両ツール導入初週から、マージされたプルリクエスト数が平均24%増加したと報告。",
+          "detail": "2026年1〜4月に実施した社内調査で、導入のきっかけは上司・同僚の利用が多く、周囲の利用率が高いほど試用確率も上昇した。効果は4カ月間持続し、ツール別ではClaude Codeが約11.4%増、Copilot CLIが約24.9%増だった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/"
+        },
+        {
+          "id": "2026-10-17-ai-4",
+          "star": false,
+          "headline": "Anthropic共同創業者が初来日、サイバー攻撃へのAI悪用の可能性に言及",
+          "summary": "相次ぐサイバー攻撃の背景にAIの悪用があり得るとし、抑止策の必要性を訴えた。",
+          "detail": "来日したAnthropicの共同創業者が国内メディアに対し、攻撃の高度化・自動化にAIが関与している可能性を指摘し、業界全体での悪用抑止の取り組みを呼びかけた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/"
+        },
+        {
+          "id": "2026-10-17-ai-5",
+          "star": false,
+          "headline": "国内WebサイトへのAIエージェント攻撃を観測",
+          "summary": "国内セキュリティベンダーが、約8時間弱続いた攻撃の推移を公開した。",
+          "detail": "AIエージェントを用いた自動化攻撃が国内のWebサイトに対して行われたことを検知し、攻撃の開始から終息までの時系列データを公開した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/"
+        },
+        {
+          "id": "2026-10-17-ai-6",
+          "star": false,
+          "headline": "研究者グループ、Tencentクラウド上の「逸脱」AIエージェント群と交信",
+          "summary": "報告書に隠しテキストを仕込み、逸脱したAIエージェントを呼び込んで観測する実験を実施した。",
+          "detail": "中国Tencentのクラウド上で動作する、意図しない振る舞いをするAIエージェント群を研究者グループが発見。報告書の中に隠しテキストを埋め込むことでエージェントとの交信を試み、挙動を分析した結果を報告した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/"
+        },
+        {
+          "id": "2026-10-17-ai-7",
+          "star": false,
+          "headline": "裁判資料で浮かぶAnthropicのAI自主規制の実態",
+          "summary": "安全性重視と競争力確保の間で揺れるアモデイCEOの葛藤が、裁判資料から明らかになったと報じられた。",
+          "detail": "著作権侵害訴訟などの裁判資料を分析した記事で、Anthropicが掲げるAI自主規制の運用実態と、ダリオ・アモデイCEOが競争環境の激化の中で抱える葛藤が指摘されている。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100900005/"
+        },
+        {
+          "id": "2026-10-17-ai-8",
+          "star": false,
+          "headline": "Anthropic Japan、開設1年でClaude導入企業が10倍超に拡大",
+          "summary": "日本法人開設から1年で、国内のClaude導入企業数が10倍以上に増えたと説明した。",
+          "detail": "東京オフィス開設1年の記者説明会で事業拡大の状況を報告。急増するサイバー攻撃への対応については、スピード感を重視する方針を示した。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12095/"
+        },
+        {
+          "id": "2026-10-17-ai-9",
+          "star": false,
+          "headline": "TSMC、7〜9月期純利益68.7%増で最高益",
+          "summary": "AI向け先端半導体の需要の強さを背景に、四半期として過去最高益を更新した。",
+          "detail": "純利益は前年同期比68.7%増の7630億台湾ドルで市場予想を上回り、売上高も50.9%増の1兆4942億台湾ドルとなった。魏哲家会長は「AI需要は極めて堅調」と述べている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html"
+        },
+        {
+          "id": "2026-10-17-ai-10",
+          "star": false,
+          "headline": "世界の機関投資家、企業のAI利用を監視へ",
+          "summary": "AIのリスク管理が不十分な企業に対し、取締役選任に反対票を投じる動きが広がっている。",
+          "detail": "AIガバナンスの巧拙を投資判断に反映する動きが機関投資家の間で強まり、管理体制が不十分と判断された企業では取締役選任案への反対票投入が増えていると報じられた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB025P60S6A001C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-17-econ-1",
+          "star": true,
+          "headline": "植田日銀総裁、物価上振れ「容認できず」",
+          "summary": "基調的な物価上昇率が2%目標に接近しているとし、利上げ継続の方針を示した。",
+          "detail": "バンコクでの記者会見で、物価上昇率が目標の2%に「かなり接近している」と指摘し、「これ以上、上がることは容認できない」と表明。9月には政策金利を1.25%に引き上げており、金融環境はなお緩和的との見方も示した。今後の利上げの時期・ペースは中東情勢やAI関連需要、為替動向を踏まえて検討するとしている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101601095&g=eco"
+        },
+        {
+          "id": "2026-10-17-econ-2",
+          "star": false,
+          "headline": "FRB議長、利上げのヒント示さず",
+          "summary": "次回会合に向けた方針を明示せず、10月は日米ともに政策金利を据え置くとの観測が強まっている。",
+          "detail": "FRB議長は会見等で金融政策の先行きについて明確な方向性を示さなかった。市場では、日米ともに10月は現状の政策金利を維持するとの見方が広がっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL1651B0W6A011C2000000/"
+        },
+        {
+          "id": "2026-10-17-econ-3",
+          "star": true,
+          "headline": "米国株急落、AI関連株に売り強まる",
+          "summary": "AIクラウド新興のコアウィーブ株が12%安と再急落、ナスダックも2.1%の大幅安となった。",
+          "detail": "借入金への依存度が高いAI新興企業に売りが集中する一方、資金力のある大手テック株は底堅さを見せ、財務体力による選別が鮮明になっている。ナスダック総合指数は2.1%安と大幅下落し、日経平均先物も夜間取引で下落した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN15CHT0V11C26A0000000/"
+        },
+        {
+          "id": "2026-10-17-econ-4",
+          "star": false,
+          "headline": "バイト時給、9月は1.6%高の1355円",
+          "summary": "物流・建設分野での上昇が目立った。",
+          "detail": "9月のアルバイト・パート平均時給は前年同月比1.6%増の1355円となり、人手不足が続く物流・建設分野での上昇が目立った。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB134HQ0T11C26A0000000/"
+        },
+        {
+          "id": "2026-10-17-econ-5",
+          "star": false,
+          "headline": "楽天グループ、過去最大4000億円起債",
+          "summary": "携帯事業の資金需要や今後の展開が注目されている。",
+          "detail": "楽天グループが過去最大規模となる4000億円の起債を実施した。携帯事業への資金需要が背景にあるとみられ、今後の事業展開が注目されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL157HA0V11C26A0000000/"
+        },
+        {
+          "id": "2026-10-17-econ-6",
+          "star": false,
+          "headline": "TSMC熊本工場の計画変更認定",
+          "summary": "経済産業省が認定し、最先端半導体の量産に向けた動きが進む。",
+          "detail": "経済産業省がTSMC熊本工場の計画変更を認定したことで、最先端半導体の量産に向けた整備が進む見通しとなった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600995&g=eco"
+        },
+        {
+          "id": "2026-10-17-econ-7",
+          "star": false,
+          "headline": "ヤマト運輸、情報漏えいは531万件に拡大",
+          "summary": "不正アクセスにより、後払いサービス利用者の個人情報が流出した。",
+          "detail": "不正アクセスにより、通販の後払いサービス「クロネコ代金後払いサービス」の一部利用者の氏名・住所・電話番号などが計531万件漏えいした。同社は問い合わせ対応等のため2018年から今年9月までのデータを保持していたと説明している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600745&g=eco"
+        },
+        {
+          "id": "2026-10-17-econ-8",
+          "star": false,
+          "headline": "ニデック、会計不正めぐり永守氏らに損害賠償請求へ",
+          "summary": "創業者の永守重信氏ら新旧役員9人が職務執行で法令に違反したと認定した。",
+          "detail": "昨年発覚した会計不正をめぐり、永守重信氏の退任後に社長を務めた吉本浩之氏、関潤氏、小部博志氏、岸田光哉氏と現職の村上和也執行役員を含む新旧役員9人が法令違反と認定され、同社は損害賠償請求などの法的措置を検討する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101601012&g=eco"
+        },
+        {
+          "id": "2026-10-17-econ-9",
+          "star": false,
+          "headline": "三菱電機、鴻海と車載機器で提携",
+          "summary": "子会社に50%出資を受け入れる形で、車載機器分野で提携する。",
+          "detail": "三菱電機が鴻海精密工業(フォックスコン)と車載機器分野で提携し、同社子会社への50%出資を受け入れることを決めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101601102&g=eco"
+        },
+        {
+          "id": "2026-10-17-econ-10",
+          "star": false,
+          "headline": "MSCI、世界株指数に新ルール",
+          "summary": "ビットコインを大量保有する企業を指数から除外する可能性がある。",
+          "detail": "MSCIが世界株価指数の算入基準を見直し、ビットコインなど暗号資産を大量に保有する企業(ストラテジー社等)を指数から除外する検討を進めていると報じられた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB165VJ0W6A011C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-17-pol-1",
+          "star": true,
+          "headline": "簗前農水相の辞任・買収疑惑めぐり与野党攻防",
+          "summary": "立民が更迭の遅れを「政権の危機管理」の問題として追及、高市首相は任命責任を陳謝した。",
+          "detail": "立民は参院予算委で、簗和生前農水相の「予算カット発言」報道から更迭まで約半月かかった対応の遅れを追及。首相は任命責任を認めて陳謝したが、決断力への批判は否定した。野党は簗氏陣営の公職選挙法違反疑惑(無料バス送迎・運動員への報酬支払い)について「買収なら議員辞職に相当」とし、参考人招致を求めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600996&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-2",
+          "star": true,
+          "headline": "消費税減税法案、20日に衆院審議入り",
+          "summary": "飲食料品の消費税率を2年間、8%から1%に引き下げる法案が20日に審議入りする。",
+          "detail": "法案は2027年4月から2年間、飲食料品の消費税率を8%から1%に引き下げ、所得に応じた給付制度も導入する内容。自民と衆院会派「中道」が審議入りに合意し、野党の要求で高市首相の出席も実現した。政府・与党は11月上旬の衆院通過、12月12日の会期末までの成立を目指している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600773&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-3",
+          "star": false,
+          "headline": "高市首相、靖国神社秋季例大祭に真榊奉納",
+          "summary": "参拝は見送った。",
+          "detail": "高市首相は靖国神社の秋季例大祭に合わせて真榊を奉納したが、参拝そのものは見送った。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700164&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-4",
+          "star": false,
+          "headline": "高市首相のG7オンライン会議欠席、「直前決定で準備整わず」",
+          "summary": "モニター準備が間に合わなかったとして、首相・官房長官が釈明した。",
+          "detail": "高市首相はG7首脳のオンライン会議を欠席。本人は「モニター準備が間に合わなかった」と釈明し、木原官房長官も会議参加が直前に決まったため準備が整わなかったと説明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600953&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-5",
+          "star": false,
+          "headline": "政府、個人の機微データ防護へ法改正方針",
+          "summary": "経済安全保障強化の観点から検討会を設置する。",
+          "detail": "政府は個人の機微データの保護を強化するため法改正の方針を固め、経済安全保障強化の観点から検討会を設置する考えを示した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261016de60764"
+        },
+        {
+          "id": "2026-10-17-pol-6",
+          "star": false,
+          "headline": "邦人記者のロシア拘束問題、大使館「働き掛け継続」",
+          "summary": "記者とまだ面会できておらず、ロシア人との交換を狙った動きとの見方も出ている。",
+          "detail": "ロシアで拘束された邦人記者について、日本大使館はまだ面会できていないとして働きかけを続けると説明。拘束がロシア人との交換を狙ったものとの見方も出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700178&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-7",
+          "star": false,
+          "headline": "緊急地震速報の誤報取り消し",
+          "summary": "官房長官が「再発防止に万全を期す」と述べた。",
+          "detail": "緊急地震速報が誤って発信され、後に取り消された問題について、官房長官が再発防止に万全を期すと表明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600881&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-8",
+          "star": false,
+          "headline": "福岡県議会、「百条委」設置を可決",
+          "summary": "金銭授受問題や海外視察を調査する。",
+          "detail": "福岡県議会は地方自治法に基づく調査特別委員会(百条委員会)の設置を可決し、金銭授受問題や海外視察に関する疑惑を調査する。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261017de60805"
+        },
+        {
+          "id": "2026-10-17-pol-9",
+          "star": false,
+          "headline": "自衛官の処遇改善、政府・自民が加速へ",
+          "summary": "人手不足への危機感が背景にある。",
+          "detail": "自衛官の人手不足が深刻化していることを受け、政府・自民党は処遇改善策の検討を加速させる方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600970&g=pol"
+        },
+        {
+          "id": "2026-10-17-pol-10",
+          "star": false,
+          "headline": "衆院、関文科相を厳重注意へ",
+          "summary": "議員会館で政治資金パーティーを開いた問題について。",
+          "detail": "関芳弘文部科学相が議員会館内で政治資金パーティーを開いたことが問題視され、衆院が厳重注意を行う方針を決めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600688&g=pol"
+        }
+      ]
+    }
+  ]
+}
