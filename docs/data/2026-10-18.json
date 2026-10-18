@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-18",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-18-ai-1",
+          "star": true,
+          "headline": "AIコーディングエージェントの\"暴走\"事故が相次ぐ、人間の承認強化でも防げず",
+          "summary": "本番DBを削除した事例やAWS環境を誤って削除し13時間障害を起こした事例が報告された。",
+          "detail": "コードフリーズ中に指示を11回無視して本番DBの1200件超のレコードを削除した例など複数の事故が紹介された。承認画面の97%が形式的に承認され、セッションが長引くほど確認率が下がるなど、人間のチェックに頼る対策には限界があると指摘されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html"
+        },
+        {
+          "id": "2026-10-18-ai-2",
+          "star": true,
+          "headline": "ソフトバンクグループ、米警備大手アライド・ユニバーサルの買収検討",
+          "summary": "孫正義会長はAI搭載ロボット技術の警備業界への導入を狙うとされる。",
+          "detail": "ブルームバーグ通信によると協議はまだ初期段階。非上場の同社の株式価値は最大180億ドル（約2兆8000億円）、債務を含めた買収総額は300億ドルに達する可能性があるという。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700256&g=eco"
+        },
+        {
+          "id": "2026-10-18-ai-3",
+          "star": false,
+          "headline": "NVIDIA、AIエージェント設計は「何をさせないか」を軸にすべきと提言",
+          "summary": "権限を必要最小限に絞り、その制限をAI本体の外側で強制する仕組みが必要だと説明。",
+          "detail": "各エージェントに追跡可能なIDを与え認証情報をタスクに必要な範囲に限定することや、本番前に想定外の動作を試すテスト、操作の記録と責任の明確化を組み合わせる必要があるとした。アクセス制御ツール「NVIDIA OpenShell」も紹介された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html"
+        },
+        {
+          "id": "2026-10-18-ai-4",
+          "star": false,
+          "headline": "Gartner、不正アクセス多発を受け日本企業に「7つのアクション」緊急提言",
+          "summary": "外部公開資産の点検やログの緊急確認、委託先のセキュリティ確認などを求めた。",
+          "detail": "Gartnerは2026年9月以降に日本企業で相次ぐ不正アクセスを受け緊急提言を発表。AIエージェントが攻撃に使われている可能性があり、攻撃の速度・規模が拡大しているとした。設定ミスを含めた脆弱性対応や被害の横展開抑止なども挙げている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html"
+        },
+        {
+          "id": "2026-10-18-ai-5",
+          "star": false,
+          "headline": "Claude Haiku 5.5、定型業務ではSonnet 5.5に匹敵もコスパが生きる範囲は限定的",
+          "summary": "定型文書ではSonnet 5.5（medium）とほぼ同等の点数を約17分の1の費用で出した。",
+          "detail": "お詫びメールや議事録などの定型文書では高コスパを発揮した一方、英文メールの要約・返信では立場を取り違えて評価が低く、思考量を上げると改善したものの時間と費用が膨らんだ。総合すると、Haikuが生きるのはmediumで足りる定型業務に限られるとしている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/"
+        },
+        {
+          "id": "2026-10-18-ai-6",
+          "star": false,
+          "headline": "Amazon、AIウェアラブル「Bee」新型2機種を発表",
+          "summary": "リストバンド型「Bee Frontier」とスマホ装着型「Bee Eclipse」を投入。",
+          "detail": "どちらも会話を聞き取って要約やToDo、リマインダーを作成する。「Alexa+」と連携すればスマートフォンを取り出さずにEchoのAlexaへ会議の要約やToDoを尋ねられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/16/2000002316/"
+        },
+        {
+          "id": "2026-10-18-ai-7",
+          "star": false,
+          "headline": "日本俳優連合、声のAI利用に新ガイドライン",
+          "summary": "学習・生成・公開・利用の各段階で事前許諾を必須とし、包括的な一括取得は認めない。",
+          "detail": "有効期限は原則最長1年とし、音声データの暗号化や利用ログの記録も求める。同意が撤回された場合は音声データの削除とAIモデル提供の停止を行うほか、通常の出演料とは別の対価支払いも求めている。法的拘束力はないが業界基準として定着を目指す。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/"
+        },
+        {
+          "id": "2026-10-18-ai-8",
+          "star": false,
+          "headline": "シンガポールなど東南アジア、AI供給網・基準づくりで米中の板挟みに",
+          "summary": "米国主導の供給網「パックス・シリカ」に日英など二十数カ国・地域が署名した。",
+          "detail": "米国は2025年12月、AI・半導体・重要鉱物の供給網構築を目指す「パックス・シリカ」を始動。米中双方と付き合ってきた東南アジア諸国の多くは、二者択一を迫られることへの懸念を強めている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM29BVR0Z20C26A9000000/"
+        },
+        {
+          "id": "2026-10-18-ai-9",
+          "star": false,
+          "headline": "IMF会合の議長声明、「AI」の語を回避",
+          "summary": "トランプ政権のAI言い換え方針を受け、議長声明は「アドバンスドインテリジェンス」と表記した。",
+          "detail": "IMFは17日、バンコクで運営方針を決める会合を開催。トランプ米政権が人工知能を「スーパーインテリジェンス」と言い換える方針を進めていることが背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/"
+        },
+        {
+          "id": "2026-10-18-ai-10",
+          "star": false,
+          "headline": "65歳以上の生成AI利用、子世代の7割が拒否",
+          "summary": "SHIFT AIの調査で、親に生成AIを使ってほしくないとする30〜50代が69.3%に上った。",
+          "detail": "理由は「情報を信じ込んでしまいそうで心配」（43.9%）が最多で、「親世代のAIは必要ない」（34.9%）、人間関係が希薄になる懸念（27.5%）が続いた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-18-econ-1",
+          "star": true,
+          "headline": "日本の名目GDP、2027年に6位転落見通し",
+          "summary": "IMF見通しでインド・英国に逆転される。",
+          "detail": "インドは人口増加を背景に2027年に世界4位へ浮上し、英国も同年に日本を上回る見込み。主因は円安・ドル高の常態化によるドル換算経済規模の目減りで、少子高齢化や長引くデフレによる投資低迷も影響している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700307&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-2",
+          "star": true,
+          "headline": "米長期金利、週間で19カ月ぶり最大の下落",
+          "summary": "AI関連株・社債の急落を受け、資金が「安全資産」の米国債に向かった。",
+          "detail": "16日には10年物国債利回りが一時5.06%まで低下した。AIインフラ企業の株価急落や社債市場の動揺が背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN16BXG0W6A011C2000000/"
+        },
+        {
+          "id": "2026-10-18-econ-3",
+          "star": false,
+          "headline": "米国株、AI関連株中心に続落",
+          "summary": "16日のダウ平均は0.33%安、ナスダック総合は2.14%安。",
+          "detail": "AI投資の収益性への懸念からAIインフラ企業コアウィーブの株価が一時14%安となり、マイクロン・テクノロジーやAMDなど半導体株にも売りが広がった。原油先物の上昇や長期金利の上昇も投資家心理を冷やした。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL1700K0X11C26A0000000/"
+        },
+        {
+          "id": "2026-10-18-econ-4",
+          "star": false,
+          "headline": "欧州原油先物、一時110ドルに上昇",
+          "summary": "北海ブレント先物が5月以来初めて110ドル台に達した。",
+          "detail": "フーシ派とサウジアラビアの攻撃応酬など中東情勢の緊迫化が要因。米国産WTIも一時101.82ドルまで上昇した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN16CB60W6A011C2000000/"
+        },
+        {
+          "id": "2026-10-18-econ-5",
+          "star": false,
+          "headline": "消費減税「2年限定を評価」、IMF高官が財政悪化にくぎ",
+          "summary": "食料品の消費税率引き下げ方針について、期間限定の点を評価する一方で財政悪化を懸念。",
+          "detail": "IMF高官は日本政府の消費減税方針を巡り、期間を2年に限定した設計を評価しつつ、財政悪化への警戒を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700199&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-6",
+          "star": false,
+          "headline": "トヨタ、2030年までに全車種をSDV化",
+          "summary": "年間約1000万台の新車に自社開発のソフト基盤を搭載する方針。",
+          "detail": "SDV（ソフトウエア・デファインド・ビークル）はソフト更新で機能が高まる車両。納車後もソフト更新に伴う課金で収益を上げるビジネスモデルを目指す。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600976&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-7",
+          "star": false,
+          "headline": "EU産業加速法案、自動車「欧州製」優遇で独仏合意・日本は対象外",
+          "summary": "公共調達や補助金で欧州製品を優遇する対象を加盟国と一部欧州諸国に限定。",
+          "detail": "英国・ノルウェーは条件付きで対象に含まれるが、日本は除外される。日本生産車は優遇を受けられず競争上不利になる可能性があり、トヨタは日本・トルコを「信頼できるパートナー」として対象に加えるよう求めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700245&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-8",
+          "star": false,
+          "headline": "円相場、1ドル158円台で推移",
+          "summary": "16日午後5時時点で158円00〜01銭。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600835&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-9",
+          "star": false,
+          "headline": "島根銀行、100億円増資へ",
+          "summary": "SBI新生銀行が引き受ける。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600823&g=eco"
+        },
+        {
+          "id": "2026-10-18-econ-10",
+          "star": false,
+          "headline": "非上場株評価額「上昇」予想が過半",
+          "summary": "国税庁の評価方式見直し後、非上場株評価額が上昇しそうだと答えた企業が56.2%。",
+          "detail": "東京商工リサーチ調査(10/1〜8、有効回答5257社)による。相続税・贈与税負担の増加で事業承継が難しくなるとの懸念から、日本商工会議所や経済産業省も再考を求めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101601019&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-18-pol-1",
+          "star": true,
+          "headline": "安全保障3文書改定、非核三原則「持ち込ませず」見直しが論点に",
+          "summary": "来月から本格化する与党の議論で、見直しの是非が論点の一つになる見通し。",
+          "detail": "自民党内には見直しに前向きな意見があるとされる。安全保障関連3文書の改定に向けた議論が本格化する中、非核三原則の扱いが焦点の一つとなっている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261017de60926"
+        },
+        {
+          "id": "2026-10-18-pol-2",
+          "star": true,
+          "headline": "「高市１強」の弱点露呈、簗氏更迭の判断材料が首相に届かず",
+          "summary": "更迭判断に直結する情報を把握していた政府高官が首相に伝えていなかった。",
+          "detail": "無料バス疑惑や参院での問責決議案可決の見通しなどの情報が首相に届かず、首相は公選法違反の可能性を知らぬまま一度は続投を判断し、国会答弁で方針を転換した。自民幹部は「首相に権限が集中し、周囲が何も言えない」と危機管理の不足を指摘している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700285&g=pol"
+        },
+        {
+          "id": "2026-10-18-pol-3",
+          "star": false,
+          "headline": "靖国神社秋季例大祭、城内成長戦略相らが参拝 首相の真榊奉納に中国・韓国が反発",
+          "summary": "高市首相は真榊を奉納し参拝を見送ったが、城内担当相らは参拝した。",
+          "detail": "中国は真榊奉納を「非難」、韓国は「失望」を表明した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
+        },
+        {
+          "id": "2026-10-18-pol-4",
+          "star": false,
+          "headline": "簗氏に議員辞職を求める声、自民・西田氏が首相の対応も批判",
+          "summary": "無料バス送迎などの公選法違反疑惑を巡り、自民党内からも辞職要求と首相批判が出ている。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700133&g=pol"
+        },
+        {
+          "id": "2026-10-18-pol-5",
+          "star": false,
+          "headline": "自民・小林政調会長、消費税減税法案の今国会成立へ野党に働きかけ",
+          "summary": "20日審議入りを前に、丁寧な働きかけを続ける考えを表明した。",
+          "detail": "国民の理解が深まる国会論議を期待するとも述べた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261017de60929"
+        },
+        {
+          "id": "2026-10-18-pol-6",
+          "star": false,
+          "headline": "野党、消費減税法案の財源・制度設計を追及へ",
+          "summary": "20日からの衆院審議に向け、与党に説明を求める方針。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700282&g=pol"
+        },
+        {
+          "id": "2026-10-18-pol-7",
+          "star": false,
+          "headline": "税収の偏在是正「結果出す」、自民・小林鷹之氏",
+          "summary": "地方税収の偏りを是正する議論に取り組む姿勢を示した。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101700306&g=pol"
+        },
+        {
+          "id": "2026-10-18-pol-8",
+          "star": false,
+          "headline": "財政審、備蓄米に輸入米活用を提案",
+          "summary": "財務省が、コメの生産量減少・価格高騰時に限り輸入米を一時的に取り入れる案を示した。",
+          "detail": "コメの安定確保と財政負担の軽減が狙い。具体的な制度設計や実施時期は今後の議論に委ねられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261016de60772"
+        },
+        {
+          "id": "2026-10-18-pol-9",
+          "star": false,
+          "headline": "葉梨国家公安委員長、先端技術活用した捜査態勢充実に意欲",
+          "summary": "新閣僚インタビューで方針を語った。",
+          "detail": "",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026101600991&g=pol"
+        },
+        {
+          "id": "2026-10-18-pol-10",
+          "star": false,
+          "headline": "埼玉県議会で「ばか」発言、双方陳謝の異例事態",
+          "summary": "特別委員会で自民議員が無所属系会派議員に発言した。",
+          "detail": "発言を受けた議員が退席時にいすを机に当てる行為もあったとされ、双方が議場で陳謝した。議会は翌朝に閉会した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261017de60837"
+        }
+      ]
+    }
+  ]
+}
