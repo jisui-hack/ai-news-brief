@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-28",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-28-ai-1",
+          "star": true,
+          "headline": "Anthropic、IPO目論見書で「AI存亡リスク」等を開示",
+          "summary": "SECに提出したS-1で、AIリスクの記載が90ページ超に。財務・開発指標も開示。",
+          "detail": "300ページを超えるS-1（登録届出書）には、AIが人類を滅亡させるリスクに関する記載が90ページ超含まれる。社内のソースコード変更の9割超はClaudeが書いたもので、社員1人当たりの売上高（過去12カ月）は140万ドルから660万ドルに拡大、既存顧客の売上継続率（NRR）は約900%に達した。従業員数は1年で約2.7倍の約5300人になった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/"
+        },
+        {
+          "id": "2026-10-28-ai-2",
+          "star": true,
+          "headline": "Google DeepMind、リアルタイム世界モデル「Genie 4」発表",
+          "summary": "映像と同時に音楽・環境音・対話音声を生成する初の世界モデル。Geminiと連携。",
+          "detail": "自然言語によるリアルタイムのシーン編集（天候変更・カメラ移動など）や、物理法則・人の動きの再現に対応する。Gemini 3.8 Flashがエージェントとしてシーンの目標達成を管理し、長期的な一貫性の確保は今後の課題とされる。現在はトラステッドテスターへの研究プレビューとして提供され、今後Google AI Ultra加入者等へ展開予定。",
+          "sourceLabel": "Google DeepMind公式",
+          "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+        },
+        {
+          "id": "2026-10-28-ai-3",
+          "star": true,
+          "headline": "PFN、国産フラッグシップ「PLaMo 3.1 Prime」発表",
+          "summary": "オンプレでも使えるDeep Research搭載。API無料プランも開始。",
+          "detail": "調査テーマを入力すると出典付きレポートを自律的に作成するDeep Researchは、社内文書検索システムとも連携可能。ハルシネーション関連の8ベンチマークで前モデルから平均約15%改善し、安全性スコアは競合モデル（Qwen、gpt-oss-120B等）より高い結果となった。APIのStandardプランは100万トークンあたり入力60円・出力250円。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/"
+        },
+        {
+          "id": "2026-10-28-ai-4",
+          "star": false,
+          "headline": "NVIDIAとAMD、MetaとのAI提携を拡大",
+          "summary": "Metaのエージェント「Muse」強化や次世代インフラ構築で協力。両社がMetaに出資。",
+          "detail": "NVIDIAはMuseとそのモデルファミリーの学習・推論性能向上に向け協業を拡大し、AMDはラックスケールAIシステム「Helios」の導入やEPYC・Instinct GPUでの協力を進める。両社はMetaが発表した最大950億ドル規模の資金調達計画に、それぞれ30億ドル・10億ドルを出資する。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/"
+        },
+        {
+          "id": "2026-10-28-ai-5",
+          "star": false,
+          "headline": "OpenAI、低コスト版「GPT-6.1 Terra」を発表",
+          "summary": "最高性能モデルと一部同等の性能をトークン単価10分の1で実現。",
+          "detail": "前世代「GPT-5.6 Terra」の後継で、視覚的理解やコンピュータ操作業務に強みを持つとされる。Terminal-Bench 4.0では推論設定「max」で50.3%を記録し前世代の2倍以上。API料金は100万トークンあたり入力1ドル・出力5ドルで、既存モデルより安価に設定された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/"
+        },
+        {
+          "id": "2026-10-28-ai-6",
+          "star": false,
+          "headline": "SKハイニックス、7〜9月期純利益が3.2倍",
+          "summary": "生成AI向け高性能メモリー「HBM」の価格上昇が主因。",
+          "detail": "連結純利益は39兆7756億ウォン（約4兆7000億円）となった。前四半期との比較では純利益は58%減少したが、これは前四半期にキオクシアホールディングス株の持ち分評価額上昇という特殊要因があったためとされる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM26AAE0W6A021C2000000/"
+        },
+        {
+          "id": "2026-10-28-ai-7",
+          "star": false,
+          "headline": "Anthropic、米政府機関向けにGSAとの提携を拡大",
+          "summary": "Claude Enterprise等を40%割引で提供。政府側の推計節約額は10億ドル。",
+          "detail": "州・地方・部族・準州政府にも割引が適用され、最低利用額の約束はなく使った分だけ支払う契約となる。米国の連邦・州・地方の約500組織がすでにClaudeを利用しており、連邦民間機関での利用は1年で約20倍に拡大したという。Claude for GovernmentはFedRAMP High認可で提供されている。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/expanding-partnership-gsa"
+        },
+        {
+          "id": "2026-10-28-ai-8",
+          "star": false,
+          "headline": "AIで個人標的フィッシングメールを自動生成、クリック率2.74倍",
+          "summary": "ベルリン工科大学などの研究チームが約3300人に実験。",
+          "detail": "検索エンジンで収集した個人情報からAIがプロファイルを作成し、送信者・文面を自動生成。クリック率は一般的なフィッシング（3.9%）の約2.74倍である10%に達した。生成コストは1通あたり約0.03ドルで、大学のメールフィルターはほとんど不審と判定できなかった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/"
+        },
+        {
+          "id": "2026-10-28-ai-9",
+          "star": false,
+          "headline": "日本取引所、生成AIで取引システムの運用監視を本格導入",
+          "summary": "日立のAIアシスタントを活用し、判断精度97%以上をPoCで達成。",
+          "detail": "株式・デリバティブ取引を担う40以上のシステムを集中監視する現場に適用。1万件以上のインシデント事例を学習データとし、熟練オペレーターの経験に依存していた初動対応の判断を標準化する狙い。AIが判断根拠を示す機能でハルシネーション対策も行う。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/"
+        },
+        {
+          "id": "2026-10-28-ai-10",
+          "star": false,
+          "headline": "Anthropic、医薬品開発でのClaude活用の早期成果を公表",
+          "summary": "製薬6社との共同研究で抗体設計・規制文書作成などの成果を報告。",
+          "detail": "Divergence Labsでは食物アレルギー治療の抗体設計を約1カ月で約3.5万件生成、Envedaでは製造文書1061ページのレビュー時間を25時間超から3時間未満に短縮した。Anthropicは希少疾患治療薬開発企業Mithril Medicineを買収し、構想から18カ月未満でマウス実験の有望な結果を得たという。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/research/early-progress-drug-development"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-28-econ-1",
+          "star": true,
+          "headline": "日経平均、上げ幅700円の堅調推移",
+          "summary": "韓国株高・半導体株高が支え。AI関連株の活況が市場全体を押し上げた。",
+          "detail": "米SOX（半導体株）指数が前日4%高となったことを受け、アドバンテストなど半導体関連株が続伸。韓国市場でもSKハイニックスやサムスンに買いが入り、株高が連動した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL281780Y6A021C2000000/"
+        },
+        {
+          "id": "2026-10-28-econ-2",
+          "star": false,
+          "headline": "円相場、157円台後半で推移",
+          "summary": "ドル売りが優勢な展開が続いている。",
+          "detail": "28日の東京外国為替市場で、円相場は下げ幅を縮小しつつ157円台後半で推移した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL280BC0Y6A021C2000000/"
+        },
+        {
+          "id": "2026-10-28-econ-3",
+          "star": false,
+          "headline": "社債「前倒し」発行が旺盛、10月として最高の2.3兆円",
+          "summary": "需要拡大の一方、発行環境には課題も指摘される。",
+          "detail": "企業が市場環境の良いタイミングを捉え、年度内に予定していた資金調達を前倒しする動きが広がっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL2649STW6A021C2000000/"
+        },
+        {
+          "id": "2026-10-28-econ-4",
+          "star": true,
+          "headline": "高金利はAI投資を冷やすのか、FOMCの隠れた論点に",
+          "summary": "27〜28日のFOMCを控え、高金利とAI投資拡大の関係が市場の論点に。",
+          "detail": "9月のFOMCでFRBは約3年ぶりの利上げに踏み切ったが、今回は金利据え置きが予想の大勢とされる。高金利が企業のAI関連設備投資や資金調達を冷やすかどうかが、会合の隠れた論点として注目されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN27CLR0X21C26A0000000/"
+        },
+        {
+          "id": "2026-10-28-econ-5",
+          "star": false,
+          "headline": "富士フイルム、磁気テープを20年ぶり大型増産",
+          "summary": "AIデータの保存需要の高まりを受けた対応。",
+          "detail": "AIの普及に伴うデータ保存需要の急増を見据え、消費電力やコストの面で優位な磁気テープの生産体制を拡充する。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC073490X01C26A0000000/"
+        },
+        {
+          "id": "2026-10-28-econ-6",
+          "star": false,
+          "headline": "GMOインターネットグループ、顧客情報を一部公開される",
+          "summary": "不正アクセスの要求支払いを拒否した結果、攻撃者が情報を公開。",
+          "detail": "攻撃対象はFX自動売買クラウドサービスのサーバー。GMOは要求に応じない方針を明確にし、被害者に見舞金最大300万円を支払う。攻撃者特定につながる情報には最大1.5億円の懸賞金を設定し、トレンドマイクロ等と調査を進めている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700370&g=eco"
+        },
+        {
+          "id": "2026-10-28-econ-7",
+          "star": false,
+          "headline": "鶏卵が最高値を更新",
+          "summary": "農水省の10月の小売り調査で判明。",
+          "detail": "飼料価格や需給状況を背景に、鶏卵の小売価格が過去最高値を更新した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102701085&g=eco"
+        },
+        {
+          "id": "2026-10-28-econ-8",
+          "star": false,
+          "headline": "山崎製パン、276品を来年1月から値上げ",
+          "summary": "平均4.7%の値上げとなる。",
+          "detail": "原材料費や物流コストの上昇を踏まえた措置で、対象は276品目に及ぶ。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102701087&g=eco"
+        },
+        {
+          "id": "2026-10-28-econ-9",
+          "star": false,
+          "headline": "政府、中国・台湾産の一部鋼材に不当廉売関税",
+          "summary": "最大42.1%、5年間、10月31日から適用。",
+          "detail": "ニッケル系ステンレス冷延鋼板などが対象で、不当な安値輸入により国内企業が損害を受けたと認定された。関税率は企業ごとに3.6%から42.1%まで異なる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700998&g=eco"
+        },
+        {
+          "id": "2026-10-28-econ-10",
+          "star": false,
+          "headline": "ニデック、永守氏ら9人を提訴へ",
+          "summary": "不正会計を巡る損害賠償請求で、第三者委員会は総額約276億円の損害を推計。",
+          "detail": "対象は創業者の永守重信氏や歴代社長ら9人。社内の役員責任調査委員会は、資産の長期的な評価見直しの遅れが経営判断の誤りにつながったと結論づけた。永守氏は2026年2月、不正会計問題を受け名誉会長を退任している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700884&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-28-pol-1",
+          "star": true,
+          "headline": "衆院定数31削減案、国民民主が賛成表明",
+          "summary": "自民が示した折衷案を受け入れた形。他党の対応が今後の焦点。",
+          "detail": "国民民主党は比例19削減の独自案を持っていたが、比例の統一名簿方式導入など他の主張が反映されたとして折衷案を受け入れた。古川元久代表代行は与党が比例45削減に強い意志を示す中での「苦渋の選択」と説明。日本維新の会など他党の対応が今後の調整の焦点となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102800114&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-2",
+          "star": true,
+          "headline": "日独首脳会談、メルツ独首相が来日",
+          "summary": "安全保障・経済安全保障・防衛産業協力などで意見交換。",
+          "detail": "メルツ首相の就任後初来日で、高市首相とロシアのウクライナ侵攻や中国の対外姿勢を含む安全保障情勢について協議する。ドイツは日本の防衛装備品輸出緩和を踏まえ防衛産業協力を模索し、レアアース等のサプライチェーン強化でも連携する方針。企業間の覚書20件超の署名も見込まれる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700672&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-3",
+          "star": false,
+          "headline": "政府、防衛産業支援の新法人設立を検討",
+          "summary": "独立行政法人を想定し、スタートアップ支援等を担う。",
+          "detail": "年内策定を目指す「防衛産業基盤戦略」に盛り込む方向で、装備品の生産能力向上や有事の継戦能力確保を狙う。デュアルユース技術の活用促進や装備品の海外移転促進も業務に含める想定で、来年の通常国会への法案提出を調整している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102701150&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-4",
+          "star": false,
+          "headline": "邦人記者拘束問題、日本政府が解放交渉を継続",
+          "summary": "ロシアに拘束された記者と初の領事面会が実現し「一歩前進」。",
+          "detail": "10月13日にロシア当局に拘束された北海道新聞記者について、26日に初の領事面会が実現した。日ソ領事協定上の面会期限（拘束から4日以内）を大きく超えており、外務省は「遺憾」としている。武藤大使はロシア外務次官との会談で即時解放を要求したが、解放には相当な時間がかかるとの見方も示されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102701002&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-5",
+          "star": false,
+          "headline": "消費税減税論議、衆院参考人質疑で効果に疑問の声",
+          "summary": "「極めてコスパが悪い」との指摘も出た。",
+          "detail": "衆院での参考人質疑では、消費減税による物価抑制効果に疑問を示す意見が出された一方、財源確保の重要性を指摘する声もあった。政府の10月の月例経済報告は「緩やかに回復」の判断を維持している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102701075&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-6",
+          "star": false,
+          "headline": "山下法相、検察庁ハラスメント調査の結果公表に意欲",
+          "summary": "「旧姓単記」法制化にも前向きな姿勢を示した。",
+          "detail": "山下法相は検察庁内のハラスメント調査結果を自らの責任で公表する考えを示した。また旧姓のみを使用できる「旧姓単記」の法制化についても、民法や戸籍法の改正は必須ではないとの考えを示しつつ意欲を見せている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700708&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-7",
+          "star": false,
+          "headline": "国連第1委員会、日本提出の核廃絶決議案を採択",
+          "summary": "150カ国が賛成し、33年連続の採択。",
+          "detail": "中国・ロシア・北朝鮮など7カ国が反対、米国・フランスなど25カ国が棄権した。決議はNPT再検討会議が決裂したことを踏まえ、核保有国に軍縮交渉義務の履行を求め、北朝鮮の核保有国としての地位を認めずIAEA査察の受け入れを促す内容。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102800302&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-8",
+          "star": false,
+          "headline": "政府、「副首都」指定要件を決定",
+          "summary": "大規模災害時に首都機能を代替する制度。対象は4道府県程度。",
+          "detail": "全国総人口の1.2%以上を占める市町村があることなどが指定要件の一つとされる。実際の指定は来年以降になる見通し。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261027de66118"
+        },
+        {
+          "id": "2026-10-28-pol-9",
+          "star": false,
+          "headline": "内閣府参与への下地幹郎氏起用を政府・自民が検討",
+          "summary": "地元県連からは反発の声も上がっている。",
+          "detail": "下地幹郎元衆院議員の内閣府参与への起用が検討されていることが判明し、地元の自民党県連が反発している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102700946&g=pol"
+        },
+        {
+          "id": "2026-10-28-pol-10",
+          "star": false,
+          "headline": "自民議連、自衛隊員の給与体系見直しを提言",
+          "summary": "人材確保の観点から処遇改善を求めた。",
+          "detail": "自民党の議員連盟が、自衛隊員の処遇改善に向けた給与体系の見直しを政府に提言した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261027de66616"
+        }
+      ]
+    }
+  ]
+}
