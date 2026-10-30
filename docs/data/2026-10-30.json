@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-30",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-10-30-ai-1",
+          "star": true,
+          "headline": "Google、次期フロンティアモデル「Gemini 4 Carbon」発表",
+          "summary": "「Argon」公開から2週間で、Intelligence Index 59点と首位に。サイバー防御能力を大幅強化。",
+          "detail": "コード安全性の生成成功率は社内評価でArgonの2倍以上、ハルシネーションは約半分に減少した。間接的プロンプトインジェクション攻撃の成功率は「Gray Swan IPI」評価でArgonの0.7%から0.0%に低下。まずサイバー防御組織向けの「Fairwind Program」参加者から段階的に提供し、一般提供の日程は未公表。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/"
+        },
+        {
+          "id": "2026-10-30-ai-2",
+          "star": true,
+          "headline": "OpenAI、AIの行動指針「Model Spec」を改定",
+          "summary": "記憶の使い方や人間による監督・停止への協力義務を明記。",
+          "detail": "過去の会話の前提を見える形で示しユーザーが訂正できるようにする規定や、第三者の情報を無断で書き込まない規定を新設。最上位の「Root」原則として、正当な人間による監督・修正・停止指示への協力を明記し、情報を隠すことや監督の回避、他エージェントへの委任による迂回を禁止した。指針全体を5つの価値観で再構成している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/"
+        },
+        {
+          "id": "2026-10-30-ai-3",
+          "star": false,
+          "headline": "Oracle、Google製AIチップ「TPU」をOracle Cloudに導入へ",
+          "summary": "2027年提供開始予定。NVIDIA以外の選択肢を顧客に提供する狙い。",
+          "detail": "「Oracle AI World 2026」の基調講演で発表。Oracleは電力・冷却・データセンター内ネットワークなどの基盤を提供し大規模展開を目指す。Googleにとってはクラウド各社でのTPU利用拡大の機会となる。Google Cloudは前週、PyTorchのTPUネイティブ対応版「TorchTPU」もオープンソース公開した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/"
+        },
+        {
+          "id": "2026-10-30-ai-4",
+          "star": false,
+          "headline": "パナソニックグループ、約33万人分の個人情報が外部生成AIに入力",
+          "summary": "禁止されていた外部生成AIサービスに、社員・退職者・家族の連絡先情報をルール違反でアップロード。",
+          "detail": "対象は現役社員約7.5万人、退職者約17.8万人（1978年以降）、家族約8.1万人。氏名・社員番号・電話番号・メールアドレス等が含まれ住所は含まれない。9月29日に個人情報保護委員会へ報告し10月23日に公表。データは削除済みで二次利用は確認されていないという。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html"
+        },
+        {
+          "id": "2026-10-30-ai-5",
+          "star": false,
+          "headline": "OpenAI、ChatGPTのPro・Businessプランで「API利用」特典を追加",
+          "summary": "月最大500ドル分のAPI利用枠を付与。無料・Go・Plus等は対象外。",
+          "detail": "Proプランは月額と同額（100〜500ドル）の利用枠を毎月付与。Businessはシート単位（標準20ドル、プレミアム100ドル分）で、1ワークスペースの上限は月500ドル分。ChatGPTとAPIのアカウントを同じメールアドレスで連携する必要がある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/"
+        },
+        {
+          "id": "2026-10-30-ai-6",
+          "star": false,
+          "headline": "Meta・ハーバード大、「AIエージェントは増やせば賢くなるのか」を検証",
+          "summary": "複数エージェントの性能が数に比例しない要因を整理し、連携手法の改善案を提案。",
+          "detail": "FAIRとハーバード大などの論文「ScaleMAS」では、4体のエージェントが独立8体と同等の成績を約半分のトークン数で達成する例もあれば、文書の矛盾検出のように128体まで改善が続く作業、数学の定理証明のように16体で頭打ちになる作業もあり、効果は業務内容に依存すると結論づけた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/"
+        },
+        {
+          "id": "2026-10-30-ai-7",
+          "star": false,
+          "headline": "AI音声の詐欺電話、6人に1人が応じる可能性",
+          "summary": "米ハーバード大・Metaなどが6種のAI音声モデルと米成人4100人で検証。",
+          "detail": "要求に応じるまたは判断に迷った人は平均16.5%で、感情に訴える手口は事務的な手口より3〜5倍応じやすかった。最も効果が高かったクローン音声の「姉妹」シナリオでは36.1%が応じる可能性を示した。推論コストの安いモデルを使えば1時間あたり1〜3ドルの黒字で運用できると試算されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/"
+        },
+        {
+          "id": "2026-10-30-ai-8",
+          "star": false,
+          "headline": "AI半導体市場「メガサイクル局面」、アドバンテストが業績上方修正",
+          "summary": "上期営業利益は前年同期比146%増の2668億円。",
+          "detail": "ダグラス・ラフィーバーCEOは、AI処理向けの需要がGPUだけでなくCPUでも想定を上回って拡大しているとし、従来の「スーパーサイクル」を超える「メガサイクル」局面にあると表現。SoCテスト装置の生産能力拡大で通期目標の前倒し達成を見込む。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html"
+        },
+        {
+          "id": "2026-10-30-ai-9",
+          "star": false,
+          "headline": "サムスン電子、半導体部門の7〜9月期営業利益が15.2倍の約12兆円",
+          "summary": "AI向けメモリー需要の拡大が主因。",
+          "detail": "半導体部門の売上高は前年同期比4.4倍の147兆1000億ウォンで、このうちメモリーが5.3倍の140兆7000億ウォンと増収の大半を占めた。四半期ベースで過去最高の利益水準となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM272ZD0X21C26A0000000/"
+        },
+        {
+          "id": "2026-10-30-ai-10",
+          "star": false,
+          "headline": "イビデン、27年3月期純利益890億円に上方修正",
+          "summary": "生成AIサーバー向け基板が好調。インテル向け生産設備に1510億円を追加投資。",
+          "detail": "純利益は前期比40%増の890億円、売上高は36%増の5650億円に上方修正。岐阜県大垣市の河間事業場に約1510億円を投じ、インテル向けGPU・AI推論用CPUの生産体制を29年度から順次拡大する計画。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFD290UF0Z21C26A0000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-10-30-econ-1",
+          "star": true,
+          "headline": "日経平均、一時2.6%超安の大幅下落",
+          "summary": "米インテルの決算を受けた米ハイテク株安を受け、半導体・AI関連株に売りが広がった。",
+          "detail": "インテルの決算発表後に時間外取引で株価が急落し、米ハイテク株全体に売りが波及。東証でも日経平均は一時6万3000円を下回り、富士通は業績下振れでストップ安となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL281780Y6A021C2000000/"
+        },
+        {
+          "id": "2026-10-30-econ-2",
+          "star": false,
+          "headline": "9月の鉱工業生産、2.2%上昇",
+          "summary": "3カ月ぶりの上昇。自動車工業の生産回復が押し上げた。",
+          "detail": "速報値は104.1（2020年=100、季節調整済み）。8月は工場停止で自動車工業の生産が落ち込んでいたが、9月は稼働再開で5.5%上昇した。15業種中8業種が上昇し、基調判断は「一進一退」で据え置かれた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000286&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-3",
+          "star": false,
+          "headline": "9月の求人倍率1.19倍に上昇、失業率2.4%",
+          "summary": "いずれも3カ月ぶりの改善。",
+          "detail": "厚生労働省・総務省が発表。求人倍率、失業率ともに前月から改善した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000275&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-4",
+          "star": false,
+          "headline": "10月の東京都内物価、2.6%上昇",
+          "summary": "総務省が発表。",
+          "detail": "全国の先行指標とされる東京都区部の消費者物価指数が前年同月比2.6%上昇した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000274&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-5",
+          "star": false,
+          "headline": "11月の食品値上げ、1477品目に",
+          "summary": "前年同月比で約10倍の規模に拡大。",
+          "detail": "帝国データバンクの調査によるもので、原材料費や物流コストの上昇を反映した値上げが相次いでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000309&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-6",
+          "star": false,
+          "headline": "中部電力、浜岡原発のデータ不正で経産省が業務改善命令の手続き開始",
+          "summary": "赤沢経産相が表明。廃炉費用の過払いも判明し、関連で3800億円の特別損失を計上。",
+          "detail": "赤沢亮正経産相は10月30日の閣議後会見で、浜岡原発（静岡県御前崎市）のデータ不正を受け業務改善命令の発出手続きを始めると表明した。廃炉費用の過払い（2.5億円）も判明しており、同社は浜岡原発関連で27年3月期に3800億円の特別損失を計上する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000370&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-7",
+          "star": false,
+          "headline": "4〜9月の自動車世界販売、1.3%減",
+          "summary": "自動車大手8社、中国不調・北米堅調。",
+          "detail": "中国市場の不振が全体を押し下げたが、北米市場は堅調を維持した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM277IQ0X21C26A0000000/"
+        },
+        {
+          "id": "2026-10-30-econ-8",
+          "star": false,
+          "headline": "対米投融資、11兆円の貸し付け締結",
+          "summary": "日米関税交渉に関連する措置。",
+          "detail": "日米間の関税交渉の一環として合意されていた投融資枠組みに基づく貸し付けが締結された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102801149&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-9",
+          "star": false,
+          "headline": "11月の電気料金、7社が過去最高",
+          "summary": "原油調達コストの上昇が主因。",
+          "detail": "大手電力7社が11月の電気料金を過去最高水準に設定した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102900925&g=eco"
+        },
+        {
+          "id": "2026-10-30-econ-10",
+          "star": false,
+          "headline": "定期預金金利を引き上げ",
+          "summary": "みずほ、三井住友信託が実施。",
+          "detail": "日銀の金融政策正常化を受けた動きとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102901042&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-10-30-pol-1",
+          "star": true,
+          "headline": "衆院比例定数31削減、自民・維新・国民民主の3党が合意",
+          "summary": "幹事長会談で合意し、今国会への法案共同提出を目指す。",
+          "detail": "自民は当初45削減を提案していたが、国民民主の反対を受け2015〜2030年の人口減少を基にした31削減で折り合った。配分方式はドント式から修正サン・ラグ式に変更し、複数党による統一名簿提出なども盛り込む。3党の合計で参院でも過半数確保の可能性があるが、他党は反対しており審議は難航も予想される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102900201&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-2",
+          "star": true,
+          "headline": "消費税減税法案、参院に特別委員会設置へ自民・立民が合意",
+          "summary": "委員数40人、委員長は自民が確保。来月4日に質疑入りする見通し。",
+          "detail": "自民党の磯崎仁彦参院国対委員長と立憲民主党の斎藤嘉隆国対委員長が会談し、食品の消費税を1%に引き下げる関連法案を審議する特別委員会の設置で合意した。これまで「平行線」だった与野党協議が進展した形。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000376&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-3",
+          "star": false,
+          "headline": "低所得者向け支援金、年5000円の定額給付を政府が参考値として提示",
+          "summary": "年収160万円程度まで段階的に加算。",
+          "detail": "食品の消費税を来年4月から2年間1%に引き下げる法案と合わせ、負担軽減のための「就業者負担軽減支援金」を27・28年度に先行実施する案。年収119万円までは一律5000円、それを超えると160万円まで段階的に増額する。財源は消費税1%分に相当する年約6000億円。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103000475&g=eco"
+        },
+        {
+          "id": "2026-10-30-pol-4",
+          "star": false,
+          "headline": "日独首脳が共同宣言、経済安保・AI協力を拡大",
+          "summary": "AIハイレベル対話の立ち上げに合意。メルツ首相は次期戦闘機への参画検討に意欲。",
+          "detail": "高市首相とメルツ独首相は、中国による重要鉱物・半導体の輸出規制を念頭に戦略物資の供給網強化で一致し、AIなど先端技術協力と経済安全保障に関する首脳宣言をまとめた。企業幹部約30人が同行し核融合など33件の覚書が署名された。メルツ首相はGCAP（日英伊の次期戦闘機開発）への参画可能性を検討したいと述べた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102800836&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-5",
+          "star": false,
+          "headline": "電気・ガス代支援を12月に再開、ガソリン補助は段階縮小",
+          "summary": "高市首相が表明。",
+          "detail": "電気代支援は12月に1キロワット時あたり1円、来年1〜2月は4.5円を支給し来年2月まで実施。ガソリンの基準価格（170円）は12月以降毎月5円ずつ引き上げ、現在1日100億円超の税金で抑えている補助を段階的に縮小する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102901064&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-6",
+          "star": false,
+          "headline": "北朝鮮、短距離弾10発余りを発射",
+          "summary": "日本海へ。EEZ内への落下は確認されず。",
+          "detail": "韓国軍によると元山付近から発射され、飛行距離は約250km。日本政府は北京の大使館ルートで厳重抗議し、木原官房長官は国連安保理決議違反と非難した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102900572&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-7",
+          "star": false,
+          "headline": "武部農水相、文春報道の「裏金」疑惑を否定",
+          "summary": "選挙費用の約3000万円が二重計上されていたが、資金のプールはないと説明。",
+          "detail": "文春オンラインは2014年・2017年衆院選で、武部氏の選挙運動費用収支報告書の費用の多くが後援会の収支報告書にも記載されていたと報道。武部氏は担当者の誤解による重複記載だとし、裏金化は否定した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102801123&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-8",
+          "star": false,
+          "headline": "高市首相、来年度予算編成で税収見積もりの精度向上を指示",
+          "summary": "来年度予算の編成方針の一環として表明。",
+          "detail": "来年度予算の編成方針に関する指示の一環として示された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102900991&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-9",
+          "star": false,
+          "headline": "防衛相、米国防長官に「拒否する防衛力」強化を伝達",
+          "summary": "ミサイル関連施設の国内設置で合意。",
+          "detail": "小泉防衛相は米国防長官との会談で、敵の侵攻を阻む「拒否する防衛力」の強化方針を伝達し、ミサイル関連施設の国内設置について合意した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026102800728&g=pol"
+        },
+        {
+          "id": "2026-10-30-pol-10",
+          "star": false,
+          "headline": "「副首都」構想関連法が本日施行",
+          "summary": "大規模災害時の首都機能代替制度。4道府県程度で指定検討。",
+          "detail": "大規模災害で首都機能が損なわれた際に代替拠点となる「副首都」を指定する制度の関連法が施行された。全国総人口の1.2%以上を占める市町村があることなどが指定要件となり、実際の指定は来年以降の見通し。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261030de68151"
+        }
+      ]
+    }
+  ]
+}
