@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-02",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-02-ai-1",
+          "star": true,
+          "headline": "Anthropic、Claudeの有料プラン「Max 20x」を「Ultra」に名称変更",
+          "summary": "月額200ドルは維持しつつ、認証済みアカウントの5時間ごとの利用上限を撤廃した。",
+          "detail": "月額100ドルの「Max 5x」は単に「Max」に改称。週ごとの利用上限は従来どおりで、API利用クレジットはMaxが月100ドル分、Ultraが月200ドル分付与される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/"
+        },
+        {
+          "id": "2026-11-02-ai-2",
+          "star": true,
+          "headline": "アンソロピック、IPO目論見書を公開 時価総額は最大2兆ドルの見方",
+          "summary": "中国の上場済みAI株と比べて割高かどうかが市場の論点になっている。",
+          "detail": "目論見書公開の翌日には中国AI株が急伸し、アンソロピックの評価を参照した見直しの動きが出たと報じられた。巨額のAIインフラ投資が続く中、資金調達コストやIT バブルとの類似性への警戒感も指摘されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL272CZTX21C26A0000000/"
+        },
+        {
+          "id": "2026-11-02-ai-3",
+          "star": false,
+          "headline": "キオクシア、2027年分の生産能力が完売 3年で約1.4兆円を投資",
+          "summary": "AI需要の拡大を受け、2028年分も半分を確保済みで供給余力が急速に縮小している。",
+          "detail": "2029〜2030年ごろには供給に余裕がなくなる見通しで、設備投資を前倒しで増やす方針を示した。メモリー市況はAI向け需要主導で引き続きひっ迫が続くとみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html"
+        },
+        {
+          "id": "2026-11-02-ai-4",
+          "star": false,
+          "headline": "キオクシア株が大幅続落、一時15%安",
+          "summary": "10〜12月期の純利益予想は前年同期比15倍の1兆3600億円だが、伸びの鈍化が失望売りを誘った。",
+          "detail": "7〜9月期からの伸びが小幅にとどまったことが嫌気され、好決算にもかかわらず株価が大きく下げる結果となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB012I30R01C26A1000000/"
+        },
+        {
+          "id": "2026-11-02-ai-5",
+          "star": false,
+          "headline": "東京エレクトロン株価、一時6%高",
+          "summary": "27年3月期の営業益が初の1兆円超えとなる見通しを示したことが好感された。",
+          "detail": "AI向け半導体需要の拡大が業績見通しの上方修正を支えている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL020K70S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-02-ai-6",
+          "star": false,
+          "headline": "オラクル、ChatGPTと連携する「Oracle AI Workspace」提供開始",
+          "summary": "従業員がChatGPTから複数の業務システムの情報取得や承認済み業務の実行ができるようになった。",
+          "detail": "Oracle Fusion ApplicationsやNetSuite、Oracle AI Database、OCIなどが対象。企業の管理規則、承認手続き、アクセス制御は引き続き適用される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/"
+        },
+        {
+          "id": "2026-11-02-ai-7",
+          "star": false,
+          "headline": "Anthropic、Claude Enterprise向けに新機能3種を追加",
+          "summary": "企業が抱く「AIの費用対効果が分からない」という課題の解消を狙う。",
+          "detail": "利用状況の可視化や効果測定を支援する機能が中心で、企業導入の広がりを後押しする狙いがある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html"
+        },
+        {
+          "id": "2026-11-02-ai-8",
+          "star": false,
+          "headline": "日立製作所、GPUの冷却電力を3割削減",
+          "summary": "新構造のコールドプレートにより、データセンターのGPU冷却に使う電力を大幅に削減した。",
+          "detail": "AI需要拡大に伴うデータセンターの電力消費増加が課題となる中、冷却効率の改善で運用コスト低減につなげる狙い。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/102300015/"
+        },
+        {
+          "id": "2026-11-02-ai-9",
+          "star": false,
+          "headline": "AI受付システムのレセプショニスト、11月10日に東証上場へ",
+          "summary": "受付システムにAI機能を組み込み、成長を図る方針。",
+          "detail": "橋本代表はAI機能による受付業務の効率化を事業成長の軸と位置づけている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC260RY0W6A021C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-02-econ-1",
+          "star": true,
+          "headline": "日銀、12月の追加利上げを視野に 中立金利到達を目指す方針",
+          "summary": "物価の基調的な上昇率が目標の2%に達したとの判断を受け、中立金利(推計1.1〜2.5%)への引き上げを目指す。",
+          "detail": "10月30日の会合では高田審議委員による利上げ提案が反対多数で否決されたが、物価上振れを受け3〜4カ月に一度のペースでの利上げが想定され、12月会合での政策変更が視野に入っている。現在の政策金利は1.25%で、市場では来春までに2回の利上げが織り込まれつつある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103001192&g=eco"
+        },
+        {
+          "id": "2026-11-02-econ-2",
+          "star": true,
+          "headline": "米国株、AI投資の持続性懸念でダウ572ドル安・インテル株28%安",
+          "summary": "AI投資の収益化や持続性への不透明感から主要株価指数が大幅下落した。",
+          "detail": "ダウ平均は1.09%安の5万1770ドル、ナスダック総合は2.85%安、S&P500は1.81%安。インテルは決算と見通しの弱さから約28%急落し、半導体株指数(SOX)も7.2%安となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL30CJT0Q6A031C2000000/"
+        },
+        {
+          "id": "2026-11-02-econ-3",
+          "star": false,
+          "headline": "円相場、157円台後半まで下げ幅拡大",
+          "summary": "日銀の政策金利据え置きを受け、円売りが優勢な展開となった。",
+          "detail": "日銀が12月の追加利上げを視野に入れる一方、当面は緩和的な金融環境が続くとの見方から円安方向への動きが続いている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0208D0S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-02-econ-4",
+          "star": false,
+          "headline": "消費者心理が悪化、株価動揺で消費の「K字型」分断がぐらつく",
+          "summary": "株式市場の不安定な動きが、高所得層と低所得層で分かれる消費動向の分断に影響を与えつつある。",
+          "detail": "AI関連株を中心とした株価変動が資産効果を通じて消費者心理に影響し、消費の二極化構造にも変化が生じ始めているとの分析。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL297WCTZ21C26A0000000/"
+        },
+        {
+          "id": "2026-11-02-econ-5",
+          "star": true,
+          "headline": "GMOインターネットグループ、不正アクセス問題で11月2日に会見",
+          "summary": "FX自動売買用サーバーがサイバー攻撃を受けたのが発端で、熊谷正寿社長らが経緯や今後の対応を説明する。",
+          "detail": "攻撃を受けたのは自動売買用に貸し出していたサーバー「お名前．ｃｏｍデスクトップクラウド」。同問題についてGMOが会見を開くのは今回が初めてで、顧客対応や再発防止策への説明が注目される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100449&g=eco"
+        },
+        {
+          "id": "2026-11-02-econ-6",
+          "star": false,
+          "headline": "クラブツーリズム、会員情報432万件が流出の可能性",
+          "summary": "不正アクセスにより、国籍や緊急連絡先などの情報が流出した恐れがある。",
+          "detail": "日本国内で相次ぐ企業の不正アクセス・情報流出事案の一つで、被害規模の大きさが懸念されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100452&g=eco"
+        },
+        {
+          "id": "2026-11-02-econ-7",
+          "star": false,
+          "headline": "日本交通、従業員・利用者ら約29万人分の情報流出の可能性",
+          "summary": "従業員のマイナンバーや運転免許証情報、顔写真・銀行口座情報も対象となる恐れがある。",
+          "detail": "業務委託先の東京電力ホールディングスも、ハイヤーを利用した役職員の情報が漏れた可能性があると明らかにした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100296&g=eco"
+        },
+        {
+          "id": "2026-11-02-econ-8",
+          "star": false,
+          "headline": "タイムズカー情報流出で集団訴訟の動き、企業過失の立証はハードル高く",
+          "summary": "被害者らが訴訟準備を進めているが、不正アクセスでは企業の過失立証が難しく長期化する傾向がある。",
+          "detail": "識者は、退会会員の情報を長期間保有していた点などを挙げ、企業にはより厳格な情報管理が求められると指摘している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110100260&g=eco"
+        },
+        {
+          "id": "2026-11-02-econ-9",
+          "star": false,
+          "headline": "ランサムウェア被害、身代金支払い後も日本企業の37%が追加要求を受ける",
+          "summary": "米セキュリティー会社の調査で判明。専門家は「支払いは解決ではない」と指摘する。",
+          "detail": "支払いでデータが戻っても確実な復旧手段とは言えず、盗まれた情報の削除も保証されないとして、自力で復旧できる体制づくりの重要性が指摘されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100100&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-02-pol-1",
+          "star": true,
+          "headline": "政府、「外国代理人」登録制度の検討を本格化",
+          "summary": "スパイ防止関連法制の柱として、外国政府の指示で情報収集・影響工作を行う個人・団体の登録を義務付ける方向。",
+          "detail": "悪質な行為には罰則を設ける方向で検討。外国の働きかけが属性を隠して政治家や官僚、国民に影響しかねないのに、これを直接規制する法律がないという問題意識が背景にある。一方で対象範囲が曖昧だと正当な意見表明が萎縮しかねないとの懸念もあり、慎重な制度設計が求められている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110100251&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-2",
+          "star": false,
+          "headline": "高市首相、「マナマ対話」にメッセージ 中東海峡の早期安定を訴え",
+          "summary": "ホルムズ海峡とバベルマンデブ海峡について、自由で安全な航行の確保への協力を呼びかけた。",
+          "detail": "バーレーンで開かれた国際会議にビデオメッセージを寄せ、湾岸諸国を含む国際社会との協力を強調。AIなど先端技術分野での連携も呼びかけた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110100390&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-3",
+          "star": false,
+          "headline": "茂木外相、サウジ外相と会談 ホルムズ海峡の航行回復へ連携",
+          "summary": "イラン情勢を踏まえ、ホルムズ海峡の航行回復に向けて緊密に連携することで一致した。",
+          "detail": "イエメン情勢の悪化への懸念も共有し、日本が策定中のGCC諸国向け経済・エネルギー強靱化協力計画の進捗も説明した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110100199&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-4",
+          "star": false,
+          "headline": "日米韓外相、北極圏協力・北朝鮮サイバー対処で覚書に署名",
+          "summary": "3カ国は「北極太平洋」作業部会を新設し、海上安全や緊急対応、経済連携を協議する。",
+          "detail": "北朝鮮の核・ミサイル開発の資金源とされるサイバー活動への対処や、拉致問題の解決に向けた連携でも一致した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100241&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-5",
+          "star": false,
+          "headline": "茂木外相、米国務長官と会談 ロシアに拘束された記者非難に謝意",
+          "summary": "ルビオ国務長官がロシアによる北海道新聞記者の拘束を非難したことへ謝意を伝えた。",
+          "detail": "両者は邦人保護での協力継続を確認し、インド太平洋情勢や国際刑事裁判所(ICC)への圧力問題についても意見を交わした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100221&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-6",
+          "star": false,
+          "headline": "福岡市長選、過去最多13人が立候補を届け出",
+          "summary": "現職の高島宗一郎市長は今期限りでの退任を表明している。",
+          "detail": "候補者多数のため法定得票数に届かない可能性があり、再選挙になる可能性も指摘されている。投開票は15日。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110100365&g=pol"
+        },
+        {
+          "id": "2026-11-02-pol-7",
+          "star": false,
+          "headline": "野党再編、カギは選挙区調整 「大きな固まり」の形成は困難",
+          "summary": "専門家は、野党が選挙協力で大きな勢力にまとまるのは難しいとの分析を示している。",
+          "detail": "各党の思惑の違いから選挙区調整が進みにくく、統一会派結成などの動きも停滞しているとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026103100289&g=pol"
+        }
+      ]
+    }
+  ]
+}
