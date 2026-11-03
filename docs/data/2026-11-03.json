@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-03",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-03-ai-1",
+          "star": true,
+          "headline": "Anthropic、IPO申請書を修正 7〜9月売上高は約170億ドル",
+          "summary": "SECへのS-1修正届出書で7〜9月期業績を開示。売上高は前年同期の約12.3倍に急増した。",
+          "detail": "7〜9月期の売上高は169.56億ドル、営業損益は5.67億ドルの赤字。AIの計算資源・インフラへの将来の支出約束額は総額約8954億ドルに上るが、うち約2138億ドル分は条件次第で解約可能なため全額が確定した債務ではない。株式数や公開価格帯は未公表で、Nasdaqに「ANT」で上場予定。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
+        },
+        {
+          "id": "2026-11-03-ai-2",
+          "star": true,
+          "headline": "Marvell、光通信のLumentumを約18兆円で買収",
+          "summary": "全額株式交換で企業価値は負債含め約1150億ドル。AIデータセンターの高速化に対応する。",
+          "detail": "AIデータセンターでのデータ通信需要急増を背景に、半導体と光通信技術を統合し、チップ内部からデータセンター間までの接続を提供する狙い。銅線から光通信への移行が進む中での大型再編で、買収完了は2028年上半期を見込む。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/"
+        },
+        {
+          "id": "2026-11-03-ai-3",
+          "star": false,
+          "headline": "ChatGPTの「Chat」と「Work」機能を統合",
+          "summary": "OpenAIが発表。基盤のCodexとの利用制限も12月に共通化予定。",
+          "detail": "大半の利用者にとって利用枠リセットの頻度は今より増えない見込み。即時応答モード「Instant」は利用枠を消費せず、利用枠の残量やリセット時刻は「設定」の「使用状況」から確認できる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/"
+        },
+        {
+          "id": "2026-11-03-ai-4",
+          "star": false,
+          "headline": "メルカリ、全社員のAIツール利用率100%達成",
+          "summary": "エンジニア1人当たりの開発量は導入前の7.6倍に。ただ「使いすぎ」の業務は一時停止して見直した。",
+          "detail": "利用の広がりが組織全体の成果向上に直結しない面もあり、AI活用に時間を使いすぎていた社員の業務を一時止めて見直す場面も。AI活用を推進してきたCTOが現在はCHRO・CAIO（最高AI責任者）を兼務し、AI前提の組織作りを主導している。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html"
+        },
+        {
+          "id": "2026-11-03-ai-5",
+          "star": false,
+          "headline": "AI学習への利用拒否をrobots.txtで一括指定へ",
+          "summary": "OpenAI・Google・Microsoftが対応を発表。Anthropicも実装を進める。",
+          "detail": "robots.txtの「User-Agent」行に共通のポリシートークンを指定し、「Disallow」で学習利用の拒否、「Allow」で許可の意向を示す仕組み。クロール自体の禁止ではなく既存パーサーへの影響もない。適用時期はOpenAIが数カ月以内、Googleは2027年、Microsoftは2027年2月1日からと企業ごとに異なる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/"
+        },
+        {
+          "id": "2026-11-03-ai-6",
+          "star": false,
+          "headline": "DRAM価格、2025年末の2倍に急騰",
+          "summary": "AI優先で汎用品が一段と品薄になっている。",
+          "detail": "PC向け指標品の大口取引価格が9カ月連続で上昇。データセンターのAI向け供給が優先されていることが背景で、PCやスマホ向け汎用品の品薄が強まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB269DP0W6A021C2000000/"
+        },
+        {
+          "id": "2026-11-03-ai-7",
+          "star": false,
+          "headline": "キオクシア株急落、業績見通しが市場予想届かず失望売り",
+          "summary": "10〜12月期の見通しが市場予想を下回り、株価が急落した。",
+          "detail": "AI向け半導体メモリー需要は旺盛だが成長スピードには陰りも見え始めている。巨額利益に伴う税負担の重さや、株主還元策が先送りされるとの懸念も株価の重荷になっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0209FTS6A101C2000000/"
+        },
+        {
+          "id": "2026-11-03-ai-8",
+          "star": false,
+          "headline": "東京エレクトロン株が一時6.8%高",
+          "summary": "半導体「スーパーサイクル」観測が強まり、株価が大幅上昇した。",
+          "detail": "2027年3月期の連結営業利益が前期比87%増の1兆1690億円になる見通しが好感された。生成AI関連投資の拡大を背景に、半導体市場が長期的な好況期に入ったとの見方が強まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL020WO0S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-03-ai-9",
+          "star": false,
+          "headline": "SCREENが大幅続落、4〜9月期営業益が市場予想に届かず",
+          "summary": "半導体製造装置のSCREENホールディングス株が大幅続落した。",
+          "detail": "AI向け半導体投資への期待が高い中、個別企業の決算内容への市場の目は厳しくなっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL025OZ0S6A101C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-03-econ-1",
+          "star": true,
+          "headline": "米ハイテク株、ハイパースケーラー5社の時価総額が1カ月で1兆ドル減少",
+          "summary": "3カ月ぶりに12兆ドルを下回った。決算が市場の期待を超えられず、むしろ売り材料に。",
+          "detail": "反転のきっかけとして期待された決算がかえって株価の重荷となった。英バークレイズもAI関連企業が先週「ひどい1週間」だったと指摘している。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB021CT0S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-03-econ-2",
+          "star": false,
+          "headline": "日経平均株価、終値208円安",
+          "summary": "キオクシア急落が目立ったが、他銘柄への売り波及は回避された。",
+          "detail": "前日比208円安の6万3081円86銭で取引を終えた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200654&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-3",
+          "star": false,
+          "headline": "日本株「ツルハシ神話」に陰り",
+          "summary": "AI投資に黄信号がともり、関連銘柄の増益期待が揺らいでいる。",
+          "detail": "AI関連の設備投資拡大の恩恵を受けるとされてきた日本の道具提供型銘柄への期待に陰りが見え始め、AI投資の持続性への懸念が広がっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-03-econ-4",
+          "star": false,
+          "headline": "10月の長期金利、8カ月ぶり低下",
+          "summary": "懸念の軸が物価上昇から景気先行きへ移っている。",
+          "detail": "新発10年物国債利回りが8カ月ぶりに低下した。市場の関心が物価上昇懸念から景気先行き懸念へと移っていることが背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL310CQTR31C26A0000000/"
+        },
+        {
+          "id": "2026-11-03-econ-5",
+          "star": true,
+          "headline": "GMO、不正アクセス問題で対応の甘さ露呈 熊谷社長が謝罪",
+          "summary": "役員報酬3割減額を発表。2024年の社内指摘を生かせず対応が後手に回った。",
+          "detail": "2026年8月にFX自動売買用サーバーへの不正アクセスが発生、発覚は10月20日で顧客からの問い合わせが契機だった。2024年4月に子会社の専門家が問題点を指摘していたが対策が不十分なまま社長まで報告が上がっていなかった。熊谷正寿会長兼社長は11月2日の記者会見で謝罪し、月額報酬の30%を3カ月間減額すると発表した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200565&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-6",
+          "star": false,
+          "headline": "「アララ」メールアドレス7700万件が流出",
+          "summary": "サントリーの従業員ら約10万人分の情報も含まれる。",
+          "detail": "企業の不正アクセス・情報流出が相次ぐ中での大規模事案で、原因や影響範囲の調査が進められている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200348&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-7",
+          "star": false,
+          "headline": "SBIとフジ・メディアHDが資本業務提携",
+          "summary": "メディア事業で合弁会社を設立する。",
+          "detail": "金融とメディアの連携強化を図る狙いとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200915&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-8",
+          "star": false,
+          "headline": "10月の新車販売、3.4%減",
+          "summary": "軽自動車が不調で、モデル改良の少なさも響いた。",
+          "detail": "前年同月比3.4%減少となり、軽自動車の不振が目立った。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200829&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-9",
+          "star": false,
+          "headline": "中部電力、浜岡原発の不正問題で経産省が改善命令へ",
+          "summary": "十分な弁明をしなかったことが改善命令の背景。",
+          "detail": "経済産業省は中部電力の対応が不十分と判断し、改善命令を出す方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200754&g=eco"
+        },
+        {
+          "id": "2026-11-03-econ-10",
+          "star": false,
+          "headline": "国債にそろり買いの手",
+          "summary": "投資家の組み入れ比率が1年半ぶりの高さとなった。",
+          "detail": "国債への買い意欲がじわりと戻っている状況がうかがえる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL020JOTS6A101C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-03-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、今週も審議続く",
+          "summary": "与党は採決へ協議、野党は首相の委員会出席を要求している。",
+          "detail": "衆議院で食料品の消費税減税関連法案を審議中。与党は「最善の物価高対策」として採決に向けた協議を進めたい考えだが、野党は高市首相の委員会出席などを求めている。立憲民主党は非課税世帯への5万円給付を柱とする対案を提示した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261101de69291"
+        },
+        {
+          "id": "2026-11-03-pol-2",
+          "star": true,
+          "headline": "防災庁が発足、初代担当相が国民に「緊急要請」",
+          "summary": "家具・家電の固定や水・食料の備蓄などを国民に呼び掛けた。",
+          "detail": "高市首相は発足式で省庁の縦割り打破を訓示。初代防災相の細野豪志氏は水・食料の備蓄や避難場所の確認などを求める「緊急要請」を発表し、自治体にも業務継続計画の点検などを要請した。年末に進捗を確認し、不十分なら勧告権の行使や予算への反映を検討する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200085&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-3",
+          "star": false,
+          "headline": "沖縄政策協議会、13年ぶりに6日開催へ",
+          "summary": "高市首相の出席も調整されている。",
+          "detail": "政府と沖縄県の関係者が議論する協議会が13年ぶりに開かれる見通しとなった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200853&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-4",
+          "star": false,
+          "headline": "憲法公布80年、初改正へ改憲派が前のめり",
+          "summary": "合意形成と世論の盛り上がりが実現へのカギとなる。",
+          "detail": "日本国憲法の公布80年に合わせ、初めての憲法改正を目指す動きが活発化しているが、各党間の合意形成が課題となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200561&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-5",
+          "star": false,
+          "headline": "中司規制改革担当相、自動運転の早期社会実装を推進",
+          "summary": "就任インタビューで方針を示した。",
+          "detail": "自動運転技術の社会実装を早期に進める考えを示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200908&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-6",
+          "star": false,
+          "headline": "英独国防相、次期戦闘機で意見交換",
+          "summary": "小泉防衛相とも協議する見通し。",
+          "detail": "英国とドイツの国防相が次期戦闘機計画について意見を交わした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110300202&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-7",
+          "star": false,
+          "headline": "国会答弁案をAIで作成、政府が試行導入",
+          "summary": "議員の質問内容の分析にもAIを活用する。",
+          "detail": "政府は国会答弁案の作成業務にAIを活用する試行を始めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110200090&g=pol"
+        },
+        {
+          "id": "2026-11-03-pol-8",
+          "star": false,
+          "headline": "中司行革相、秋の政策レビューで基金見直しを重要テーマに",
+          "summary": "財源の観点から基金の見直しを進める考えを示した。",
+          "detail": "行政改革の一環として、既存の基金事業の必要性を検証する方針。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261102de69764"
+        },
+        {
+          "id": "2026-11-03-pol-9",
+          "star": false,
+          "headline": "共産・志位議長、「アジア政党国際会議」出席のため訪韓",
+          "summary": "国際会議への出席を目的とした訪問。",
+          "detail": "共産党の志位和夫議長がアジア政党国際会議への出席のため韓国を訪れた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261102de69694"
+        },
+        {
+          "id": "2026-11-03-pol-10",
+          "star": false,
+          "headline": "関文科相、同志社理事長の会見に「十分な説明なされていない」",
+          "summary": "大学側の説明が不十分との見解を示した。",
+          "detail": "関文部科学相が同志社大学理事長の記者会見内容について見解を述べた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261102de69476"
+        }
+      ]
+    }
+  ]
+}
