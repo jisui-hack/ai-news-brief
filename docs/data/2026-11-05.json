@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-05",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-05-ai-1",
+          "star": true,
+          "headline": "OpenAI「Images 2.6」発表 生成速度50%向上・GIFアニメ生成も可能に",
+          "summary": "画像生成モデルの最新版。前世代より高速化し、簡易なGIFアニメ生成機能も追加された。",
+          "detail": "生成速度が前世代比で50%向上し、新たにGIFアニメーションの生成にも対応した。画像生成AI分野の競争が続く中でのアップデートとなる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/"
+        },
+        {
+          "id": "2026-11-05-ai-2",
+          "star": true,
+          "headline": "Apple、刷新版「Siri AI」を全開発者に開放",
+          "summary": "アプリ連携により、音声で予約・注文・配送状況確認などの操作が可能になる。",
+          "detail": "サードパーティアプリとの連携機能を全開発者に開放し、アプリを開かずに音声操作ができるようになる。開発者向けプレビューはiOS 27.3β等で開始、一般提供は数カ月後、対応アプリの申請受付は2027年春から。利用にはApple Intelligence対応端末が必要で13歳未満は対象外。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/"
+        },
+        {
+          "id": "2026-11-05-ai-3",
+          "star": true,
+          "headline": "Anthropic、AI応答のモデル由来を暗号技術で証明する「FlashProve」公開",
+          "summary": "zkSNARK技術で、応答が特定モデルから生成されたことをモデルの重みを明かさずに証明する研究プロトタイプ。",
+          "detail": "提供者がモデルの重みの短いコミットメントを公開し、各応答に誰でも（GPUなしでも）検証可能な証明を添付する仕組み。別モデルが生成した場合は検証が失敗する。現時点ではMoEモデル・1024トークン文脈・貪欲デコーディングに限定され、事後の不正検知にとどまる。米国時間11月2日発表。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/"
+        },
+        {
+          "id": "2026-11-05-ai-4",
+          "star": false,
+          "headline": "GitHub「Copilot Fusion」正式リリース",
+          "summary": "タスクの特性に応じて単一または複数のAIモデルを組み合わせるマルチモデル機能。",
+          "detail": "GitHub Universe 2026で発表。「Single」「Cascade」「Critique」の3パターンから実行方法を選び、Standard〜Maxの負荷レベルで品質とコストのバランスを調整できる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/"
+        },
+        {
+          "id": "2026-11-05-ai-5",
+          "star": true,
+          "headline": "NYTなど4社、新興ブレイブ・ソフトウエアを提訴 アンソロピック関連か",
+          "summary": "有料記事の無断収集・AI学習用販売が理由。ニューヨーク連邦地裁に提訴。",
+          "detail": "シカゴ・トリビューン発行元など3社と共同で提訴。有料記事をAI学習目的で違法に収集し、収集データを米アンソロピックなどに販売したとされる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN02B0X0S6A101C2000000/"
+        },
+        {
+          "id": "2026-11-05-ai-6",
+          "star": false,
+          "headline": "Google、データセンター賃料190億ドルを保証、新興テラウルフを支援",
+          "summary": "ケンタッキー州の施設向けで、テラウルフの資金調達を後押し。",
+          "detail": "2025年に続く賃料保証。保証額は約190億ドル（約3兆円）で、同施設は米アンソロピックが20年契約で借りる予定（電力容量401MW）。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN050KA0V01C26A1000000/"
+        },
+        {
+          "id": "2026-11-05-ai-7",
+          "star": false,
+          "headline": "米テック5社の「影の債務」500兆円、半年で9割増",
+          "summary": "AI投資の過熱に対する警戒感が強まっている。",
+          "detail": "ハイパースケーラー各社がオフバランスの資金調達を積み増しており、AI投資の規模拡大に市場の警戒感が高まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN311BD0R31C26A0000000/"
+        },
+        {
+          "id": "2026-11-05-ai-8",
+          "star": false,
+          "headline": "ルネサス、半導体設計全体をAIエージェント化",
+          "summary": "全製品にAIベース設計を適用する方針。",
+          "detail": "デジタル・アナログ混載の複雑なSoC設計などを効率化する基盤整備を進めており、全ての半導体製品をAIベースで設計することを目指している。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12113/"
+        },
+        {
+          "id": "2026-11-05-ai-9",
+          "star": false,
+          "headline": "英Arm、7〜9月期売上高27%増 データセンター向けが過去最高",
+          "summary": "AI需要を背景に、同期間の売上高として過去最高を記録。",
+          "detail": "売上高は前年同期比27%増の14億4300万ドル。ライセンス収入も50%増の7億7300万ドルに伸長した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN0509I0V01C26A1000000/"
+        },
+        {
+          "id": "2026-11-05-ai-10",
+          "star": false,
+          "headline": "米AMD、10〜12月期売上高66%増の見通し",
+          "summary": "AI向け半導体の好調が背景。市場予想を上回る見通しで株価が上昇。",
+          "detail": "売上高見通しは約170億ドルで市場予想平均の約163億ドルを上回った。発表後の時間外取引で株価が一時9%高となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN033H50T01C26A1000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-05-econ-1",
+          "star": true,
+          "headline": "東京株、2日続落 米中間選挙でAI規制強化懸念から半導体株に売り",
+          "summary": "日経平均午前終値は275円安。AI関連株に売りが広がった一方TOPIXは上昇。",
+          "detail": "5日の日経平均午前終値は前日比275円安の6万1913円51銭。米中間選挙で民主党が勝利しAI規制が強まるとの懸念から半導体・電子部品株に売りが広がった一方、ファーストリテイリングやトヨタなどAI以外の銘柄は堅調でTOPIXは1%超上昇した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110500514&g=eco"
+        },
+        {
+          "id": "2026-11-05-econ-2",
+          "star": true,
+          "headline": "三井化学、JSR買収検討 買収額1兆円超",
+          "summary": "国内化学業界最大のM&Aとなる可能性。半導体事業の強化が狙い。",
+          "detail": "JSRの親会社である官民ファンド・産業革新投資機構から株式を買い取る方向で検討。JSRは半導体の微細回路形成用樹脂材料で世界トップクラスのシェアを持ち、三井化学は成長分野と位置づける半導体事業の強化を図りたい考え。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401164&g=eco"
+        },
+        {
+          "id": "2026-11-05-econ-3",
+          "star": true,
+          "headline": "日銀9月会合議事要旨公表 「物価上振れリスク、利上げ適当」の声相次ぐ",
+          "summary": "多くの委員が政策金利1.25%への引き上げが適当との認識で一致。",
+          "detail": "多くの委員が基調的な物価上昇率が2%目標を超えて上振れるリスクを認識し、政策金利を1.25%に引き上げるのが適当との認識で一致。ある委員は「政策の局面が変化した」と発言。採決は賛成7人・反対2人だった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110500386&g=eco"
+        },
+        {
+          "id": "2026-11-05-econ-4",
+          "star": false,
+          "headline": "良品計画、クレジットカード番号109万件流出の可能性",
+          "summary": "「MUJI Card」で全桁番号や生年月日を含む情報が流出した可能性。",
+          "detail": "発行元クレディセゾンのカードで約109万件の顧客情報が流出した可能性。原因はメール配信サービス「アララメッセージ」のサーバーへの不正アクセスで、同サービス利用の他社でも流出が判明している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401144&g=eco"
+        },
+        {
+          "id": "2026-11-05-econ-5",
+          "star": false,
+          "headline": "長期金利、2.750%に低下 3カ月ぶり低水準",
+          "summary": "原油安などを背景に金利が低下した。",
+          "detail": "国内長期金利が2.750%まで低下し、3カ月ぶりの低水準となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL050HU0V01C26A1000000/"
+        },
+        {
+          "id": "2026-11-05-econ-6",
+          "star": false,
+          "headline": "米利下げ観測、12月実施の確率8割台に回復",
+          "summary": "米株高が観測の支えとなっている。",
+          "detail": "米連邦準備理事会（FRB）が12月に利下げを実施するとの観測確率が8割台まで回復した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL049V7TU6A101C2000000/"
+        },
+        {
+          "id": "2026-11-05-econ-7",
+          "star": false,
+          "headline": "日産自動車株価、半世紀ぶり安値",
+          "summary": "リーマン後の水準を割り込み、「小型株化」が迫る。",
+          "detail": "日産自動車の株価が半世紀ぶりの安値を記録し、リーマンショック後の水準を割り込んだ。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL042YKTU6A101C2000000/"
+        },
+        {
+          "id": "2026-11-05-econ-8",
+          "star": false,
+          "headline": "円相場、157円92〜93銭",
+          "summary": "5日正午現在の円相場。",
+          "detail": "5日正午現在の円相場は157円92〜93銭で取引された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110500517&g=eco"
+        },
+        {
+          "id": "2026-11-05-econ-9",
+          "star": false,
+          "headline": "キオクシア、個人投資家の含み損26%",
+          "summary": "株価急落後、損切り判断に苦慮する個人投資家が多い。",
+          "detail": "信用取引データの分析から、キオクシア株を保有する個人投資家の含み損が平均26%に達していることが判明した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB2928N0Z21C26A0000000/"
+        },
+        {
+          "id": "2026-11-05-econ-10",
+          "star": false,
+          "headline": "ニデック、融資枠6000億円を更新",
+          "summary": "三菱UFJ・三井住友が資金繰り支援を継続。",
+          "detail": "三菱UFJ銀行と三井住友銀行がニデックへの融資枠6000億円を更新し、資金繰り支援を継続する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401159&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-05-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、与党は6日の衆院通過目指す",
+          "summary": "野党は高市首相の答弁を聞いた上で採決対応を判断する方針。",
+          "detail": "食料品の消費税減税関連法案について与党は十分な審議を経たとして6日に委員会・本会議で採決し衆院通過を図る考え。野党は高市首相の答弁を聞いた上で採決に応じるか判断する方針。参院では特別委員会を設置し、委員長には自民・松村氏が就いた。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261105de70693"
+        },
+        {
+          "id": "2026-11-05-pol-2",
+          "star": true,
+          "headline": "財政審、高齢者の医療費窓口負担「原則3割」への拡大を議論",
+          "summary": "現役世代の社会保険料負担軽減につなげる狙い。",
+          "detail": "財政制度等審議会の分科会で、一定の負担能力がある高齢者の窓口負担を原則3割とする方向を目指すべきとの意見が相次いだ。年齢による一律区分を見直す狙いで、増田寛也会長代理は低所得者の受診機会確保を前提に「3割負担の対象拡大が今年の大きな目標」と発言した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401151&g=eco"
+        },
+        {
+          "id": "2026-11-05-pol-3",
+          "star": true,
+          "headline": "政府、対米投融資87兆円を維持 民主党過半数確実でも継続方針",
+          "summary": "米国の高関税権限は大統領令に基づくため議会構成の変化に左右されないとの判断。",
+          "detail": "米中間選挙で野党民主党が上下両院の過半数を握ることが確実になっても、日米関税交渉で合意した最大5500億ドル（約87兆円）の対米投融資を続ける方針。政府は投融資を大統領の予測不能な行動の影響を抑える手段と位置づけ、経済安保協力の強化や日本企業の海外展開につなげたい考え。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401124&g=eco"
+        },
+        {
+          "id": "2026-11-05-pol-4",
+          "star": false,
+          "headline": "安保関連3文書改定、10日から与党協議",
+          "summary": "防衛費増額・非核三原則・原潜導入の是非が争点。",
+          "detail": "自民・維新は安保関連3文書を年内に改定するため11月10日から協議開始の方向で調整。防衛費の増額幅と、高市首相が見直しを主張する非核三原則、原子力潜水艦導入の是非が主な争点で、12月上旬までに提言をまとめ首相に提出する方針。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401197&g=pol"
+        },
+        {
+          "id": "2026-11-05-pol-5",
+          "star": false,
+          "headline": "衆院憲法審、自民が起草委設置訴え 次回以降9条集中討議へ",
+          "summary": "各党がそれぞれの重点テーマを主張し、議論の進め方に温度差。",
+          "detail": "自民・新藤義孝氏が緊急事態条項の条文化に向けた起草委員会の早期設置を改めて要求し、次回以降の9条集中討議を提案。公明・国重徹氏は衆院議員の任期延長の検討を指摘、維新・阿部圭史氏は9条2項削除を主張、国民民主・玉木代表は議論テーマの絞り込みを求めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110500155&g=pol"
+        },
+        {
+          "id": "2026-11-05-pol-6",
+          "star": false,
+          "headline": "武部農水相、選挙時の献金疑惑に「事実確認の上、適切に処理」",
+          "summary": "公共事業受注企業からの献金が週刊誌で報じられた。",
+          "detail": "週刊誌報道によると、自民党支部が2014年・2021年衆院選時に公共事業受注企業4社から計85万円の献金を受けたとされ、政治資金パーティーでの景品提供も公選法抵触の可能性が指摘された。武部氏は献金当時は各社の受注を知らなかったとした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401146&g=pol"
+        },
+        {
+          "id": "2026-11-05-pol-7",
+          "star": false,
+          "headline": "政府、サイバー攻撃対策パッケージを週内取りまとめへ",
+          "summary": "不正アクセスによる情報流出が相次ぐ中、新対応チーム創設を検討。",
+          "detail": "不正アクセスによる情報流出が相次ぐことを背景に、「重大なサイバー攻撃事案に対応する新たなチーム」の早期運用開始を盛り込む緊急対策パッケージの取りまとめを週内に目指している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261105de70695"
+        },
+        {
+          "id": "2026-11-05-pol-8",
+          "star": false,
+          "headline": "高市首相「遺族支援含め全力対応」 スペイン列車事故で日本人2人死亡確認",
+          "summary": "10月にスペインで起きた高速鉄道事故で死亡が確認された。",
+          "detail": "10月にスペイン中部で起きた高速鉄道の追突事故で、乗客名簿にあった日本人2人の死亡を外務省幹部が確認した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261105de70726"
+        },
+        {
+          "id": "2026-11-05-pol-9",
+          "star": false,
+          "headline": "米中間選挙の与党敗北受け、高市首相がトランプ氏との早期会談模索",
+          "summary": "トランプ政権が外交的成果を求め中朝ロに接近する可能性を日本政府が警戒。",
+          "detail": "国内で苦境に立つトランプ政権が外交的成果を求め北朝鮮・中国・ロシアに接近する可能性を日本政府が警戒。朝鮮戦争終結や在韓米軍縮小、同盟国への投資圧力への懸念もあり、高市首相はASEAN関連会合に合わせた日米首脳会談を模索している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110401033&g=pol"
+        },
+        {
+          "id": "2026-11-05-pol-10",
+          "star": false,
+          "headline": "衆院定数31削減、自民・維新・国民が条文化へ協議",
+          "summary": "比例代表の議席削減を盛り込んだ合意文書の法制化に向けた協議。",
+          "detail": "3党の実務者が比例代表の議席を31減らす合意文書の法制化に向けて意見を交わした。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261104de70400"
+        }
+      ]
+    }
+  ]
+}
