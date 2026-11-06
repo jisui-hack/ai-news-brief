@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-06",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-06-ai-1",
+          "star": true,
+          "headline": "米NVIDIA株が9%急落、時価総額約71兆円消失",
+          "summary": "米中間選挙で民主党が大勝し、データセンター建設への規制強化が警戒されたことが要因。",
+          "detail": "5日の米国市場でAI・半導体株が総崩れとなり、終値時価総額は約4兆4000億ドル（約694兆円）に縮小、前日終値から約71兆円規模が失われた。背景には米中間選挙で野党・民主党が大勝し、データセンター建設への規制強化を警戒する声が広がったことがある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN04BUH0U6A101C2000000/"
+        },
+        {
+          "id": "2026-11-06-ai-2",
+          "star": true,
+          "headline": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表",
+          "summary": "Firefoxで未知の深刻な脆弱性81件を発見。防御側向けに限定提供。",
+          "detail": "汎用モデル「GPT-6 Astra」をベースに、脆弱性発見・攻撃検証能力を強化。Firefoxで未知の脆弱性81件、Linuxカーネルで948件の脆弱性に実動エクスプロイトを開発しMozilla等へ修正を提供した。悪用を防ぐため、本人確認済みの防御側向けプログラム「Daybreak Red」承認ユーザーに限定して提供される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
+        },
+        {
+          "id": "2026-11-06-ai-3",
+          "star": true,
+          "headline": "Anthropic、「Claude」に家計管理機能「Personal Finance」追加",
+          "summary": "銀行口座と連携し、支出分析などを自然言語で質問できる。米国でベータ提供。",
+          "detail": "Plaid経由で銀行・クレジットカード口座（最大16行）を連携し、支出内訳や二重請求の指摘、APR等の用語説明などを自然言語で質問できる。口座情報は読み取り専用で資金移動はできず、会話はAIモデルの学習に使われない。米国のPro/Max/Ultraプラン利用者向けに順次提供。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/"
+        },
+        {
+          "id": "2026-11-06-ai-4",
+          "star": false,
+          "headline": "米下院、NVIDIAのフアンCEOを聴取へ",
+          "summary": "中国への接近疑惑を調査する一環。",
+          "detail": "中国との関係を巡る疑惑について、米下院がNVIDIAのジェンスン・フアンCEOを聴取する方針。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN0608Q0W6A101C2000000/"
+        },
+        {
+          "id": "2026-11-06-ai-5",
+          "star": false,
+          "headline": "非営利機関METR、Anthropic内部を調査 根拠の大半は非公開",
+          "summary": "「AIがAI開発を加速しているか」を検証した報告書。結論の根拠は大半が黒塗りに。",
+          "detail": "AIリスク評価機関METRがAnthropicの協力で調査し、AIの能力向上ペースは2024年3月〜2025年10月と比べ約2倍になった可能性が高く、要因の大半はAI活用自体にあると結論。ただし結論に最も影響した証拠の多くは、他社の開発を加速させる機密情報だとしてAnthropicの判断で公開版から削除された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/"
+        },
+        {
+          "id": "2026-11-06-ai-6",
+          "star": false,
+          "headline": "Meta、AIエージェント「Muse」に音声対話機能を追加",
+          "summary": "表情豊かなアバターと会話できる機能をまず米国で提供開始。",
+          "detail": "MetaのAIエージェント「Muse」に音声対話機能が追加され、表情豊かなアバターとの会話が可能になった。まず米国で提供される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/"
+        },
+        {
+          "id": "2026-11-06-ai-7",
+          "star": false,
+          "headline": "OpenAI、データセンター立地地域への約束と政策提言を発表",
+          "summary": "電力費の全額負担や公職者とのNDA不使用など、地域住民への配慮策。",
+          "detail": "データセンターを立地する地域住民への配慮として、電力費の全額負担や公職者とのNDA（守秘義務契約）不使用などを盛り込んだ方針・政策提言を発表した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/"
+        },
+        {
+          "id": "2026-11-06-ai-8",
+          "star": false,
+          "headline": "PFN、翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開",
+          "summary": "0.8B〜31Bの4サイズ。オンデバイス対応で、一定規模以下なら商用利用も可能。",
+          "detail": "Preferred Networksが日英・多言語翻訳に特化したLLMをオープンウェイトで公開。0.8B、2B、8B、31Bの4サイズがあり、最小モデルでもGoogleの「TranslateGemma」等を上回る性能をうたう。スマホ等オンデバイスでの実行に対応し、直近事業年度の収入10億円以下の企業・個人は商用利用も可能。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/"
+        },
+        {
+          "id": "2026-11-06-ai-9",
+          "star": false,
+          "headline": "OpenAI、画像生成「Images 2.6」発表",
+          "summary": "生成速度50%向上、GIFアニメの生成も可能に。",
+          "detail": "画像生成モデルの最新版で、前世代と比べ生成速度が50%向上。簡易なGIFアニメーションの生成機能も新たに追加された。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/"
+        },
+        {
+          "id": "2026-11-06-ai-10",
+          "star": false,
+          "headline": "中国テンセント・ムーンショットAI、サイバー攻撃能力を抑制したAIモデルを公開",
+          "summary": "AIモデルの悪用による攻撃能力向上を抑える設計上の工夫を施した。",
+          "detail": "中国のテンセントとムーンショットAIが、サイバー攻撃への悪用を抑制する設計を施したAIモデルを公開した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM046OB0U6A101C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-06-econ-1",
+          "star": true,
+          "headline": "日経平均、一時4300円超安・半年ぶり6万円割れ",
+          "summary": "米中間選挙後のAIインフラ投資不安が拡大、米株急落の流れが東京市場にも波及。",
+          "detail": "6日の東京市場で日経平均は一時前日比4300円超下落し、6万円を半年ぶりに下回った（6万円割れは5月20日以来）。米中間選挙で民主党が大勝し、AIインフラ投資にブレーキがかかるとの不安が拡大。5日の米国株市場でAI・半導体株が総崩れとなった流れを受け、東京市場でも取引開始直後から売りが膨らんだ。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600274&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-2",
+          "star": true,
+          "headline": "日銀12月利上げ観測が後退、市場予想5割台前半に",
+          "summary": "株価急落を受け、早期利上げを見込む声が弱まった。",
+          "detail": "スワップ取引（OIS）市場で、12月17〜18日の日銀金融政策決定会合後の利上げ確率が一時5割台前半まで低下した。AI投資不安による日米株価の急落で、市場の早期利上げ観測が後退したとみられる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL060BJTW6A101C2000000/"
+        },
+        {
+          "id": "2026-11-06-econ-3",
+          "star": false,
+          "headline": "円相場、157円台に上昇",
+          "summary": "対ドル・対ユーロで大幅高。",
+          "detail": "6日の東京外国為替市場で円相場は157円台まで上昇し、対ドル・対ユーロともに大幅高となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600564&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-4",
+          "star": false,
+          "headline": "米中間選挙「青い波」が呼ぶ円高シナリオ",
+          "summary": "AI投資にブレーキがかかるとの警戒が円高要因に。",
+          "detail": "米中間選挙で民主党が大勝した「青い波」を受け、AI投資にブレーキがかかるとの警戒感が強まり、円高が進むシナリオが意識されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB04A0U0U6A101C2000000/"
+        },
+        {
+          "id": "2026-11-06-econ-5",
+          "star": false,
+          "headline": "9月実質賃金2.2%増、9カ月連続増",
+          "summary": "物価上昇の鈍化が賃金の実質的な押し上げにつながった。",
+          "detail": "9月の実質賃金は前年同月比2.2%増となり、9カ月連続の増加となった。物価上昇の鈍化が背景にある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600248&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-6",
+          "star": false,
+          "headline": "ソフトバンクG、ABBロボット事業買収に中国当局が禁止通知",
+          "summary": "買収額約850億円、中国当局は理由を非公表。",
+          "detail": "ソフトバンクグループは、ABBの産業用ロボット事業（中国事業分）の買収について、中国当局から禁止する通知を4日に受けたと発表。理由は公表していない。買収額は53億7500万ドル（約850億円）で、2026年内の完了を目指していた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600538&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-7",
+          "star": false,
+          "headline": "ロシア、JT資産を管理下に 対日圧力強化の一環か",
+          "summary": "赤沢経産相は「至急撤回要求」を表明し抗議。",
+          "detail": "ロシア政府がJT（日本たばこ産業）の資産を管理下に置いたことが判明。対日圧力強化の一環との見方があり、赤沢経産相は措置の至急撤回を要求し抗議する考えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600409&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-8",
+          "star": false,
+          "headline": "トヨタ、中国事業不振を27年に反転攻勢へ",
+          "summary": "体制再編でEV開発を強化する方針。",
+          "detail": "トヨタ自動車は中国事業の不振について、2027年に体制再編とEV開発強化で反転攻勢をかける方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110501075&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-9",
+          "star": false,
+          "headline": "防衛財源、国債への依存をけん制",
+          "summary": "財政審が発行前提の議論に慎重な姿勢を示した。",
+          "detail": "財政制度等審議会は、防衛財源を国債発行に依存することについてけん制し、発行を前提とした議論には慎重な姿勢を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110501132&g=eco"
+        },
+        {
+          "id": "2026-11-06-econ-10",
+          "star": false,
+          "headline": "中部電に業務改善命令 浜岡原発データ不正で経産省",
+          "summary": "経産省がデータ不正を理由に業務改善命令を出した。",
+          "detail": "経済産業省は、浜岡原子力発電所に関するデータ不正を理由に、中部電力に業務改善命令を出した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600241&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-06-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、6日午後に衆院通過",
+          "summary": "高市首相は給付対象を現役就業者の「3割以上」とする方針を示した。",
+          "detail": "消費税減税関連法案は自民・維新の賛成多数で6日午後の衆院本会議で可決、衆院を通過する見通し。高市首相は衆院財金委で、中低所得者向け給付「就業者負担軽減支援金」の対象を現役就業者の「3割以上」とする方針を示し、従来の参考値（年収100万〜350万円・約2000万人程度）からの対象拡大に言及した。野党は財源や給付制度設計の不透明さを理由に反対している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600299&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-2",
+          "star": false,
+          "headline": "衆院定数31削減、自民・維新・国民が統一名簿など詰めの協議へ",
+          "summary": "比例代表の議席削減に向けた3党の実務者協議が続く。",
+          "detail": "自民・維新・国民民主の3党実務者が、比例代表の議席を31減らす案について統一名簿の扱いなど詰めの協議を進める。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261106de71412"
+        },
+        {
+          "id": "2026-11-06-pol-3",
+          "star": false,
+          "headline": "武部農水相、公選法違反疑惑を否定 企業献金は返金へ",
+          "summary": "政治資金パーティーの景品提供について「地元から持ち寄られたもの」と説明。",
+          "detail": "週刊文春が、参加費を超える高額な景品を出した政治資金パーティーの抽選会について違法な寄付の可能性を報じたのに対し、武部農水相は「景品は地元から持ち寄られたもの」と説明し疑惑を否定。一方、2014年・2021年衆院選で公共事業受注企業から受けた献金については事実を確認したとして返金する考えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600544&g=eco"
+        },
+        {
+          "id": "2026-11-06-pol-4",
+          "star": false,
+          "headline": "沖縄政策協議会、13年ぶり開催 高市首相「基地負担軽減を目に見える形で」",
+          "summary": "9月の知事選で初当選した古謝知事の要望で再開。",
+          "detail": "政府は6日、沖縄県と経済振興策・米軍基地問題を話し合う「沖縄政策協議会」を首相官邸で開催。開催は2013年以来13年ぶりで、9月の県知事選で初当選した古謝玄太知事の要望による。高市首相は基地負担軽減を「目に見える形で」示すと表明。2027年度沖縄振興費の概算要求は2897億円で、県が求める3000億円を6年連続で下回っている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600115&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-5",
+          "star": false,
+          "headline": "自衛隊の中東情報収集・海賊対処活動、期限を1年延長決定",
+          "summary": "政府が活動期限の1年延長を決定した。",
+          "detail": "政府は、自衛隊による中東での情報収集活動と海賊対処活動について、活動期限を1年延長することを決定した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261106de71400"
+        },
+        {
+          "id": "2026-11-06-pol-6",
+          "star": false,
+          "headline": "政府、サイバー対策強化に予備費約100億円の支出を決定",
+          "summary": "AIによる政府システム脆弱性チェックなどに充てる。",
+          "detail": "政府は6日の閣議で、サイバー攻撃による情報漏えいが相次ぐことを受け、2026年度予算の予備費から約100億円の支出を決定。AIによる政府システムの脆弱性チェック（約20億円）、警察のサイバー攻撃捜査体制強化（約41億円）、デジタル庁のセキュリティー強化（約38億円）が柱。「サイバー救援隊」創設を含む緊急対策も同日決定した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600404&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-7",
+          "star": false,
+          "headline": "木原官房長官「中国は重要な隣国」 台湾有事答弁から1年",
+          "summary": "台湾有事に関する過去の答弁から1年を経てのコメント。",
+          "detail": "木原官房長官は、台湾有事に関する過去の答弁から1年を迎えたことに関連し、「中国は重要な隣国」との認識を改めて示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600410&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-8",
+          "star": false,
+          "headline": "高市首相「トランプ氏と協力」 米中間選挙結果へのコメントは避ける",
+          "summary": "米中間選挙の結果自体への評価は控えた。",
+          "detail": "高市首相は米中間選挙の結果について直接的なコメントを避けつつ、「トランプ氏と協力していく」との考えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110501020&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-9",
+          "star": false,
+          "headline": "高市首相、仏大統領にEU製品優遇への懸念を伝達",
+          "summary": "EUが自国製品を優遇する動きへの強い懸念を表明。",
+          "detail": "高市首相はフランス大統領との会談で、EUが自国製品を優遇する動きに対して強い懸念を伝達した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110500963&g=pol"
+        },
+        {
+          "id": "2026-11-06-pol-10",
+          "star": false,
+          "headline": "日銀ETF売却益、成長投資に活用 特会つなぎ国債の償還財源に",
+          "summary": "高市首相が日銀ETF売却益の使途方針を示した。",
+          "detail": "高市首相は、日銀が保有するETFの売却益を成長投資に活用し、特別会計のつなぎ国債の償還財源に充てる方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110600477&g=eco"
+        }
+      ]
+    }
+  ]
+}
