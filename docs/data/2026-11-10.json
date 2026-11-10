@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-10",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-10-ai-1",
+          "star": true,
+          "headline": "Anthropic、最上位モデル「Claude Fable 5.2」「Claude Mythos 5.2」を発表",
+          "summary": "出力速度は前モデルから最大30%向上し、API料金は約2割値下げされた。",
+          "detail": "Fable 5.2はセーフガードを強めた一般提供版、Mythos 5.2はセーフガードを緩めた審査制プログラム提供版で、両者は同じ基盤モデル。コーディング系ベンチマーク「FrontierCode 2.0」でOpus 5.5やGPT-6 Astraを上回った。API料金は入力100万トークン8ドル・出力40ドルで、5.1から約2割の値下げとなる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/"
+        },
+        {
+          "id": "2026-11-10-ai-2",
+          "star": true,
+          "headline": "NVIDIAファンCEOにスパイ疑惑、トランプ氏「FBIが捜査」 株価4%安",
+          "summary": "交際していた女性が中国政府の工作員で、AI政策情報が流出した可能性が指摘されている。",
+          "detail": "女性はシンガポールのデータセンター運営企業「メガスピード」と関係があるとされる。米議会は超党派で事情聴取の方針を示し、NVIDIAは機密情報の中国側への漏洩有無を調査中。報道を受け株価は4%安となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN100850Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-10-ai-3",
+          "star": false,
+          "headline": "Google、AI向け半導体を4種類に拡大 NVIDIA対抗で外販強化",
+          "summary": "第8世代TPUに機密データ処理向け「8tx」と大規模AIエージェント向け「8i Max」を追加した。",
+          "detail": "クラウド向けのAI半導体の品ぞろえを広げ、NVIDIA製GPUに対抗して外販を強化する狙い。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/"
+        },
+        {
+          "id": "2026-11-10-ai-4",
+          "star": false,
+          "headline": "Meta、最小・低コストのAIモデル「Muse Ember」発表",
+          "summary": "上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現したとしている。",
+          "detail": "軽量・低コスト路線のモデルを投入し、推論コストを重視する用途での採用を狙う。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/"
+        },
+        {
+          "id": "2026-11-10-ai-5",
+          "star": false,
+          "headline": "AdobeとDisneyが戦略的提携 Disney専用の生成AIモデル開発へ",
+          "summary": "新プラットフォーム「Firefly Foundry」でDisneyの知的財産を用いた専用モデルを共同開発する。",
+          "detail": "Disney作品のキャラクターや世界観を踏まえた生成AI活用を見込んでいる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/"
+        },
+        {
+          "id": "2026-11-10-ai-6",
+          "star": false,
+          "headline": "Sakana AI、来秋にも上場検討 日米市場視野",
+          "summary": "国内AIスタートアップのSakana AIが、日米両市場での上場を検討していると報じられた。",
+          "detail": "具体的な上場時期や市場選定は今後詰めるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110901039&g=eco"
+        },
+        {
+          "id": "2026-11-10-ai-7",
+          "star": false,
+          "headline": "マナビー、AIで個別最適の教育を東南アジアに展開",
+          "summary": "日本のAI教育スタートアップ、マナビーの本間CEOが事業拡大の方針を語った。",
+          "detail": "AIを活用した個別最適化学習サービスを東南アジア市場に広げる計画。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC196M70Z11C26A0000000/"
+        },
+        {
+          "id": "2026-11-10-ai-8",
+          "star": false,
+          "headline": "クラウドインフラのシェア、AWSが26%に後退 Google Cloudは16%に上昇",
+          "summary": "2026年第3四半期の調査で、市場全体は過去最大の高成長率となった。",
+          "detail": "AWSのシェアは縮小傾向が続く一方、Google CloudはAI需要を背景にシェアを伸ばしている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/"
+        },
+        {
+          "id": "2026-11-10-ai-9",
+          "star": false,
+          "headline": "NII、「オープンなAIモデル」に関する資料を無料公開",
+          "summary": "国立情報学研究所が「LLM-jp」の開発手法などを解説する資料を公開した。",
+          "detail": "国内でのオープンモデル開発のノウハウ共有を目的としている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/"
+        },
+        {
+          "id": "2026-11-10-ai-10",
+          "star": false,
+          "headline": "JX金属、光学系部品のオキサイドに7%超出資 AI・量子分野狙う",
+          "summary": "AI・量子コンピューター分野をにらんだ戦略出資を実施した。",
+          "detail": "光学系部品メーカーへの出資を通じて関連技術の取り込みを図る。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC093830Z01C26A1000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-10-econ-1",
+          "star": true,
+          "headline": "日銀10月会合、「利上げは早く」の声相次ぐ",
+          "summary": "10日公表の議事要旨で、基調的な物価が既に2%目標に達したとの見方が共有された。",
+          "detail": "複数の委員が政策金利を中立水準へ早期に移すべきと主張。ある委員は年度末にかけてCPIが3%を超えると予想し、引き上げを後押しする材料とした。来年春の賃金交渉の動向が、2%定着を見極める上での焦点になるとされる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000373&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-2",
+          "star": true,
+          "headline": "三井化学、JSRを1.8兆円で買収 政投銀と共同、半導体材料を強化",
+          "summary": "産業革新投資機構(JIC)からJSR株式を取得し、国内化学業界最大のM&Aとなる。",
+          "detail": "株式取得額は約1.39兆円（うち2000億円は日本政策投資銀行が負担）、有利子負債約4400億円を含めた総額は約1.84兆円。フォトレジストで世界トップシェアを持つJSRの獲得により、AI需要で伸びる半導体材料事業を成長の柱にする狙い。2035年度までに年400億円の利益上積みを見込む。完了は2027年度下半期の予定。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900366&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-3",
+          "star": false,
+          "headline": "2026年度上半期の経常黒字、17兆1482億円 過去2番目の規模",
+          "summary": "財務省発表。原油高騰で前年から縮小したものの、過去2番目の大きさとなった。",
+          "detail": "資源高による貿易収支の悪化を、海外投資からの所得収支が押し上げる構図が続いている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000254&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-4",
+          "star": false,
+          "headline": "9月消費支出、6.8%減 10カ月連続のマイナス",
+          "summary": "総務省発表。天候不順が響き、消費支出の低迷が長期化している。",
+          "detail": "10カ月連続の前年割れとなり、個人消費の弱さが続いていることを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000237&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-5",
+          "star": false,
+          "headline": "個人向け国債が人気、今年度発行8兆円超えで最高更新",
+          "summary": "個人向け国債の発行額が過去最高を更新し、銀行界は預金流出を警戒している。",
+          "detail": "金利上昇を背景に個人の国債需要が高まり、銀行預金からの資金シフトが懸念されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900644&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-6",
+          "star": false,
+          "headline": "中小企業の賃上げ、余地大きい 経団連が27年春闘指針で支援策検討",
+          "summary": "経団連の筒井会長が、来年の春闘指針で中小企業の賃上げ支援策を検討する考えを示した。",
+          "detail": "大企業との格差是正を念頭に、具体的な支援内容を今後詰めるとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900865&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-7",
+          "star": false,
+          "headline": "景気動向指数、9月は2カ月ぶり上昇",
+          "summary": "内閣府発表。自動車生産の回復が指数を押し上げた。",
+          "detail": "2カ月ぶりの上昇となったが、個人消費の弱さなど懸念材料は残る。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900534&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-8",
+          "star": false,
+          "headline": "ホンダ、米国で4700億円投資 HV需要対応で新工場",
+          "summary": "米国でのハイブリッド車需要拡大に対応し、大規模投資を決めた。",
+          "detail": "新工場の建設を通じて現地生産体制を強化する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000167&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-9",
+          "star": false,
+          "headline": "ANAとベトナム航空、共同事業に合意 ダイヤ最適化・共通運賃も",
+          "summary": "両社が包括的な協業に合意し、路線網や運賃面での連携を強化する。",
+          "detail": "ダイヤの最適化や共通運賃の導入などを通じ、相互の需要を取り込む狙い。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900744&g=eco"
+        },
+        {
+          "id": "2026-11-10-econ-10",
+          "star": false,
+          "headline": "7月30日の円買い介入、過去最大7.9兆円 3日間で15兆円",
+          "summary": "財務省が、7月30日に実施した円買い介入が単日で過去最大の規模だったと公表した。",
+          "detail": "前後3日間の介入総額は15兆円に達し、急速な円安進行への対応の大きさが浮かんだ。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900207&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-10-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、11日に参院審議入りで与野党が正式合意",
+          "summary": "参院議院運営委員会の理事会で、11日の参院本会議で審議入りすることに合意した。",
+          "detail": "高市首相の出席を求めて質疑を行うことも合意内容に含まれる。前日には自民執行部が、衆院採決を棄権した石破氏らを処分し、参院審議に向けて党内の結束を図った。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73298"
+        },
+        {
+          "id": "2026-11-10-pol-2",
+          "star": true,
+          "headline": "高市内閣支持率53%、不支持32% NHK世論調査",
+          "summary": "支持率は10月調査から2ポイント上昇し、不支持は変わらなかった。",
+          "detail": "自民党の政党支持率は35.9%、「支持なし」は37.1%。支持率の上昇は不支持の増加を伴わない形で起きている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261109de72711"
+        },
+        {
+          "id": "2026-11-10-pol-3",
+          "star": false,
+          "headline": "安保3文書改定へ、自民・維新が協議開始",
+          "summary": "政府側が防衛力強化の方向性を示し、与党間の協議が本格化した。",
+          "detail": "防衛費や核政策の扱いが今後の論点になるとみられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73284"
+        },
+        {
+          "id": "2026-11-10-pol-4",
+          "star": false,
+          "headline": "自民、総務会で衆院議員定数31削減法案を了承",
+          "summary": "週内にも国会提出する方針で、比例は各ブロックで2〜5議席減とする調整。",
+          "detail": "定数削減を巡る与党内の手続きが進んでいる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73430"
+        },
+        {
+          "id": "2026-11-10-pol-5",
+          "star": false,
+          "headline": "石破氏・小渕氏ら、消費減税法案の採決棄権で戒告処分",
+          "summary": "自民党執行部が、参院審議に向け党内の結束を図るため処分に踏み切った。",
+          "detail": "衆院本会議での採決を棄権した議員らが対象となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900659&g=pol"
+        },
+        {
+          "id": "2026-11-10-pol-6",
+          "star": false,
+          "headline": "高市首相、AI対応で国際連携を呼び掛け",
+          "summary": "仏主催の会合にオンライン出席し、高性能AIの進展を踏まえた国際社会の連携強化を訴えた。",
+          "detail": "AIガバナンスを巡る国際協調の必要性を発信した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73220"
+        },
+        {
+          "id": "2026-11-10-pol-7",
+          "star": false,
+          "headline": "高市首相、来週フィリピン・中国を訪問 ASEAN・APEC出席",
+          "summary": "外交日程が発表され、来週のASEAN関連会合とAPECへの出席が予定されている。",
+          "detail": "中国訪問時の首脳会談の有無が注目されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900896&g=pol"
+        },
+        {
+          "id": "2026-11-10-pol-8",
+          "star": false,
+          "headline": "G7外相会合が開幕、台湾海峡の現状変更の試みに強く反対",
+          "summary": "日本からは茂木外相が出席し、AI悪用への対処で協調を呼び掛けた。",
+          "detail": "台湾海峡情勢への懸念を共同で表明した。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73219"
+        },
+        {
+          "id": "2026-11-10-pol-9",
+          "star": false,
+          "headline": "マーシャル諸島のハイネ大統領、24日に来日へ",
+          "summary": "高市首相との会談も予定されている。",
+          "detail": "両国間の外交関係強化が見込まれる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000419&g=pol"
+        },
+        {
+          "id": "2026-11-10-pol-10",
+          "star": false,
+          "headline": "ドイツ国防相、日英伊の次期戦闘機計画に消極的か",
+          "summary": "メルツ首相との間で、国際共同開発の枠組みを巡る意見の違いが報じられた。",
+          "detail": "日英伊が進める次期戦闘機の国際共同開発計画への、ドイツの関与の可能性が取り上げられている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000151&g=pol"
+        }
+      ]
+    }
+  ]
+}
