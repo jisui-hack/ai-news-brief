@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-11",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-11-ai-1",
+          "star": true,
+          "headline": "TSMC、AnthropicとOpenAIに最大10億ドル出資",
+          "summary": "AI向け先端半導体で収益を上げるTSMCが、両社の株式取得にそれぞれ最大5億ドルを投じる。",
+          "detail": "TSMCの取締役会が承認。Anthropicには新規株式公開(IPO)時の公開価格で普通株を、OpenAIには優先株を取得する。AI向け最終需要を支える異例の投資で、半導体産業への戦略投資を担う新会社の設立(出資上限5億ドル)も同時に承認された。米中間選挙後のAI株急落を受けた逆風の中での出資表明となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM10BEE0Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-11-ai-2",
+          "star": true,
+          "headline": "Anthropic、IPO目論見書でロックアップ条件判明",
+          "summary": "上場後180日の一般的なロックアップに加え、一部幹部・従業員は上場直後からの売却が可能な仕組みが明らかになった。",
+          "detail": "更新されたS-1登録届出書で開示。通常の180日ロックアップは既存株主全体に適用されるが、一部の幹部・従業員は例外的に早期売却ができる設計で、SpaceXの上場時にはなかった特徴とされる。上場直後の売り圧力への懸念も指摘されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN10CFO0Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-11-ai-3",
+          "star": true,
+          "headline": "ソフトバンクG、中間決算で768億円の赤字に転落",
+          "summary": "米国で進めるAI向けデータセンター事業の発電関連設備計画見直しで5972億円の損失を計上した。",
+          "detail": "2026年9月中間連結決算は純損益768億円の赤字で、前年同期の2兆9240億円の黒字から大きく悪化、中間決算での赤字は3年ぶり。投資利益も1兆7257億円と前年から2兆円超減少した。一方でOpenAIへは10月に300億ドルの追加出資を完了し、累計出資額は646億ドル(持ち分約13%)に達している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000777&g=eco"
+        },
+        {
+          "id": "2026-11-11-ai-4",
+          "star": false,
+          "headline": "Google、最上位AIモデル「Gemini 4 Carbon」一般提供開始",
+          "summary": "サイバーセキュリティや長時間の複雑な作業に強みを持つ最上位モデルで、開発者・企業向けに提供を始めた。",
+          "detail": "コーディング評価「CursorBench 4.0」で約59%のスコアを記録。Geminiアプリでは最上位プラン「Google AI Ultra」限定での提供となる。開発ツール「Google Antigravity」では複数エージェントが連携する「/swarm」機能のプレビューも開始した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/"
+        },
+        {
+          "id": "2026-11-11-ai-5",
+          "star": false,
+          "headline": "Anthropic、Claudeに共同編集の「Sheets」「Whiteboards」追加",
+          "summary": "スプレッドシートとホワイトボードをClaudeと共同編集できる新機能をベータ公開した。",
+          "detail": "Claude Sheetsはタブ・数式・書式設定に対応し、Claudeによる変更箇所がハイライト表示される。Whiteboardsは会話内容をタイムラインや担当者付きのボードに整理でき、Lucid・Miro・Vani by Zohoと連携する。全有料プランが対象で、Web・デスクトップ・モバイルで順次利用可能になる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/"
+        },
+        {
+          "id": "2026-11-11-ai-6",
+          "star": false,
+          "headline": "OpenAI、企業向け新機能「Businesses in ChatGPT」をベータ公開",
+          "summary": "自社への言及数やサイトのクリック数を確認できる分析機能と、顧客向けAIチャットを企業に提供する。",
+          "detail": "企業は「Business Hub」に自社情報を登録し、ChatGPT上での言及状況を分析できる。米国のEC事業者などは「Business Agent」を作成し、顧客対応チャットや広告として配信できる。一部機能は米国の企業が対象で、今後対象市場を広げる方針。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/"
+        },
+        {
+          "id": "2026-11-11-ai-7",
+          "star": false,
+          "headline": "Google、AI向け半導体を4種類に拡大",
+          "summary": "第8世代TPUに機密データ処理向け「8tx」と大規模AIエージェント向け「8i Max」を追加した。",
+          "detail": "NVIDIA製GPUに対抗し、クラウド向けAI半導体の品ぞろえを広げて外販を強化する狙い。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/"
+        },
+        {
+          "id": "2026-11-11-ai-8",
+          "star": false,
+          "headline": "Meta、最小・低コストのAIモデル「Muse Ember」発表",
+          "summary": "上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現したとしている。",
+          "detail": "推論コストを重視する用途での採用を狙った軽量モデル。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/"
+        },
+        {
+          "id": "2026-11-11-ai-9",
+          "star": false,
+          "headline": "AdobeとDisneyが戦略的提携 Disney専用の生成AIモデル開発へ",
+          "summary": "新プラットフォーム「Firefly Foundry」でDisneyの知的財産を用いた専用モデルを共同開発する。",
+          "detail": "Disney作品のキャラクターや世界観を踏まえた生成AI活用を見込んでいる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/"
+        },
+        {
+          "id": "2026-11-11-ai-10",
+          "star": false,
+          "headline": "Sakana AI、初のモバイルアプリを開発中",
+          "summary": "iOS・Android向けの新アプリでテスターを募集しており、デビッド・ハCEOが新たな方向性と説明した。",
+          "detail": "Sakana AIは金融・防衛分野へのAI導入や、複数モデルを組み合わせる「Sakana Fugu」、日本語特化のオープンウェイトモデル「Sakana Namazu」を手がけている。アプリの機能や提供時期は未公表。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-11-econ-1",
+          "star": true,
+          "headline": "7~9月期GDP、民間予測は年率0.4%増",
+          "summary": "4四半期連続のプラス成長となる見通しだが、個人消費は低調で設備投資が下支えする構図。",
+          "detail": "10のシンクタンクの予測によると、実質GDPは前期比0.1%増(年率0.4%増)。個人消費は0.2%減の見込みで、物価高への警戒や特需の一巡、天候不順が響いた。設備投資は省人化・AI関連需要を背景に1.8%増と成長を支える主因になる。内閣府は16日に速報値を発表する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000916&g=eco"
+        },
+        {
+          "id": "2026-11-11-econ-2",
+          "star": true,
+          "headline": "日銀、12月利上げ予想が7割台に回復",
+          "summary": "11月上旬の株式市場混乱で一時5割台前半まで下がった利上げ予想が、持ち直した。",
+          "detail": "12月に利上げが実施されれば、6月・9月に続き2026年3回目となり、37年ぶりの年3回利上げとなる。次回決定会合は12月17~18日で、株式市場の混乱が今後の判断に影響するか注目されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOCD1006R0Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-11-econ-3",
+          "star": true,
+          "headline": "国の借金、23兆円減少 2年ぶり",
+          "summary": "2026年9月末の「国の借金」は1323兆3632億円で、6月末から約23兆3201億円減った。",
+          "detail": "政府・日銀による大規模な円買い・ドル売り介入で得た円資金を政府短期証券の償還に充てたことが主因。国民1人当たりの借金は概算で約1079万円となる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000856&g=eco"
+        },
+        {
+          "id": "2026-11-11-econ-4",
+          "star": false,
+          "headline": "円相場、158円台後半に下落 1カ月半ぶり安値",
+          "summary": "米利上げ観測の高まりを背景に、円売りが優勢となった。",
+          "detail": "対ユーロでは円が上昇する場面もあり、ドルに対してのみ弱含む展開となった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL110SI0R11C26A1000000/"
+        },
+        {
+          "id": "2026-11-11-econ-5",
+          "star": false,
+          "headline": "日経平均「次の最高値は2年後」との見方 AIブームの反動大きく",
+          "summary": "AI関連株の反動が意識され、次の最高値更新には時間がかかるとの分析が出ている。",
+          "detail": "米市場でのAI投資への懸念や利上げ観測の高まりが重なり、株式市場の先行き不透明感が強まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL109YI0Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-11-econ-6",
+          "star": false,
+          "headline": "米利上げ観測が高まる FRBのインフレ対応遅れを警戒",
+          "summary": "CPI上振れを受け、0.5%の利上げ論も浮上している。",
+          "detail": "NVIDIA株が2日続落するなどAI関連株の下落も重なり、米市場の不安定さが増している。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL10CK50Q6A111C2000000/"
+        },
+        {
+          "id": "2026-11-11-econ-7",
+          "star": false,
+          "headline": "UAゼンセン、2027年春闘で6%賃上げ要求へ",
+          "summary": "ベースアップと定期昇給を合わせ6%の賃上げを求める方針案を示した。",
+          "detail": "企業規模や雇用形態による待遇差の是正が主な論点。パート層には別途7%の要求も検討されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900808&g=eco"
+        },
+        {
+          "id": "2026-11-11-econ-8",
+          "star": false,
+          "headline": "消えぬAI懸念、東京市場で売り一服も先行き不透明",
+          "summary": "AI関連株の急落をきっかけにした売りは一服したものの、警戒感はなお残っている。",
+          "detail": "米中間選挙後のデータセンター投資停滞懸念などが背景にあり、東京市場でも神経質な展開が続いている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900870&g=eco"
+        },
+        {
+          "id": "2026-11-11-econ-9",
+          "star": false,
+          "headline": "ラピダス、先端半導体の量産に遅れ",
+          "summary": "2ナノ品の量産開始が遅れており、顧客獲得や資金調達に影響が出る恐れがある。",
+          "detail": "TSMCは既に2ナノの量産を開始済みで、サムスンやインテルも追う中、ラピダスは性能・歩留まりの改善が課題。量産には約5兆円が必要で、政府・民間30社超から3兆円超の出資めどは立っているが、追加出資には成功の見通しを求める声もある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111001036&g=eco"
+        },
+        {
+          "id": "2026-11-11-econ-10",
+          "star": false,
+          "headline": "ホンダ、中間純利益4期ぶり増加",
+          "summary": "北米でのハイブリッド車需要がけん引し、4期ぶりの増益となった。",
+          "detail": "北米市場でのHV需要の強さが決算を押し上げた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111001066&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-11-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、11日参院審議入り",
+          "summary": "与党が少数の参院で、野党の主張を聞きながら法案成立を図る方針。",
+          "detail": "食料品の消費税減税を巡る法案が参院本会議で審議入りした。野党側は現行の法案には賛成できないとの立場を示しており、与党は丁寧な審議を通じて成立を目指す考え。前日には採決棄権議員への処分が行われ、党内の結束を図った。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261111de73840"
+        },
+        {
+          "id": "2026-11-11-pol-2",
+          "star": true,
+          "headline": "安保3文書改定、核政策の転換が初の論点に",
+          "summary": "自民・維新の与党協議が始まり、原子力潜水艦導入や非核三原則見直しが主要テーマとなった。",
+          "detail": "12月中下旬の閣議決定を目指し、自民の浜田靖一氏と維新の前原誠司氏が協議を主導する。政府は無人機やAIを使った新たな戦い方への対応を説明し、「拒否する能力」の獲得を打ち出した。現行の国家安保戦略は非核三原則の堅持を明記しているが、高市首相は「持ち込ませず」原則の見直しを主張しており、意見集約の難航が予想される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000131&g=pol"
+        },
+        {
+          "id": "2026-11-11-pol-3",
+          "star": true,
+          "headline": "高市政権の対中姿勢「評価」52%、「評価しない」39%",
+          "summary": "NHK世論調査で、台湾有事に関する国会答弁を機に冷え込んだ日中関係への対応が問われた。",
+          "detail": "同時期の調査では内閣支持率53%、不支持32%、自民党の政党支持率は35.9%だった。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261109de72732"
+        },
+        {
+          "id": "2026-11-11-pol-4",
+          "star": false,
+          "headline": "消費減税法案採決棄権で小渕・古川氏、税調副会長辞任",
+          "summary": "衆院本会議での採決を棄権したことを受け、自民党執行部が人事面でのけじめを求めた。",
+          "detail": "参院審議を前に党内の結束を図る動きの一環。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73714"
+        },
+        {
+          "id": "2026-11-11-pol-5",
+          "star": false,
+          "headline": "高市首相、16~19日にフィリピン・中国を訪問",
+          "summary": "ASEAN関連会議とAPEC首脳会議に出席する日程が衆院議院運営委員会で報告された。",
+          "detail": "フィリピンではトランプ米大統領との会談実現を模索するとみられ、中国では日中関係が冷え込む中、習近平国家主席との接触を探るとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000976&g=pol"
+        },
+        {
+          "id": "2026-11-11-pol-6",
+          "star": false,
+          "headline": "日米同盟強化を確認 中間選後初の外相協議",
+          "summary": "米中間選挙後初となる日米外相間の協議が行われ、同盟強化の方針を確認した。",
+          "detail": "日米両国は中間選挙後の政治情勢も踏まえ、連携の継続を確認した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000350&g=pol"
+        },
+        {
+          "id": "2026-11-11-pol-7",
+          "star": false,
+          "headline": "サイバー防御の通信遮断議論、総務省が専門家会議新設",
+          "summary": "漏えいした個人情報の悪用を防ぐため、通信事業者による「ブロッキング」の法的課題を整理する。",
+          "detail": "GMOインターネットグループへの不正アクセス事案を受けた対応。「通信の秘密」との関係が論点となり、来年初頭に中間とりまとめを行う予定。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111000921&g=pol"
+        },
+        {
+          "id": "2026-11-11-pol-8",
+          "star": false,
+          "headline": "国民健康保険料、高所得層の上限額を3万円引き上げへ調整",
+          "summary": "厚生労働省は来年度から医療分の年間上限を96万円とする方向で検討している。",
+          "detail": "中間所得層の保険料負担が伸びすぎるのを抑える狙い。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261110de73722"
+        },
+        {
+          "id": "2026-11-11-pol-9",
+          "star": false,
+          "headline": "自衛官、65歳まで勤務可能に 超党派議連が提言案",
+          "summary": "早期退職を迫られる自衛官が、希望すれば65歳まで公務員として勤務を続けられる仕組みを提案した。",
+          "detail": "退職自衛隊員・家族を支援する新庁の設置や、医療費無償化の早期実現なども求めており、年内改定の安保3文書に反映するよう要望している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110901038&g=pol"
+        },
+        {
+          "id": "2026-11-11-pol-10",
+          "star": false,
+          "headline": "富士通、防衛スタートアップの支援事業を開始",
+          "summary": "AIなど先端技術の防衛分野への活用を促すため、来年3月にサービスを始める。",
+          "detail": "防衛省・自衛隊の課題やニーズを整理し、スタートアップの公募設計や評価基準づくり、防衛特有のセキュリティ要件への対応を支援する。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026110900882&g=pol"
+        }
+      ]
+    }
+  ]
+}
