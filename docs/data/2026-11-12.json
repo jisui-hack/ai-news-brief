@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-12",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-12-ai-1",
+          "star": true,
+          "headline": "NVIDIA、ファンCEOの解任準備と米紙報道",
+          "summary": "米WSJの報道によると、NVIDIA取締役会がジェンスン・ファンCEOの解任に向けた準備を進めているとされる。",
+          "detail": "NVIDIAは11月上旬、ファン氏が外国情報機関の標的になった可能性があるとして独立調査委員会の設置を発表し、当時は取締役会として同氏への信頼を表明していた。今回の報道では同氏の不適切な関係も取り沙汰されており、解任検討が進んでいるとされるが、NVIDIAからの公式な続報は確認できていない。12日の東京市場でもAI半導体関連株に売りが広がった。",
+          "sourceLabel": "日経クロステック(元はWSJ報道)",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/news/24/03465/?ST=nxt_idx_common"
+        },
+        {
+          "id": "2026-11-12-ai-2",
+          "star": true,
+          "headline": "Anthropic、IPOロードショー開始——日本募集額は最大5500億円",
+          "summary": "SECへのS-1提出を経て11月10日から投資家向けロードショーを開始。日本募集額は最大5500億円規模の見通し。",
+          "detail": "ナスダック上場に向けた投資家説明が本格化しており、AI企業として過去最大級のIPOになる可能性がある。時事通信によると、日本では個人・機関投資家向けにみずほ証券が募集を取りまとめる。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/roadshow-launch"
+        },
+        {
+          "id": "2026-11-12-ai-3",
+          "star": false,
+          "headline": "Google、「Gemini 4 Carbon」一般提供開始",
+          "summary": "サイバーセキュリティや長時間の複雑な作業に強みを持つ最上位モデルの一般提供が始まった。",
+          "detail": "限定アクセスから一般提供へ移行し、開発者・企業向けに提供される。開発ツール「Google Antigravity」では複数エージェントが連携するチーム編成機能のプレビューも加わった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/"
+        },
+        {
+          "id": "2026-11-12-ai-4",
+          "star": false,
+          "headline": "中国AI「Qwen4」プレビュー版が登場",
+          "summary": "AlibabaのAIサービスでQwen4のプレビュー版の提供が始まった。",
+          "detail": "8月に公開された予告版アーキテクチャ「Qwen3.8-Flash-Next」を発展させたモデルとされる。正式な技術仕様やベンチマークは未公開で、提供範囲は限定的とみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/"
+        },
+        {
+          "id": "2026-11-12-ai-5",
+          "star": false,
+          "headline": "OpenAI、APIで国内推論に対応——対象は「GPT-6 Luna」のみ",
+          "summary": "OpenAIのAPIで日本国内でのデータ推論処理が可能になったが、対応するのは「GPT-6 Luna」モデルに限られる。",
+          "detail": "企業のデータ主権・レイテンシー要件に応える動きとみられるが、対応モデルが限定的なため全面的な国内利用にはまだ制約がある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/"
+        },
+        {
+          "id": "2026-11-12-ai-6",
+          "star": false,
+          "headline": "Anthropic、Claude Enterpriseのセキュリティ・管理機能を強化",
+          "summary": "データ漏えい防止(DLP)やエンドポイント検知対応(EDR)との連携など、企業向けのセキュリティ・管理機能を拡充した。",
+          "detail": "企業の情報システム部門が求めるガバナンス要件への対応を強め、大企業での導入のハードルを下げる狙いとみられる。",
+          "sourceLabel": "ITmedia(キーマンズネット)",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/"
+        },
+        {
+          "id": "2026-11-12-ai-7",
+          "star": false,
+          "headline": "Amazon、「AWS Emulator」を無償公開——コードはすべてAIエージェントが記述",
+          "summary": "AWSのAPIを手元の環境で再現できる「AWS Emulator」を無償公開した。",
+          "detail": "クラウドに接続せずAWS環境を模擬したテスト・開発が可能になる。開発に使われたコードはすべてAIエージェントが書いたとしており、AIエージェントによる開発事例としても注目されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/"
+        },
+        {
+          "id": "2026-11-12-ai-8",
+          "star": false,
+          "headline": "Notion、委託先への不正アクセスで「AIとのチャット記録」が漏えいか",
+          "summary": "Notionの委託先への不正アクセスにより、利用者がAIとやり取りしたチャット記録が漏えいした可能性があるという。",
+          "detail": "詳細な影響範囲は調査中とされる。AIアシスタント機能の利用履歴という比較的新しい種類のデータが漏えい対象に含まれる点が注目されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/"
+        },
+        {
+          "id": "2026-11-12-ai-9",
+          "star": false,
+          "headline": "United、外部AIアシスタントによる航空券予約を禁止へ",
+          "summary": "ユナイテッド航空は外部のAIアシスタントを使った航空券予約などを禁止する方針を示した。",
+          "detail": "AIエージェントが航空券購入やチェックインを代行する動きが広がる中、不正利用やトラブル防止を理由に制限を設けた形。チェックインには人間による確認を求めるとしている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/"
+        },
+        {
+          "id": "2026-11-12-ai-10",
+          "star": false,
+          "headline": "Google、選択肢特化の「Gemini Decisions API」発表",
+          "summary": "文章を生成せず、選択肢ごとの確率を返すことに特化したAPIを発表した。",
+          "detail": "分類・意思決定支援など自由文生成が不要な用途向けに、高速・低コストな推論を提供する狙いとみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-12-econ-1",
+          "star": true,
+          "headline": "日銀・浅田委員「利上げのペースに十分留意必要」",
+          "summary": "日銀の浅田秀樹審議委員が、利上げのペースについて十分な留意が必要と述べ、景気への悪影響への懸念を示した。",
+          "detail": "日銀はこれまで複数回の利上げを重ねてきたが、急速な引き上げが実体経済に与える影響を慎重に見極める姿勢を示したもの。市場では次の政策判断のタイミングや規模への関心が高まっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200441&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-2",
+          "star": false,
+          "headline": "10月企業物価7.1%上昇、原油高で伸び拡大",
+          "summary": "日銀発表の10月企業物価指数は前年比7.1%上昇し、原油価格の上昇を背景に伸び幅が拡大した。",
+          "detail": "原材料コストの高止まりが企業間取引価格に反映されており、消費者物価への波及や日銀の金融政策判断への影響が注目される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200188&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-3",
+          "star": false,
+          "headline": "急速な円安をけん制、財務官「夏の記憶忘れるのは早い」",
+          "summary": "財務官が急速な円安進行への警戒感を示す発言を行った。",
+          "detail": "対ドルで円安が進む中、政府・日銀による市場介入の可能性を意識させる発言とみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200276&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-4",
+          "star": true,
+          "headline": "円安、1ドル=159円台に迫る——日米金利差再び拡大",
+          "summary": "円相場が1ドル=159円台まで下落し、日米の金利差拡大が再び意識されている。",
+          "detail": "米国の金融政策観測や日銀の利上げペースを巡る思惑が交錯し、為替市場は神経質な展開となっている。財務官によるけん制発言も出ているが、円安圧力は続いている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL110U3TR11C26A1000000/"
+        },
+        {
+          "id": "2026-11-12-econ-5",
+          "star": false,
+          "headline": "日産、26年9月中間期は2期連続の最終赤字——円安で損益改善",
+          "summary": "日産自動車の2026年9月中間決算は2期連続の最終赤字となったが、円安の影響で前年から損益は改善した。",
+          "detail": "自動車大手各社の中間決算が相次ぎ発表される中、日産は構造改革の途上にあることが示された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100745&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-6",
+          "star": false,
+          "headline": "NISA口座開設、株高追い風で再加速",
+          "summary": "株価上昇を背景に、NISA口座の開設数が再び増加傾向にある。",
+          "detail": "企業による社員向けの利用促進策も後押しとなっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100797&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-7",
+          "star": false,
+          "headline": "中小企業向け賃上げ税制拡充を検討——5%アップで35%控除",
+          "summary": "政府・与党は中小企業向け賃上げ促進税制について、5%の賃上げで控除率を35%とする拡充を検討している。",
+          "detail": "中小企業の賃上げ環境を後押しする狙いで、来年度の税制改正に向けた議論が進んでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100624&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-8",
+          "star": false,
+          "headline": "北朝鮮ハッカーによる暗号資産窃取拡大、日本企業も標的",
+          "summary": "バイナンス攻撃などを手がけた北朝鮮系ハッカー集団による暗号資産窃取被害が拡大し、日本企業も標的になっている。",
+          "detail": "国際的なサイバー犯罪集団による暗号資産窃取が高度化しており、企業側のセキュリティ対策強化が急務となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100746&g=eco"
+        },
+        {
+          "id": "2026-11-12-econ-9",
+          "star": false,
+          "headline": "米国株、FRB「0.5%利上げ」発言に動揺——AI株急落とも連動",
+          "summary": "FRB当局者による0.5%利上げの可能性を示唆する発言が市場の不意を突き、米国株が下落した。",
+          "detail": "AI投資への過熱感への警戒とFRBの金融政策スタンスが同時に意識され、市場のボラティリティが高まっている。AI関連株の急落とも重なった。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL114PZ0R11C26A1000000/"
+        },
+        {
+          "id": "2026-11-12-econ-10",
+          "star": false,
+          "headline": "5年国債入札「低調」観測——利回り物足りず、利上げ確率上昇も重荷",
+          "summary": "利回り水準の魅力不足や利上げ確率の上昇を背景に、5年国債入札が「低調」になるとの観測が出ている。",
+          "detail": "日銀の利上げペースを巡る思惑が債券市場にも影響しており、国内投資家の需要動向が注目されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL110BJ0R11C26A1000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-12-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、13日から参院特別委で質疑——高市首相は財源詳細示さず",
+          "summary": "食料品の消費税減税法案が参院で審議入りし、13日から特別委員会で質疑が行われる。",
+          "detail": "与党が参院で過半数を持たない中、国民民主党や公明党など野党の要求への対応が法案成立の行方を左右するとみられる。高市首相は財源や支援金の詳細を示していない。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261112de74498"
+        },
+        {
+          "id": "2026-11-12-pol-2",
+          "star": true,
+          "headline": "最高裁大法廷、昨年参院選「違憲状態」と判断——格差3.13倍、合区後初",
+          "summary": "最高裁大法廷は2025年7月の参院選について、1票の格差3.13倍で「違憲状態」と判断した。",
+          "detail": "合区導入後では初めての違憲状態判断となった。選挙制度の抜本改革が進まない現状が改めて問われる形で、国会には格差是正に向けた対応が求められる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100661&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-3",
+          "star": false,
+          "headline": "衆院憲法審査会、9条巡り自民「自衛隊明記」・維新「国防軍」で集中討議",
+          "summary": "衆院憲法審査会で憲法9条をめぐる集中討議が行われ、各党の改憲案の違いが浮き彫りになった。",
+          "detail": "自民党は自衛隊の明記、日本維新の会は「国防軍」への改称を軸とする案を示した。今後の与野党協議の行方が注目される。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200095&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-4",
+          "star": false,
+          "headline": "「拒否力」構想に自民内で戸惑い——安保3文書改定、小泉氏提唱",
+          "summary": "安保3文書の改定論議で、小泉進次郎氏が提唱する「拒否力」構想に自民党内で戸惑いの声が出ている。",
+          "detail": "防衛力の考え方を再定義する動きだが、党内での理解・合意形成が追いついていない状況がうかがえる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100864&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-5",
+          "star": false,
+          "headline": "衆院議員定数、比例代表31削減法案を与党が了承",
+          "summary": "与党政策責任者会議は、衆院議員定数について比例代表を31削減する法案を了承した。",
+          "detail": "国会議員定数の見直しは選挙制度改革の一環として議論されてきた経緯があり、今後国会での法案審議に進む見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/list?g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-6",
+          "star": false,
+          "headline": "内閣府でメールアドレス6万件漏えい——配信サービスに不正アクセス",
+          "summary": "内閣府が利用する配信サービスへの不正アクセスにより、約6万件のメールアドレスが漏えいした。",
+          "detail": "政府機関の情報システムへの攻撃が相次ぐ中、セキュリティ対策の強化が改めて課題となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100748&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-7",
+          "star": false,
+          "headline": "中国、高市首相との会談に消極的姿勢——APEC巡り",
+          "summary": "中国がAPECの場での高市首相との会談に消極的な姿勢を示している。",
+          "detail": "台湾有事に関する国会答弁を機に日中関係が冷え込んでおり、中国側は「既に立場表明済み」としている。首脳間の対話再開のめどは立っていない。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100963&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-8",
+          "star": false,
+          "headline": "統一地方選、来年4月11・25日投票の特例法成立",
+          "summary": "来年の統一地方選挙について、4月11日と25日に投票を行うとする特例法が成立した。",
+          "detail": "統一地方選の日程を定める特例法は毎回の選挙前に制定されるもので、今回もこれに沿った対応となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100534&g=pol"
+        },
+        {
+          "id": "2026-11-12-pol-9",
+          "star": false,
+          "headline": "選挙運動員へのビール提供報道、武部農相「買収にあたらない」",
+          "summary": "選挙運動員にビールを提供したとの報道を受け、武部農相は「買収にはあたらない」との認識を示した。",
+          "detail": "選挙運動に関する資金・物品提供の適法性が改めて問われる事案となっている。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261112de74512"
+        },
+        {
+          "id": "2026-11-12-pol-10",
+          "star": false,
+          "headline": "防衛力変革「侵攻拒否」、装備品増産体制強化——安保3文書改定",
+          "summary": "安保3文書の改定に向け、相手の侵攻を拒む防衛力への転換を掲げ、装備品の増産体制を強化する方針が示された。",
+          "detail": "弾薬・ミサイルなど装備品の生産能力拡大が課題となっており、防衛産業基盤の強化策も合わせて検討されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111100417&g=pol"
+        }
+      ]
+    }
+  ]
+}
