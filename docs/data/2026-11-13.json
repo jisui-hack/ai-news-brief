@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-13",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-13-ai-1",
+          "star": true,
+          "headline": "NVIDIA、ジェンスン・ファンCEOが辞任——暫定CEOにクレスCFO",
+          "summary": "創業者のファン氏が11月12日(米国時間)に辞任。中国のスパイと疑われる女性や社内幹部との不倫疑惑が理由とされる。",
+          "detail": "暫定CEOにはクレスCFOが就任した。前日の解任準備報道通りの結末となり、後任探しは難航が予想されている。米国株ではエヌビディア株が売られダウ平均が189ドル安となったが、東京市場では前日の急落で「織り込み済み」との見方から株価は反発した。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12173/"
+        },
+        {
+          "id": "2026-11-13-ai-2",
+          "star": false,
+          "headline": "Google、高速・低価格の「Gemini 4 Hydrogen」発表",
+          "summary": "Gemini 4シリーズ3番目のモデルで、コーディングやAIエージェント処理での速度と効率を重視。無料ユーザーも利用可能。",
+          "detail": "第三者ベンチマークでArgonを上回る51ポイントを記録し、前世代の軽量モデルGemini 3.8 Flashの約2.5倍の速さでタスクを完了できるという。API価格は100万トークン当たり入力1.5ドル・出力7.5ドルで、Claude Sonnet 5.5やGPT-6.1 Terraとの比較では10項目中7項目でトップだったとしている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/"
+        },
+        {
+          "id": "2026-11-13-ai-3",
+          "star": false,
+          "headline": "Notion、AIチャット漏えい問題で委託先のデータ非保持に疑義",
+          "summary": "Notion AIの分析機能「Insights」のチャット記録が、委託先Fireworks.aiへの不正アクセスで漏えいした恐れがある。",
+          "detail": "ゼロデータ保持(ZDR)契約のはずが、実際には利用していたエンドポイントでデータが保持されていたことが判明した。NotionとFireworks.aiの接続は停止され、他の委託先についても検証を進めている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/"
+        },
+        {
+          "id": "2026-11-13-ai-4",
+          "star": true,
+          "headline": "Microsoft 365障害、ChatGPT・Claudeのコネクタにも影響",
+          "summary": "Outlook・Teams等が停止し、OpenAIとAnthropicはMicrosoft 365連携がほとんど動作しないと報告した。",
+          "detail": "障害は日本政府の共通業務システム「ガバメントソリューションサービス」にも波及し、霞が関で各府省庁のメールソフトが停止するなど業務に支障が出た。政府は電話やチャットなど複数の代替手段で対応した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/"
+        },
+        {
+          "id": "2026-11-13-ai-5",
+          "star": false,
+          "headline": "Google DeepMind、「AlphaGenome 2」発表",
+          "summary": "細胞の種類ごとにDNA変異の影響を予測するAIモデル。",
+          "detail": "前身のAlphaGenomeを拡張し、組織・細胞タイプ特異的な遺伝子発現への影響を予測できるようになった。病気の原因となる変異の理解を助ける研究基盤として位置付けられている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/"
+        },
+        {
+          "id": "2026-11-13-ai-6",
+          "star": false,
+          "headline": "Sakana AI、ゼロからAIモデルを独自開発する狙い",
+          "summary": "日本のAIスタートアップが、既存モデルを基にせず自前で基盤モデルを開発する方針を明らかにした。",
+          "detail": "新モデル「Sakana Sawara」(仮称)は自律型AIエージェント向けで、2026年12月に小型版の事前学習開始、2027年春の重み公開を目指す。オープンウェイトモデルの性能向上とコスト低下を好機と捉え、AI開発を「GPUの競争」ではなく「研究の競争」と位置付けている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/"
+        },
+        {
+          "id": "2026-11-13-ai-7",
+          "star": false,
+          "headline": "AWS Marketplaceで「ChatGPT Enterprise」購入可能に",
+          "summary": "OpenAIの法人向けプランがAWS Marketplaceで購入できるようになった。",
+          "detail": "既存のAWS契約・予算枠を使って導入・管理でき、支出を利用額コミットメントに充当できる。ChatGPT本体に加え「ChatGPT Work」「Codex」等の機能群も含まれ、調達の簡素化や導入期間短縮につながるとされる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/"
+        },
+        {
+          "id": "2026-11-13-ai-8",
+          "star": false,
+          "headline": "Amazon、AIエージェント向け軽量VM「AWS Nitro Sandboxes」提供開始",
+          "summary": "AIエージェントが生成した信頼できないコードを安全に隔離実行できる軽量仮想マシン。",
+          "detail": "AWS Nitro Systemによるハードウェアレベルの隔離とEC2に近い実行速度を両立させ、Amazon EC2・ECS・EKS上で利用できる。既存のコンテナイメージやデプロイパイプラインをそのまま流用できる点も特徴。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/"
+        },
+        {
+          "id": "2026-11-13-ai-9",
+          "star": false,
+          "headline": "Meta「Muse」、専用メールアドレス機能を開始",
+          "summary": "パーソナルAIエージェント「Muse」が専用メールアドレス(@muse.ai)を持てるようになった。",
+          "detail": "予約代行・予定登録・長文メールの要約などをAIに任せられる。米国・カナダでの提供開始に合わせ日本でも利用可能になり、当初は有料ユーザー向けだが今後無料ユーザーにも拡大予定。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/"
+        },
+        {
+          "id": "2026-11-13-ai-10",
+          "star": false,
+          "headline": "JR九州、非IT部門がGeminiでPythonアプリを内製開発",
+          "summary": "プログラミング未経験の担当者がGeminiを使い、外部委託なら半年〜1年かかる開発を2〜3カ月で完了させた。",
+          "detail": "運輸部門は車両データ分析や勤務シフト自動生成のWebアプリを開発し、営業部門はWebマーケティングを内製化してSEOスコアを改善した。IT人材不足とベンダー依存という多くの企業に共通する課題への対応策として注目される。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-13-econ-1",
+          "star": true,
+          "headline": "東京株式市場が反発、AI・半導体株に買い戻し",
+          "summary": "13日の日経平均は反発し、午前は997円高の6万1816円。NVIDIA CEO辞任は「織り込み済み」との見方から買いが入った。",
+          "detail": "前日の米国市場ではファン氏辞任を受けAI・半導体株が下落していたが、東京市場では反動高となり、海外勢の先物買いも相場を支えた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111300425&g=eco"
+        },
+        {
+          "id": "2026-11-13-econ-2",
+          "star": true,
+          "headline": "円相場、160円に接近——日米金利差や米利上げ観測で続落",
+          "summary": "13日午前は1ドル=159円86〜87銭まで下落し、160円に迫った。",
+          "detail": "米利上げ観測の高まりによる円売り・ドル買いが続く。片山財務相は「一方的に急激な動き」とけん制したが、当局の介入警戒感から下値は堅いとみられる。前日のニューヨーク市場では一時160円台を付けた。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL131AG0T11C26A1000000/"
+        },
+        {
+          "id": "2026-11-13-econ-3",
+          "star": false,
+          "headline": "長期金利2.870%に上昇——米長期金利の上昇に連動",
+          "summary": "国内債券市場で新発10年物国債利回りが2.870%に上昇した。",
+          "detail": "米長期金利の上昇を受けた動き。前日の5年国債入札が低調だったとの観測もあり、利上げ確率の上昇が相場の重荷となっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL130CS0T11C26A1000000/"
+        },
+        {
+          "id": "2026-11-13-econ-4",
+          "star": false,
+          "headline": "米国株反落、ダウ189ドル安——NVIDIA安が重荷",
+          "summary": "12日の米国市場でダウ工業株30種平均は反落、189ドル安で終えた。",
+          "detail": "CEO辞任を受けたエヌビディア株の下落が重荷となったが、主力ハイテク株の一角には買いが入った。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL12CCN0S6A111C2000000/"
+        },
+        {
+          "id": "2026-11-13-econ-5",
+          "star": false,
+          "headline": "ワタミ、MBO検討——株価ストップ高",
+          "summary": "創業者で会長兼社長の渡邉美樹氏の資産管理会社によるMBO検討が判明し、株価がストップ高となった。",
+          "detail": "若者を中心とした飲酒量減少で居酒屋事業が圧力を受けており、上場廃止により経営の自由度を高め事業構造改革を加速する狙いとみられる。取締役会は13日に協議する見通し。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111300340&g=eco"
+        },
+        {
+          "id": "2026-11-13-econ-6",
+          "star": false,
+          "headline": "中国SMIC、7-9月期純利益2.2倍",
+          "summary": "AI需要による半導体不足を受け国内向け供給を拡大し、純利益は前年同期比2.2倍の約680億円。",
+          "detail": "売上高は34%増の31億9003万ドルで、売上の91%を中国向けが占める。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM115U00R11C26A1000000/"
+        },
+        {
+          "id": "2026-11-13-econ-7",
+          "star": false,
+          "headline": "鴻海(フォックスコン)純利益34%増——AIサーバー需要がけん引",
+          "summary": "台湾の鴻海精密工業の7-9月期純利益は前年同期比34%増の約370億円。",
+          "detail": "売上高は46%増で10四半期連続の増収。2027年のサーバー出荷も高い2桁成長を見込む。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM117PW0R11C26A1000000/"
+        },
+        {
+          "id": "2026-11-13-econ-8",
+          "star": false,
+          "headline": "アドバンテスト株価一時7%高——AI向け検査装置を増産前倒し",
+          "summary": "半導体検査装置大手の株価が一時7%高となった。",
+          "detail": "AI向け主力検査装置の年産1万台体制を前倒しで達成する見通しが好感された。AI向け半導体需要の拡大を背景に増産計画を加速させている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL130Q40T11C26A1000000/"
+        },
+        {
+          "id": "2026-11-13-econ-9",
+          "star": false,
+          "headline": "良品計画、不正アクセスでクレカ情報漏えい——社長「責任を痛感」",
+          "summary": "「MUJIカード」の情報が最大約109万件漏えいした可能性があると発表。",
+          "detail": "2021年7月まで保持していたカード番号を削除せず残していたことが一因で、清水智社長は「責任を痛感しなければならない」と述べた。意図的だったかは調査中。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200825&g=eco"
+        },
+        {
+          "id": "2026-11-13-econ-10",
+          "star": false,
+          "headline": "10月の輸入物価、上昇加速——交易条件が再び悪化",
+          "summary": "日銀発表の企業物価指数によると、輸入物価は前年比24.8%上昇し4カ月ぶりに伸びが拡大。",
+          "detail": "原油価格の再上昇が主因で、輸入物価の上昇が輸出物価の上昇を上回ったことで交易条件も3カ月ぶりに悪化した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL115GQTR11C26A1000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-13-pol-1",
+          "star": true,
+          "headline": "消費税減税法案、参院特別委で質疑入り",
+          "summary": "食料品の消費税減税に関する法案が13日、参院特別委員会で質疑入りした。物価高対策としての効果と支援金対象が争点。",
+          "detail": "衆院では既に同様の質疑が行われている。与党は参院で過半数を持たず、公明党は現段階で賛成できないとしており、法案成立には曲折が予想される。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261113de75105"
+        },
+        {
+          "id": "2026-11-13-pol-2",
+          "star": false,
+          "headline": "公明「現段階で賛成できず」——消費減税法案",
+          "summary": "公明党の中野洋昌政調会長は12日、法案に「現段階で賛成できる状況に全くない」との考えを示した。",
+          "detail": "中低所得者向け支援金の年収下限「53万円超」について高市首相が11日に示した答弁に新しい内容がないと指摘し、政府にさらなる説明を求めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200823&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-3",
+          "star": false,
+          "headline": "衆院定数31減法案、自維国3党が共同提出",
+          "summary": "自民・維新・国民民主の3党が、衆院比例代表の定数を176から145に削減する法案を共同提出した。",
+          "detail": "消費税減税と並ぶ今国会の主要争点で、議席配分方式を中小政党に有利な修正サンラグ式に変更する内容も含む。公明党や野党の一部は反発している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200096&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-4",
+          "star": false,
+          "headline": "麻生副総裁、石破前首相を批判——消費減税の採決棄権「遺憾」",
+          "summary": "自民党の麻生太郎副総裁は、消費税減税法案の衆院採決を棄権した石破茂前首相を批判した。",
+          "detail": "石破氏は定数削減法案にも異論を示しており、党内の路線対立が表面化している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200729&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-5",
+          "star": true,
+          "headline": "「クアッド」首脳会合、17日にフィリピンで開催へ",
+          "summary": "政府は日米豪印「クアッド」の首脳会合を17日にフィリピンで開く方向で調整していると発表。高市首相は訪比・訪中を正式発表した。",
+          "detail": "高市首相は16〜19日の日程でフィリピン・中国を訪問し、ASEAN関連会議やAPEC首脳会議に出席する。冷え込む対中関係の中、習近平国家主席との対話実現が焦点。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111300397&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-6",
+          "star": false,
+          "headline": "高市首相、熊本地震の復興基金に520億円",
+          "summary": "政府は熊本地震復旧・復興本部の会合で、復興基金への特別交付税520億円の措置を決定した。",
+          "detail": "被災者の住宅再建や施設復旧を支援する。高市首相は県の復興計画に沿ってきめ細かな支援を行うとした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111300304&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-7",
+          "star": false,
+          "headline": "「違憲状態」の解決策見えず——参院1票の格差、合区に限界",
+          "summary": "最高裁大法廷が参院選を「違憲状態」と判断したことを受け、合区方式の限界が指摘されている。",
+          "detail": "合区導入後初の違憲状態判断で、国会は抜本的な制度見直しを迫られているが、具体的な解決策は見えていない。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/list?g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-8",
+          "star": false,
+          "headline": "自民・井林国交相に会費超の景品提供疑い",
+          "summary": "井林国土交通相が代表を務める党支部の催しで、会費を超える景品提供の疑いがあると報じられた。",
+          "detail": "静岡県内の支部での問題とみられ、井林氏は党費も含めて費用をまかなっていると説明している。具体的な金額や景品内容は明らかになっていない。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261113de75215"
+        },
+        {
+          "id": "2026-11-13-pol-9",
+          "star": false,
+          "headline": "ロシアによる邦人記者拘束1カ月——政府、打開策なく苦慮",
+          "summary": "ロシアに拘束されている日本人記者について拘束から1カ月が経過した。",
+          "detail": "ロシア側の圧力が強まる中、政府は打開策を見いだせず苦慮している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200936&g=pol"
+        },
+        {
+          "id": "2026-11-13-pol-10",
+          "star": false,
+          "headline": "高市首相、フィジカルAIを体感——防衛戦略17分野をアピール",
+          "summary": "高市首相はロボットが物理世界で作業する「フィジカルAI」の技術を視察した。",
+          "detail": "防衛力強化に向けた戦略17分野の一環としてアピールした。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111200715&g=pol"
+        }
+      ]
+    }
+  ]
+}
