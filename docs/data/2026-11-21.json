@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-21",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-21-ai-1",
+          "star": true,
+          "headline": "Anthropic、ナスダック上場の完了を発表",
+          "summary": "18日に1株83ドルで価格決定、20日に増資・オプション行使の完了も発表。",
+          "detail": "Anthropicは11月18日に1株83ドルでIPO価格を決定し、19日にナスダックで「ANT」として取引を開始した。20日には引受人によるグリーンシューオプションの全行使と、AMD・Broadcom・Google・Microsoft・NVIDIA・TSMCなど主要テック企業が参加した総額260億ドル規模の私募増資の完了を公式発表した。",
+          "sourceLabel": "Anthropic公式",
+          "sourceUrl": "https://www.anthropic.com/news/ipo-close"
+        },
+        {
+          "id": "2026-11-21-ai-2",
+          "star": true,
+          "headline": "NVIDIA株が14%急落、米SECが開示内容を調査とロイター報道",
+          "summary": "前CEO退任後の株価下落が続く中、SECの開示調査報道で急落が加速。",
+          "detail": "11月12日のジェンスン・フアン前CEO退任以降、NVIDIA株は下落基調にあったが、米SECが同社の情報開示が投資家に誤解を与えなかったか調査しているとロイターが報じ、週明けも急落した。AI関連株全体への売りも重なり、半導体セクター全体に波及した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN210130R21C26A1000000/"
+        },
+        {
+          "id": "2026-11-21-ai-3",
+          "star": false,
+          "headline": "Google、新モデル「Gemini 4 Neon」を発表",
+          "summary": "上位モデルに近い性能をコスト半分程度で実現、2カ月で4モデル目。",
+          "detail": "Googleが「Gemini 4 Neon」を発表した。上位モデルGemini 4 Carbonに近い性能をコスト約半分で実現したとされ、わずか2カ月で4つ目のモデル公開となり開発競争の速さを印象付けた。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/"
+        },
+        {
+          "id": "2026-11-21-ai-4",
+          "star": false,
+          "headline": "ElevenLabs、日本の音声AIスタートアップKotobaを約159億円で買収",
+          "summary": "社員15人の東京拠点企業を買収、東アジア言語に強い音声AI技術を評価。",
+          "detail": "音声AI大手ElevenLabsが、東京に開発拠点を持つKotoba Technologies（社員15人）を約159億円で買収すると発表した。東アジア言語に強い音声AI「Koto」の技術力が評価されたとみられ、ElevenLabsにとって日本初の買収となる。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/"
+        },
+        {
+          "id": "2026-11-21-ai-5",
+          "star": false,
+          "headline": "IDC調査「AIで成果を出す企業ほど人を増やす」",
+          "summary": "生産性向上=人員削減という通説を否定する調査結果。",
+          "detail": "IDCの調査によると、AI活用で成果を上げている企業ほど人員を増やす傾向にあり、「AI導入は人員削減につながる」という一般的な見方とは異なる結果となった。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html"
+        },
+        {
+          "id": "2026-11-21-ai-6",
+          "star": false,
+          "headline": "Microsoft、AI攻撃に対抗する新サービス「Microsoft Perception」提供開始",
+          "summary": "AIによるサイバー攻撃の検知・対応をAIエージェントで自動化。",
+          "detail": "攻撃側のAI活用が進む中、Microsoftは防御側もAIエージェントで検知・対応を自動化する新サービス「Microsoft Perception」の提供を開始した。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/"
+        },
+        {
+          "id": "2026-11-21-ai-7",
+          "star": false,
+          "headline": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁",
+          "summary": "「Business Standard」プランは全ユーザーが対象に。",
+          "detail": "OpenAIがChatGPTの新機能「dots」の提供を段階的に拡大し、「Plus」プランの一部ユーザーと「Business Standard」プランの全ユーザーが利用可能になった。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/"
+        },
+        {
+          "id": "2026-11-21-ai-8",
+          "star": false,
+          "headline": "Mac版「Gemini」に「computer use」機能追加、まず米国で",
+          "summary": "ユーザーの代わりにアプリを操作するエージェント機能をデスクトップに拡張。",
+          "detail": "Googleが、Mac版アプリ「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能を追加した。まず米国で提供を開始する。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/"
+        },
+        {
+          "id": "2026-11-21-ai-9",
+          "star": false,
+          "headline": "AI需要で半導体設計のArm、新ビジネスでシェア「0→50%」に急成長",
+          "summary": "AIチップ需要の高まりを受けArmが急速にシェアを拡大。",
+          "detail": "AIチップ需要の高まりを背景に、半導体設計大手Armが新たなビジネス領域でシェアを0%から50%まで急速に拡大していると報じられた。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html"
+        },
+        {
+          "id": "2026-11-21-ai-10",
+          "star": false,
+          "headline": "京都大学、AI依存チェックリストを公開",
+          "summary": "過度なAI利用への注意を促す内容。",
+          "detail": "京都大学が、生成AIへの依存度を確認できるチェックリストを公開した。「当てはまるものがあれば、しばらくAIに触れないよう」促す内容となっている。",
+          "sourceLabel": "ITmedia AI+",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-21-econ-1",
+          "star": true,
+          "headline": "東京株、AI・半導体株中心に急落　終値3007円安",
+          "summary": "海外AI関連株の急落を受け国内半導体株に売りが広がった。",
+          "detail": "20日の東京株式市場は一時2800円超安となり、終値は前日比3007円安。NVIDIAなど海外のAI関連株の急落を受けて、国内の半導体関連株に売りが広がったことが背景にある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000735&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-2",
+          "star": true,
+          "headline": "アンソロピック株急落、一時15%安で公開価格割れ迫る",
+          "summary": "米国株続落・世界株安に波及、AI株高値警戒が強まる。",
+          "detail": "上場間もないアンソロピック株がNVIDIA株安などと重なり急落し、一時15%安まで下落して公開価格割れが迫った。ナスダックも大幅安となり、シンガポールやロンドンなど海外市場にも売りが連鎖した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN20C900Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-21-econ-3",
+          "star": false,
+          "headline": "三井住友銀、最大1400万件情報流出　委託先「KARTE」不正アクセス",
+          "summary": "丸井GやJINSなど2200社に影響の可能性。",
+          "detail": "顧客体験基盤「KARTE」を提供するプレイドが不正アクセスを受け、サーバーの脆弱性を突かれて認証情報が窃取された。導入企業には三井住友銀行をはじめ金融機関や小売大手も含まれ、最大1400万件規模の情報流出に発展している可能性がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001197&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-4",
+          "star": false,
+          "headline": "10月の全国消費者物価、前年比2.2%上昇",
+          "summary": "電気・ガス代の補助縮小が押し上げ要因。",
+          "detail": "総務省が発表した10月の全国消費者物価指数は前年同月比2.2%上昇した。電気・ガス代の補助縮小が押し上げ要因となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000284&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-5",
+          "star": false,
+          "headline": "JT減配、国の財政に影響も　ロシア子会社連結除外で巨額損失",
+          "summary": "2026年12月期にロシア子会社を連結除外し巨額損失を計上。",
+          "detail": "JTが2026年12月期にロシア子会社を連結除外したことで巨額損失を計上し、減配観測が出ている。JT株を保有する国の財政にも影響が及ぶ可能性がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001091&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-6",
+          "star": false,
+          "headline": "楽天証券の情報流出「遺憾」、片山金融相が再発防止徹底を要請",
+          "summary": "金融業界で相次ぐ不正アクセス事案の一つ。",
+          "detail": "楽天証券で発生した不正アクセスによる情報流出について、片山金融相が「遺憾」とし、再発防止の徹底を求めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000406&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-7",
+          "star": false,
+          "headline": "財政審、「市場の信認が今ほど重要な時はない」と建議",
+          "summary": "物価・金利上昇リスクに警鐘、財政規律の維持を求める。",
+          "detail": "財政制度等審議会が、市場の信認維持の重要性を強調する建議を示した。物価や金利の上昇リスクに警鐘を鳴らし、財政規律の維持を求める内容となっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001021&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-8",
+          "star": false,
+          "headline": "NY債券、米AI株安でリスク回避の買い　10年債利回り4.94%",
+          "summary": "長期債は続伸、株安と金利の綱引きが続く。",
+          "detail": "米国のAI関連株安を受け、NY債券市場ではリスク回避の買いが優勢となった。10年債利回りは4.94%となり、長期債は続伸した。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL20CN60Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-21-econ-9",
+          "star": false,
+          "headline": "韓国SK、キオクシアHDの実質筆頭株主に　14.1%を間接保有へ",
+          "summary": "転換社債の転換により議決権取得が可能になる仕組み。",
+          "detail": "韓国SKハイニックスが、キオクシアHDの株式14.1%を間接保有し実質筆頭株主となる。転換社債の転換により議決権取得が可能になる仕組みだが、日本政府の事前承認などの制約がある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001198&g=eco"
+        },
+        {
+          "id": "2026-11-21-econ-10",
+          "star": false,
+          "headline": "NY円相場、米国株安・金利低下を受けて反発　1ドル=158円40〜50銭",
+          "summary": "直前は159円台で推移していた。",
+          "detail": "NY外国為替市場で円が反発し、1ドル=158円40〜50銭で推移した。米国株安や金利低下が背景にある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL20CP60Q6A121C2000000/"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-21-pol-1",
+          "star": true,
+          "headline": "政府ネットワークに不正アクセス、情報漏えいの可能性—デジタル庁が発表",
+          "summary": "25の政府機関が使う共通システムで約3.5カ月にわたり不審なアクセス。",
+          "detail": "デジタル庁は、政府共通の業務基盤「GSS」のファイル共有サービスで、7月30日から11月12日までの間に正規の利用者以外からのアクセスがあったことを確認したと発表した。デジタル庁や総務省、経産省、法務省、金融庁など25の政府機関が利用するシステムで、現時点で情報の悪用などの2次被害は確認されていないという。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261120de79445"
+        },
+        {
+          "id": "2026-11-21-pol-2",
+          "star": true,
+          "headline": "関芳弘文科相の政治資金パーティー問題、複数の野党から辞任要求が相次ぐ",
+          "summary": "省庁職員の出席が計4回判明、関氏は辞任を否定。",
+          "detail": "議員会館での内規違反のパーティー開催（2020・2024年）を巡り、2024年には厚生労働省職員が講師役として参加するなど、省庁職員の出席が計4回あったことが判明した。野党は閣僚辞任を求めているが、関氏は辞任を否定している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261121de79475"
+        },
+        {
+          "id": "2026-11-21-pol-3",
+          "star": true,
+          "headline": "安保3文書の改定論議、与党内で防衛費の大幅増額を求める声が強まる",
+          "summary": "日本維新の会は防衛費70兆円規模を要求。",
+          "detail": "年末に予定される安全保障関連3文書の改定に向け、与党内で防衛費の大幅増額を求める声が強まっている。日本維新の会は防衛費70兆円規模を要求するなど、議論が活発化している。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261121de79473"
+        },
+        {
+          "id": "2026-11-21-pol-4",
+          "star": false,
+          "headline": "高市首相、ICCの赤根智子所長と来週面会へ、支持方針を伝達か",
+          "summary": "国際刑事裁判所への日本の支持姿勢を改めて示す見通し。",
+          "detail": "高市首相が来週、国際刑事裁判所（ICC）の赤根智子所長と面会する見通しとなった。ICCへの日本の支持方針を改めて伝達するとみられる。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261120de79444"
+        },
+        {
+          "id": "2026-11-21-pol-5",
+          "star": false,
+          "headline": "安全保障上重要な土地の取得規制法案、衆院内閣委で可決",
+          "summary": "外国資本等による重要施設周辺の土地取得への規制を強化。",
+          "detail": "安全保障上重要な土地の取得を規制する法案が、衆院内閣委員会で可決された。外国資本等による重要施設周辺の土地取得への規制を強化する内容。",
+          "sourceLabel": "NHK",
+          "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261120de79452"
+        },
+        {
+          "id": "2026-11-21-pol-6",
+          "star": false,
+          "headline": "公明党、消費税減税法案の修正案をまとめる　政府拒否なら「反対」",
+          "summary": "西田幹事長が表明、与党内の調整が続く。",
+          "detail": "公明党が消費税減税法案の修正案をまとめた。西田幹事長は、政府が修正案を拒否した場合には法案に「反対」する構えを示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001105&g=pol"
+        },
+        {
+          "id": "2026-11-21-pol-7",
+          "star": false,
+          "headline": "日本、「法の支配」に基づく国際秩序の強化に注力　米中ロ会談の定例化を警戒",
+          "summary": "国際秩序の変化を象徴する会談と位置づけ分析が相次ぐ。",
+          "detail": "米中ロ首脳会談を受け、日本政府は「法の支配」に基づく国際秩序の強化に注力する方針を示した。会談の定例化による国際秩序への影響を警戒しているとみられる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001015&g=pol"
+        },
+        {
+          "id": "2026-11-21-pol-8",
+          "star": false,
+          "headline": "中国、高市首相の台湾有事発言に改めて「是正」要求　日中「良好でない」93%で過去最高",
+          "summary": "APEC首脳会議でも日中首脳会談は見送り。",
+          "detail": "中国政府が高市首相の台湾有事に関する発言について改めて「是正」を要求した。内閣府調査では、日中関係を「良好でない」と答えた割合が過去最高の93%に達し、APEC首脳会議の機会でも日中首脳会談は見送られた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000896&g=pol"
+        },
+        {
+          "id": "2026-11-21-pol-9",
+          "star": false,
+          "headline": "与党、衆院議員定数削減法案の月内衆院通過を目指す",
+          "summary": "野党は懸念を表明、自民は「正解はない」と議論継続の姿勢。",
+          "detail": "与党が衆院議員定数削減法案の月内衆院通過を目指す方針を示した。野党側は懸念を表明しているが、自民党は「正解はない」として議論を進める姿勢を示している。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001100&g=pol"
+        },
+        {
+          "id": "2026-11-21-pol-10",
+          "star": false,
+          "headline": "外国代理人の登録義務づけ、「身分偽り公務員接触は罰則対象」政府方針",
+          "summary": "スパイ防止法制の一環として制度設計が進む。",
+          "detail": "外国代理人の登録を義務づける制度の設計について、政府は「身分を偽って公務員に接触した場合は罰則の対象とする」との考え方を示した。スパイ防止法制の一環として検討が進んでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001230&g=pol"
+        }
+      ]
+    }
+  ]
+}
