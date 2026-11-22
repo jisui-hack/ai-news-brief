@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-22",
+  "sections": [
+    {
+      "title": "AI業界・技術関連",
+      "articles": [
+        {
+          "id": "2026-11-22-ai-1",
+          "star": true,
+          "headline": "Anthropicの数学者、Claudeと共同で「リーマン予想」証明と主張",
+          "summary": "Leanコミュニティが証明の正しさを形式的に認定した。",
+          "detail": "証明は自動定理証明システム「Lean」上で記述され、信頼されている検証コミュニティによるチェックを経て正しいと確認された。150年以上未解決とされてきた数論の超難問にAIが活用された事例として、数学研究におけるAIの実用性を示す出来事として注目されている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/"
+        },
+        {
+          "id": "2026-11-22-ai-2",
+          "star": true,
+          "headline": "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装へ",
+          "summary": "日本発の生成AI企業が海外大手クラウド企業と組み、行政・公共機関向けのAI活用を本格化。",
+          "detail": "サカナAIが米セールスフォースと連携し、公共分野向けにAIモデルを実装する取り組みを進める。国産AIモデルの海外展開・実装力を示す事例として注目される。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC200KB0Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-22-ai-3",
+          "star": false,
+          "headline": "日立、OpenAIのサイバー防衛に参画 重要インフラの脆弱性対策を強化",
+          "summary": "AIによるサイバー攻撃の増加を背景に、重要インフラ事業者とAI企業が連携。",
+          "detail": "日立製作所がOpenAIのサイバー防衛の取り組みに参画し、重要インフラの脆弱性対策強化に協力する。日立のインフラ知見とOpenAIのAI技術を組み合わせる狙いとみられる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC202110Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-22-ai-4",
+          "star": false,
+          "headline": "GVA TECHなど3社、判例検索強化へ連携 2027年に3000人獲得目指す",
+          "summary": "リーガルテック企業同士の協業でサービスの競争力を高める狙い。",
+          "detail": "リーガルテック企業のGVA TECHなど3社が判例検索機能の強化に向けて連携し、2027年までに3000人のユーザー獲得を目指す。法律分野でのAI活用が進む中、国内スタートアップ同士の協業事例となる。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC18C990Y6A111C2000000/"
+        },
+        {
+          "id": "2026-11-22-ai-5",
+          "star": false,
+          "headline": "米政府、中国製AIの利用開示を義務付ける検討か",
+          "summary": "米中のAI技術対立の中、安全保障上の懸念から利用実態の把握を目指すとみられる。",
+          "detail": "ロイターの報道によると、米政府が国内企業に中国製AIの利用状況の開示を義務付ける検討をしているとされる。実現すれば企業のAI調達・活用方針にも影響を与える可能性がある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN201EB0Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-22-ai-6",
+          "star": false,
+          "headline": "TSMCやサムスン、対中半導体出荷を一部停止 AIチップの米輸出規制で",
+          "summary": "規制順守のため主要半導体メーカーが出荷を調整。",
+          "detail": "米国が対中輸出規制を強化する中、TSMCやサムスン電子が規制順守のため中国向け半導体出荷を一部停止したことが分かった。AI半導体のサプライチェーンに影響が及ぶ可能性がある。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-22-ai-7",
+          "star": false,
+          "headline": "Metaの「Muse」好調な滑り出し、利用者の4分の1が買い物に利用",
+          "summary": "AIエージェントが購買行動に浸透し始めている実例。",
+          "detail": "Metaが提供するAIアシスタント「Muse」の利用が好調で、利用者の4分の1がショッピング用途で使っているという。コーディングエージェント「Muse Code」とは別に、消費者向けMuseの普及が進んでいる。",
+          "sourceLabel": "日経クロステック",
+          "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/111600191/"
+        },
+        {
+          "id": "2026-11-22-ai-8",
+          "star": false,
+          "headline": "「Muse」専用メールアドレスが無料で作成可能に",
+          "summary": "AIがメールの送受信を代理できるようになった。",
+          "detail": "Metaの「Muse」向けに専用メールアドレスを無料で作成できるようになった。AIエージェントが実務を代行する機能の一つとして、メール対応の自動化が進められている。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/"
+        },
+        {
+          "id": "2026-11-22-ai-9",
+          "star": false,
+          "headline": "「Antigravity」を他社AIから操作すると利用停止の可能性",
+          "summary": "Google Cloud日本法人に確認したところ規約違反の可能性があるという。",
+          "detail": "Googleの開発環境「Antigravity」を他社のAIツールから操作すると、規約違反として利用停止となる可能性があることがITmediaの取材で分かった。AI開発ツール同士の連携が広がる一方、プラットフォーム利用規約が実態に追いついていない面がある。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/"
+        },
+        {
+          "id": "2026-11-22-ai-10",
+          "star": false,
+          "headline": "企業のAI選定、ChatGPT・Copilot・Geminiの勢力図に変化",
+          "summary": "導入判断の基準が性能だけでなく業務適合性に移ってきている。",
+          "detail": "企業がAIツールを選ぶ基準が変わりつつあり、ChatGPT、Microsoft Copilot、GoogleのGeminiの間で採用の勢力図に変化が出ているという。各社のAIツールが機能・価格面で競い合う中、導入判断の基準が業務適合性や統合のしやすさに移ってきているとみられる。",
+          "sourceLabel": "ITmedia",
+          "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/"
+        }
+      ]
+    },
+    {
+      "title": "日本経済関連",
+      "articles": [
+        {
+          "id": "2026-11-22-econ-1",
+          "star": true,
+          "headline": "米国株急落でリスク回避強まる 日経平均「年内5万円接近」の声も",
+          "summary": "AI関連株の急落が米国市場を中心に連鎖し、日本株にも売りが波及。",
+          "detail": "NVIDIAやAnthropicなどAI関連株の急落が米国市場を中心に連鎖し、日本株にも売りが波及している。AI関連株への過熱感に対する警戒が強まる中、年末にかけての相場の不安定さが懸念されている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB211CX0R21C26A1000000/"
+        },
+        {
+          "id": "2026-11-22-econ-2",
+          "star": true,
+          "headline": "S&P500が調整局面入り、AI株高のピークは過ぎたか",
+          "summary": "主要AI関連株の急落が重なり、AI株高への警戒感が広がる。",
+          "detail": "米国の代表的な株価指数S&P500が調整局面入りし、AI関連株主導の相場上昇がピークを過ぎたのではないかとの見方が出ている。NVIDIAやAnthropicなど主要AI関連株の急落が重なり、市場では過熱していたAI株高への警戒感が広がっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/"
+        },
+        {
+          "id": "2026-11-22-econ-3",
+          "star": false,
+          "headline": "銀行預金「1億円以上」3.6倍に 富裕層に資産集中—日銀統計",
+          "summary": "金利上昇や資産運用環境の変化を背景に資産格差の拡大が浮き彫りに。",
+          "detail": "日銀の統計によると、1億円以上の銀行預金を持つ件数がこの数年で3.6倍に増加し、富裕層への資産集中が進んでいることが分かった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112100141&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-4",
+          "star": false,
+          "headline": "NYダウ続落、5日で4000ドル超安 7カ月ぶり安値",
+          "summary": "AI関連株の急落をきっかけにした世界的な株安の流れが続く。",
+          "detail": "ニューヨーク株式市場でダウ工業株30種平均が続落し、5営業日で4000ドルを超える下落となり7カ月ぶりの安値をつけた。投資家のリスク回避姿勢が強まっている。",
+          "sourceLabel": "日本経済新聞",
+          "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL2100G0R21C26A1000000/"
+        },
+        {
+          "id": "2026-11-22-econ-5",
+          "star": false,
+          "headline": "大卒内定率73.0%、2年ぶり低下も高水準維持—10月時点",
+          "summary": "企業の採用意欲は総じて強いが、採用計画を見直す動きも一部に。",
+          "detail": "来春卒業予定の大学生の就職内定率(10月1日時点)は73.0%で2年ぶりに前年を下回ったが、依然高水準を維持した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000723&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-6",
+          "star": false,
+          "headline": "マイクロソフトの大規模障害、「安定稼働を」とデジタル相が要請",
+          "summary": "行政・企業活動に広く使われるサービスの障害で政府が再発防止を要請。",
+          "detail": "マイクロソフトのサービスで発生した大規模障害を受け、デジタル担当相が安定稼働を要請した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000501&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-7",
+          "star": false,
+          "headline": "中国勢の台頭に危機感、部品共通化へ異例の協力—自動車業界",
+          "summary": "国際競争の激化を受け業界横断でコスト削減・開発スピード向上を狙う。",
+          "detail": "中国メーカーの台頭に危機感を強める日本の自動車業界で、部品の共通化に向けた異例の協力の動きが出ている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111901030&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-8",
+          "star": false,
+          "headline": "自由貿易体制、形骸化の一途 輸出管理や高関税が拡大—APEC",
+          "summary": "保護主義的な政策の広がりで貿易自由化の枠組みが形骸化しているとの懸念。",
+          "detail": "APEC(アジア太平洋経済協力会議)の議論を通じて、輸出管理や高関税の拡大により自由貿易体制が形骸化しているとの分析が示された。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026111901246&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-9",
+          "star": false,
+          "headline": "韓国・中国産鋼材に不当廉売関税、12月から—政府",
+          "summary": "安価な輸入鋼材による国内企業への損害を防ぐ対抗措置。",
+          "detail": "日本政府は韓国・中国産の鋼材について不当廉売(ダンピング)関税を12月から課す方針を決めた。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001108&g=eco"
+        },
+        {
+          "id": "2026-11-22-econ-10",
+          "star": false,
+          "headline": "コメ店頭価格、2週ぶり上昇 5キロ2773円",
+          "summary": "新米収穫量が長雨で下方修正される一方、供給は依然高水準。",
+          "detail": "コメの店頭価格が2週ぶりに上昇し、5キロあたり2773円となった。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001058&g=eco"
+        }
+      ]
+    },
+    {
+      "title": "日本政治関連",
+      "articles": [
+        {
+          "id": "2026-11-22-pol-1",
+          "star": true,
+          "headline": "関文科相の進退が焦点に 与党内から辞任論、野党は問責決議の判断へ",
+          "summary": "自民幹事長が交代を示唆、国民民主代表は「問責に値する」と追及。",
+          "detail": "政治資金パーティーへの省庁職員出席問題を抱える関文部科学相の進退が焦点となり、与党内からも交代論が浮上、野党は問責決議案提出の判断を迫っている。消費税減税法案など今国会の重要議案の審議への影響が懸念されている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112100387&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-2",
+          "star": true,
+          "headline": "次期防衛費「60兆円」、財源をローン(国債)に依存する方針に与党内から猛反発",
+          "summary": "安保3文書改定論議が本格化、財政負担拡大への懸念が強まる。",
+          "detail": "安全保障3文書改定に伴う防衛費の大幅増額方針について、財源を国債発行(ローン)に依存する案に対し与党内から「無責任」との批判が上がっている。日本維新の会はより大規模な70兆円規模の防衛費を要求するなど、各党の主張の違いも鮮明になっている。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112100340&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-3",
+          "star": false,
+          "headline": "日チリ防衛相会談、安全保障分野の連携強化を確認",
+          "summary": "インド太平洋地域における安全保障協力の広がりを示す一例。",
+          "detail": "日本とチリの防衛相が会談し、安全保障分野での連携強化を確認した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000772&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-4",
+          "star": false,
+          "headline": "高市首相、ペルーのフジモリ大統領と初会談 重要鉱物分野で連携",
+          "summary": "サプライチェーン多様化の一環で資源国との関係強化を図る。",
+          "detail": "高市首相はペルーのフジモリ大統領と初めて会談し、重要鉱物分野での連携を確認した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000964&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-5",
+          "star": false,
+          "headline": "維新・前原氏「中国の狭量さを表した」 高市首相へのAPEC接遇を批判",
+          "summary": "機体とタラップの段差などが問題視され、日中関係の緊張が改めて浮き彫りに。",
+          "detail": "日本維新の会の前原氏は、APECの場での高市首相への中国側の接遇について「中国の狭量さを表した」と批判した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112001181&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-6",
+          "star": false,
+          "headline": "自民、人口減少対策で「戦略庁」創設を政府へ提言へ",
+          "summary": "人口減少への危機感から専門の行政組織を設ける構想が浮上。",
+          "detail": "自民党は人口減少対策として新たに「戦略庁」を創設するよう、来月政府に提言する方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000911&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-7",
+          "star": false,
+          "headline": "参政党、立候補者の「帰化歴」開示を義務付ける法案を提出へ",
+          "summary": "二重国籍者の出馬禁止も盛り込む方針。",
+          "detail": "参政党は国政選挙の立候補者に帰化歴の開示を義務付け、二重国籍者の出馬を禁止する法案を国会に提出する方針を示した。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000900&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-8",
+          "star": false,
+          "headline": "政府広報でユーチューバー起用、「受け狙い」と野党が批判",
+          "summary": "起用されたユーチューバーの過去の発信内容への指摘も。",
+          "detail": "政府広報にユーチューバーを起用したことについて、「受け狙い」だとして野党が問題視している。起用者の過去の発信内容が十分にチェックされていなかったとの指摘もある。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000946&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-9",
+          "star": false,
+          "headline": "台湾代表と接触した件、政府は回答せず",
+          "summary": "日中関係が緊張する中、接触の有無や内容を政府が明言せず。",
+          "detail": "日本政府関係者が台湾代表と接触したとされる件について、政府は明確な回答をしていない。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000970&g=pol"
+        },
+        {
+          "id": "2026-11-22-pol-10",
+          "star": false,
+          "headline": "市町村と児童相談所の連携を緊急点検へ こども家庭庁",
+          "summary": "相次ぐ児童虐待事案を受け、対応体制の強化を検討。",
+          "detail": "相次ぐ児童虐待事案を受け、こども家庭庁は市町村と児童相談所の連携状況について緊急点検を行う方針を示した。関係機関の情報共有や対応の遅れが指摘される事案が相次いでいる。",
+          "sourceLabel": "時事通信",
+          "sourceUrl": "https://www.jiji.com/jc/article?k=2026112000719&g=eco"
+        }
+      ]
+    }
+  ]
+}
